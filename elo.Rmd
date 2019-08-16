@@ -1,0 +1,89 @@
+---
+title: "Elo"
+output: html_notebook
+---
+
+Baseado em: https://edomt.github.io/Elo-R-WorldCup/
+
+```{r, warning = FALSE, message = FALSE}
+library(dplyr)
+library(elo)
+
+load("sets.RData")
+```
+
+```{r}
+players = data.frame(player = unique(c(sets$p1, sets$p2))) %>%
+  mutate(elo = 1500) %>%
+  na.omit()
+
+players
+```
+
+```{r}
+sets = sets %>%
+  mutate(result = if_else(score1 > score2, 1, 0))
+
+sets
+```
+
+```{r}
+#tournaments = unique(sets$tournament)
+
+#tournaments
+```
+
+```{r}
+#for(i in 1:length(tournaments)){
+  #pre_tournament = players %>%
+    #mutate(net = 0)
+  
+  #sets_tournament = sets %>%
+    #filter(tournament == tournaments[i])
+  
+  #for(j in 1:nrow(sets_tournament)){
+    #set = sets_tournament[j,]
+    #p1_elo = subset(players, player == set$p1)$elo
+    #p2_elo = subset(players, player == set$p2)$elo
+    
+    #new_elo = elo.calc(wins.A = set$result,elo.A = p1_elo, elo.B = p2_elo, k = 20)
+    #p1_new_elo = new_elo[1, 1]
+    #p2_new_elo = new_elo[1, 2]
+    
+    #pre_tournament = pre_tournament %>%
+      #mutate(net = if_else(player == set$p1, net + p1_new_elo - elo,
+                           #if_else(player == set$p2, net + p2_new_elo - elo, net)))
+  #}
+  #players = pre_tournament %>%
+    #mutate(elo = elo + net) %>%
+    #select(-net)
+#}
+```
+
+```{r}
+for (i in 1:nrow(sets)) {
+  set = sets[i,]
+
+  p1_elo = subset(players, player == set$p1)$elo
+  p2_elo = subset(players, player == set$p2)$elo
+  
+  new_elo = elo.calc(wins.A = set$result,
+                      elo.A = p1_elo,
+                      elo.B = p2_elo,
+                      k = 30)
+  
+  p1_new_elo = new_elo[1, 1]
+  p2_new_elo = new_elo[1, 2]
+  
+  players = players %>%
+    mutate(elo = if_else(player == set$p1, p1_new_elo,
+                         if_else(player == set$p2, p2_new_elo, elo)))
+}
+```
+
+```{r}
+players %>%
+  arrange(desc(elo))
+```
+
+Outro problema: a mesma pessoa usando tags diferentes.

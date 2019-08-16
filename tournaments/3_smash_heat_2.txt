@@ -1,0 +1,280 @@
+{
+  "data": {
+    "event": {
+      "tournament": {
+        "name": "Smash Heat 2",
+        "id": 138297
+      },
+      "id": 318427,
+      "name": "Smash Heat 2",
+      "sets": {
+        "nodes": [
+          {
+            "fullRoundText": "Grand Final",
+            "displayScore": "BC | RevoS 3 - AD | Roboto 0"
+          },
+          {
+            "fullRoundText": "Winners Final",
+            "displayScore": "BC | RevoS 3 - UF | Sabino 0"
+          },
+          {
+            "fullRoundText": "Losers Final",
+            "displayScore": "UF | Sabino 1 - AD | Roboto 3"
+          },
+          {
+            "fullRoundText": "Losers Semi-Final",
+            "displayScore": "AD | Roboto 3 - BenQ | BeBop 1"
+          },
+          {
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "BC | RevoS 3 - BenQ | BeBop 0"
+          },
+          {
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "Dr. Lemos 1 - UF | Sabino 3"
+          },
+          {
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "Dr. Lemos 0 - AD | Roboto 3"
+          },
+          {
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "BenQ | BeBop 3 - Mimok 0"
+          },
+          {
+            "fullRoundText": "Losers Round 5",
+            "displayScore": "Bent 0 - AD | Roboto 3"
+          },
+          {
+            "fullRoundText": "Losers Round 5",
+            "displayScore": "Mimok 3 - BC | LeoDT 1"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "Dr. Lemos 2 - Ozzy 0"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "UF | Sabino 2 - Mimok 0"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "AD | Roboto 0 - BC | RevoS 2"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "BC | Amortaxx 0 - BenQ | BeBop 2"
+          },
+          {
+            "fullRoundText": "Losers Round 4",
+            "displayScore": "BC | Amortaxx 0 - Bent 2"
+          },
+          {
+            "fullRoundText": "Losers Round 4",
+            "displayScore": "AD | Roboto 2 - BC | Roc~ 1"
+          },
+          {
+            "fullRoundText": "Losers Round 4",
+            "displayScore": "Mimok 2 - UF | Ultimate 1"
+          },
+          {
+            "fullRoundText": "Losers Round 4",
+            "displayScore": "Ozzy 0 - BC | LeoDT 2"
+          },
+          {
+            "fullRoundText": "Losers Round 3",
+            "displayScore": "Bent 2 - LUGIA 1"
+          },
+          {
+            "fullRoundText": "Losers Round 3",
+            "displayScore": "Alonso 0 - BC | Roc~ 2"
+          },
+          {
+            "fullRoundText": "Losers Round 3",
+            "displayScore": "UF | Oliveira 1 - UF | Ultimate 2"
+          },
+          {
+            "fullRoundText": "Losers Round 3",
+            "displayScore": "BC | LeoDT 2 - BC | HeadBenzi 0"
+          },
+          {
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "AD | Roboto 2 - BC | HeadBenzi 0"
+          },
+          {
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "BC | LeoDT 1 - BC | RevoS 2"
+          },
+          {
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "UF | Ultimate 0 - BC | Amortaxx 2"
+          },
+          {
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "BenQ | BeBop 2 - Rates 0"
+          },
+          {
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "BC | Roc~ 1 - Dr. Lemos 2"
+          },
+          {
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "AD | Pete 0 - Ozzy 2"
+          },
+          {
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "UF | Sabino 2 - Ihmo 0"
+          },
+          {
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "Maleson 0 - Mimok 2"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "Maleson 0 - Bent 2"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "Ihmo 0 - LUGIA 2"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "AD | Pete 0 - Alonso 2"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "BC | Roc~ 2 - Gim 0"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "Rates 0 - UF | Oliveira 2"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "UF | Ultimate 2 - UF | ChaosPrime 0"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "BC | LeoDT 2 - BC | Burtao 0"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "BC | HeadBenzi 2 - ace 0"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "Bent 2 - Arch 0"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "AD | Afro 1 - LUGIA 2"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "Simic 0 - Alonso 2"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "Gim 2 - BC | Thi Festa 1"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "Sully 0 - UF | Oliveira 2"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "UF | ChaosPrime 2 - BC | RoD 1"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "BC | Burtao 2 - JoJo Rama 0"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "ROT | Lance 1 - ace 2"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "AD | Roboto 2 - Bent 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "BC | HeadBenzi 2 - Arch 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "AD | Afro 0 - BC | LeoDT 2"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "BC | RevoS 2 - LUGIA 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "UF | Ultimate 2 - Simic 1"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "BC | Amortaxx 2 - Alonso 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "BenQ | BeBop 2 - Gim 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "BC | Thi Festa 0 - Rates 2"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "BC | Roc~ 2 - Sully 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "Dr. Lemos 2 - UF | Oliveira 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "UF | ChaosPrime 1 - AD | Pete 2"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "BC | RoD 1 - Ozzy 2"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "UF | Sabino 2 - BC | Burtao 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "Ihmo 2 - JoJo Rama 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "Maleson 2 - ROT | Lance 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "Mimok 2 - ace 1"
+          }
+        ]
+      }
+    }
+  },
+  "extensions": {
+    "cacheControl": {
+      "version": 1,
+      "hints": [
+        {
+          "path": [
+            "event"
+          ],
+          "maxAge": 60,
+          "scope": "PRIVATE"
+        }
+      ]
+    },
+    "queryComplexity": 126
+  },
+  "actionRecords": []
+}

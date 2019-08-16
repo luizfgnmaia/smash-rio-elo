@@ -1,0 +1,344 @@
+{
+  "data": {
+    "event": {
+      "tournament": {
+        "name": "Twilight's Awakening",
+        "id": 156352
+      },
+      "id": 360966,
+      "name": "Twilight's Awakening",
+      "sets": {
+        "nodes": [
+          {
+            "fullRoundText": "Grand Final",
+            "displayScore": "Luffy 3 - RevoS 0"
+          },
+          {
+            "fullRoundText": "Winners Final",
+            "displayScore": "Luffy 3 - LUGIA 1"
+          },
+          {
+            "fullRoundText": "Losers Final",
+            "displayScore": "LUGIA 1 - RevoS 3"
+          },
+          {
+            "fullRoundText": "Losers Semi-Final",
+            "displayScore": "Sosser 1 - RevoS 3"
+          },
+          {
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "Luffy 3 - Ultimate 1"
+          },
+          {
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "LUGIA 3 - RevoS 2"
+          },
+          {
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "Ultimate 0 - Sosser 3"
+          },
+          {
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "RevoS 3 - BC | Amortax 0"
+          },
+          {
+            "fullRoundText": "Losers Round 3",
+            "displayScore": "Sosser 3 - Sky 0"
+          },
+          {
+            "fullRoundText": "Losers Round 3",
+            "displayScore": "mysterE 2 - BC | Amortax 3"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "Luffy 2 - BC | Amortax 1"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "Ultimate 2 - MICK 0"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "Sky 0 - LUGIA 2"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "RevoS 2 - Mimok 0"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "Mimok 0 - Sosser 2"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "Sky 2 - Haxwei 0"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "MICK 0 - mysterE 2"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "BC | Amortax 2 - Afro 0"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "JBB 0 - Sosser 2"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "TB | Chino 0 - Haxwei 2"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "mysterE 2 - Vyse 1"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "Afro 2 - S/Chance 1"
+          },
+          {
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "RevoS 2 - Firinplinplin 0"
+          },
+          {
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "Luffy 2 - Haxwei 1"
+          },
+          {
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "Sky 2 - S/Chance 0"
+          },
+          {
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "Ultimate 2 - Sosser 1"
+          },
+          {
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "LUGIA 2 - Ihmo 0"
+          },
+          {
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "Miguelindo 0 - MICK 2"
+          },
+          {
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "Maleson 0 - Mimok 2"
+          },
+          {
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "BC | Amortax 2 - Arch 0"
+          },
+          {
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "Firinplinplin 1 - Vyse 2"
+          },
+          {
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "Haxwei 2 - ChaosPrime 0"
+          },
+          {
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "Sosser 2 - SA | Gim 0"
+          },
+          {
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "S/Chance 2 - RoD 0"
+          },
+          {
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "Maleson 1 - Afro 2"
+          },
+          {
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "Miguelindo 0 - TB | Chino 2"
+          },
+          {
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "Arch 0 - JBB 2"
+          },
+          {
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "Ihmo 1 - mysterE 2"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "kiNg 0 - RoD 2"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "Vyse 2 - Anubis570 0"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "SA | Gim 2 - Fexta! 0"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "ChaosPrime 2 - Considera 1"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "Afro 2 - Ozzy 1"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "Joaoarara 1 - TB | Chino 2"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "JBB 2 - FyFox 1"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "mysterE 2 - Magician 0"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "Ultimate 2 - TB | Chino 1"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "Sky 2 - Magician 0"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "Luffy 2 - FyFox 0"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "RevoS 2 - Ozzy 0"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "Haxwei 2 - JBB 0"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "S/Chance 2 - mysterE 0"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "Joaoarara 0 - Sosser 2"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "Firinplinplin 2 - Afro 0"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "LUGIA 2 - RoD 0"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "Fexta! 0 - Miguelindo 2"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "Maleson 2 - Anubis570 0"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "BC | Amortax 2 - Considera 0"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "DQ"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "Vyse 1 - Mimok 2"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "ChaosPrime 0 - Arch 2"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "MICK 2 - LonLon 0"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "ChaosPrime 2 - GUCCI 0"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "DQ"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "DQ"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "LonLon 0 - SA | Gim 2"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "Afro 2 - FR7 0"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "DQ"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "Joaoarara 2 - Strig 0"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "mysterE 2 - D4C 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "DQ"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "TB | Chino 2 - SA | Gim 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "Magician 2 - kiNg 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "FyFox 2 - GUCCI 1"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "DQ"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "Strig 0 - Miguelindo 2"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "RoD 2 - D4C 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "FR7 0 - Anubis570 2"
+          }
+        ]
+      }
+    }
+  },
+  "extensions": {
+    "cacheControl": {
+      "version": 1,
+      "hints": [
+        {
+          "path": [
+            "event"
+          ],
+          "maxAge": 60,
+          "scope": "PRIVATE"
+        }
+      ]
+    },
+    "queryComplexity": 158
+  },
+  "actionRecords": []
+}

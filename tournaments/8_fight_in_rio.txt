@@ -1,0 +1,540 @@
+{
+  "data": {
+    "event": {
+      "tournament": {
+        "name": "Fight in Rio for the Future",
+        "id": 153531
+      },
+      "id": 362434,
+      "name": "Super Smash Bros. Ultimate",
+      "sets": {
+        "nodes": [
+          {
+            "fullRoundText": "Grand Final",
+            "displayScore": "Suvinil | Luffy 2 - ELZ1 | Player 7 3"
+          },
+          {
+            "fullRoundText": "Grand Final Reset",
+            "displayScore": "ELZ1 | Player 7 1 - Suvinil | Luffy 3"
+          },
+          {
+            "fullRoundText": "Winners Final",
+            "displayScore": "Suvinil | Luffy 3 - ELZ1 | Player 7 1"
+          },
+          {
+            "fullRoundText": "Losers Final",
+            "displayScore": "ELZ1 | Player 7 3 - Sky 1"
+          },
+          {
+            "fullRoundText": "Losers Semi-Final",
+            "displayScore": "Sky 3 - Mimok 0"
+          },
+          {
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "Suvinil | Luffy 3 - mysterE 0"
+          },
+          {
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "ELZ1 | Player 7 3 - Sky 0"
+          },
+          {
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "Sky 3 - OwO | RitsuoFox 2"
+          },
+          {
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "mysterE 2 - Mimok 3"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "Janjão 1 - OwO | RitsuoFox 3"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "AD | Roboto 2 - Mimok 3"
+          },
+          {
+            "fullRoundText": "Winners Final",
+            "displayScore": "Suvinil | Luffy 2 - Janjão 0"
+          },
+          {
+            "fullRoundText": "Winners Final",
+            "displayScore": "ELZ1 | Player 7 2 - AD | Roboto 0"
+          },
+          {
+            "fullRoundText": "Winners Final",
+            "displayScore": "UF | Ultimate 0 - Sky 2"
+          },
+          {
+            "fullRoundText": "Winners Final",
+            "displayScore": "TF | Jaycee 0 - mysterE 2"
+          },
+          {
+            "fullRoundText": "Losers Final",
+            "displayScore": "UF | Ultimate 0 - Mimok 2"
+          },
+          {
+            "fullRoundText": "Losers Final",
+            "displayScore": "Janjão 2 - AD | Elias 1"
+          },
+          {
+            "fullRoundText": "Losers Final",
+            "displayScore": "TF | Jaycee 0 - OwO | RitsuoFox 2"
+          },
+          {
+            "fullRoundText": "Losers Final",
+            "displayScore": "AD | Roboto 2 - Chaud 0"
+          },
+          {
+            "fullRoundText": "Losers Semi-Final",
+            "displayScore": "Chaud 2 - SA | Sabino 0"
+          },
+          {
+            "fullRoundText": "Losers Semi-Final",
+            "displayScore": "Proliel 1 - AD | Elias 2"
+          },
+          {
+            "fullRoundText": "Losers Semi-Final",
+            "displayScore": "Mimok 2 - Ihmo 1"
+          },
+          {
+            "fullRoundText": "Losers Semi-Final",
+            "displayScore": "DSadv | Joaoarara 0 - OwO | RitsuoFox 2"
+          },
+          {
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "UF | Ultimate 2 - FireEmblem 0"
+          },
+          {
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "ELZ1 | Player 7 2 - Chaud 0"
+          },
+          {
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "Suvinil | Luffy 2 - Proliel 0"
+          },
+          {
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "TF | Jaycee 2 - DSadv | Joaoarara 0"
+          },
+          {
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "Sky 2 - BC | Amortaxx 0"
+          },
+          {
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "Snek 0 - mysterE 2"
+          },
+          {
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "AD | Floko 0 - Janjão 2"
+          },
+          {
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "SA | Sabino 0 - AD | Roboto 2"
+          },
+          {
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "Chaud 2 - Ace 0"
+          },
+          {
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "Proliel 2 - BenQ | BeBop 0"
+          },
+          {
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "DSadv | Joaoarara 2 - Tuca 1"
+          },
+          {
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "FireEmblem 0 - Mimok 2"
+          },
+          {
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "BC | Amortaxx 0 - Ihmo 2"
+          },
+          {
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "SA | Sabino 2 - Chino 0"
+          },
+          {
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "AD | Floko 0 - AD | Elias 2"
+          },
+          {
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "Snek 0 - OwO | RitsuoFox 2"
+          },
+          {
+            "fullRoundText": "Losers Round 3",
+            "displayScore": "Stiltzkin 0 - OwO | RitsuoFox 2"
+          },
+          {
+            "fullRoundText": "Losers Round 3",
+            "displayScore": "TWS | FR7 0 - Chino 2"
+          },
+          {
+            "fullRoundText": "Losers Round 3",
+            "displayScore": "AD | Elias 2 - TB | GUCCI 1"
+          },
+          {
+            "fullRoundText": "Losers Round 3",
+            "displayScore": "S/Chance 1 - Ihmo 2"
+          },
+          {
+            "fullRoundText": "Losers Round 3",
+            "displayScore": "Ace 2 - Nenfz 0"
+          },
+          {
+            "fullRoundText": "Losers Round 3",
+            "displayScore": "ROT | Naty 1 - BenQ | BeBop 2"
+          },
+          {
+            "fullRoundText": "Losers Round 3",
+            "displayScore": "Mimok 2 - Vyse 1"
+          },
+          {
+            "fullRoundText": "Losers Round 3",
+            "displayScore": "Tuca 2 - AD | Afro 0"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "UF | Ultimate 2 - TWS | MICK 0"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "TF | Jaycee 2 - OwO | RitsuoFox 0"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "ELZ1 | Player 7 2 - Chino 0"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "Suvinil | Luffy 2 - TB | GUCCI 1"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "Chaud 2 - Jayache 0"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "UF | Maleson 1 - Proliel 2"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "S/Chance 1 - FireEmblem 2"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "DSadv | Joaoarara 2 - Stiltzkin 0"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "Snek 2 - Bayo 0"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "AD | Floko 2 - ROT | Sully 0"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "SA | Sabino 2 - Anubis570 0"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "Sky 2 - Inu 1"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "mysterE 2 - Tuca 0"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "AD | Roboto 2 - Alunir 0"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "Janjão 2 - ROT | Naty 0"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "BC | Amortaxx 2 - Mimok 0"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "DQ"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "Tuca 2 - Guizo 0"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "Alunir 0 - Ace 2"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "Mimok 2 - Ozzy 0"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "Inu 0 - Vyse 2"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "Bayo 0 - AD | Afro 2"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "Anubis570 1 - Nenfz 2"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "ROT | Sully 0 - BenQ | BeBop 2"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "DQ"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "Jayache 1 - TWS | FR7 2"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "S/Chance 2 - Lucas Portes 0"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "UF | Maleson 0 - AD | Elias 2"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "Chino 2 - Rhunii 1"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "TB | GUCCI 2 - SA | Gim 0"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "TWS | MICK 0 - Ihmo 2"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "OwO | RitsuoFox 2 - 23 0"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "Ozzy 2 - Leow 0"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "Lucky Luciano 1 - Guizo 2"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "DQ"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "DQ"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "DQ"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "BenQ | BeBop 2 - Nyer 1"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "Nenfz 2 - Ferrantini 1"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "Swiss 0 - Vyse 2"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "AD | Elias 2 - diguetake 0"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "Lucas Portes 2 - Magician 0"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "TWS | FR7 2 - Strig 0"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "DQ"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "Rhunii 2 - LukeThomaz 0"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "Considera 1 - Ihmo 2"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "SA | Gim 2 - Miguelindo 0"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "DQ"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "DQ"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "UF | Ultimate 2 - Ozzy 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "DQ"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "TF | Jaycee 2 - Lucky Luciano 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "Ace 1 - Chino 2"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "DQ"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "TWS | MICK 2 - Leow 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "Guizo 0 - OwO | RitsuoFox 2"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "Chaud 2 - Nenfz 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "S/Chance 2 - Swiss 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "UF | Maleson 2 - BenQ | BeBop 1"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "AD | Afro 0 - DSadv | Joaoarara 2"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "Vyse 0 - FireEmblem 2"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "DQ"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "Jayache 2 - Ferrantini 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "Nyer 1 - Proliel 2"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "DQ"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "SA | Sabino 2 - TWS | FR7 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "AD | Floko 2 - AD | Elias 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "Sky 2 - Lucas Portes 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "ROT | Sully 2 - diguetake 1"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "Inu 2 - Magician 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "Strig 1 - Anubis570 2"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "DQ"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "mysterE 2 - 23 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "AD | Roboto 2 - Rhunii 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "Janjão 2 - SA | Gim 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "BC | Amortaxx 2 - Considera 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "ROT | Naty 2 - Miguelindo 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "DQ"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "LukeThomaz 0 - Alunir 2"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "Ihmo 0 - Mimok 2"
+          }
+        ]
+      }
+    }
+  },
+  "extensions": {
+    "cacheControl": {
+      "version": 1,
+      "hints": [
+        {
+          "path": [
+            "event"
+          ],
+          "maxAge": 60,
+          "scope": "PRIVATE"
+        }
+      ]
+    },
+    "queryComplexity": 256
+  },
+  "actionRecords": []
+}

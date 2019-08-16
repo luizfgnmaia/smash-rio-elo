@@ -1,0 +1,22 @@
+query EventSets($eventId: ID!, $page:Int!, $perPage:Int!){
+  event(id:$eventId){
+    tournament {
+      name
+      id
+    }
+    id
+    name    
+    sets(
+      page: $page
+      perPage: $perPage
+      sortType: MAGIC
+    ){
+      nodes{
+        fullRoundText
+        displayScore 
+      }
+    }
+  }
+},
+
+https://developer.smash.gg/explorer

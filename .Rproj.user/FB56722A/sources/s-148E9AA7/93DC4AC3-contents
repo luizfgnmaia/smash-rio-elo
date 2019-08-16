@@ -1,0 +1,10 @@
+
+# https://edomt.github.io/Elo-R-WorldCup/
+library(dplyr)
+
+source("json_to_df.R")
+
+pre_elo = list.files("tournaments") %>%
+  lapply(json_to_df) %>%
+  do.call(rbind, .)
+

@@ -1,0 +1,408 @@
+{
+  "data": {
+    "event": {
+      "tournament": {
+        "name": "Smash Season Fest: Smash Heat",
+        "id": 125511
+      },
+      "id": 288437,
+      "name": "Smash Heat",
+      "sets": {
+        "nodes": [
+          {
+            "fullRoundText": "Grand Final",
+            "displayScore": "gamer girl 3 - Roboto 1"
+          },
+          {
+            "fullRoundText": "Winners Final",
+            "displayScore": "gamer girl 3 - Roc~ 0"
+          },
+          {
+            "fullRoundText": "Losers Final",
+            "displayScore": "Roc~ 1 - Roboto 3"
+          },
+          {
+            "fullRoundText": "Losers Semi-Final",
+            "displayScore": "UF | Sabino 0 - Roboto 3"
+          },
+          {
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "gamer girl 3 - UF | Ultimate 1"
+          },
+          {
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "AD | Afro 2 - Roc~ 3"
+          },
+          {
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "UF | Sabino W - UF | Ultimate L"
+          },
+          {
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "Roboto W - AD | Afro L"
+          },
+          {
+            "fullRoundText": "Losers Round 6",
+            "displayScore": "UF | Prime 0 - UF | Sabino 3"
+          },
+          {
+            "fullRoundText": "Losers Round 6",
+            "displayScore": "DSadvogado | Joaoarara 0 - Roboto 3"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "gamer girl 2 - DSadvogado | Joaoarara 0"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "UF | Ultimate 2 - Lugia 1"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "AD | Afro 2 - UF | Prime 0"
+          },
+          {
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "Roc~ 2 - UF | Sabino 1"
+          },
+          {
+            "fullRoundText": "Losers Round 5",
+            "displayScore": "UF | Prime 2 - Bent 0"
+          },
+          {
+            "fullRoundText": "Losers Round 5",
+            "displayScore": "UF | Sabino 2 - Mimok 1"
+          },
+          {
+            "fullRoundText": "Losers Round 5",
+            "displayScore": "DSadvogado | Joaoarara 2 - Haxwei 1"
+          },
+          {
+            "fullRoundText": "Losers Round 5",
+            "displayScore": "Lugia 1 - Roboto 2"
+          },
+          {
+            "fullRoundText": "Losers Round 4",
+            "displayScore": "UF | Maleson 0 - Bent 2"
+          },
+          {
+            "fullRoundText": "Losers Round 4",
+            "displayScore": "Vyse 0 - Mimok 2"
+          },
+          {
+            "fullRoundText": "Losers Round 4",
+            "displayScore": "Haxwei 2 - Amortaxx 0"
+          },
+          {
+            "fullRoundText": "Losers Round 4",
+            "displayScore": "Arch 0 - Roboto 2"
+          },
+          {
+            "fullRoundText": "Winners Round 3",
+            "displayScore": "gamer girl 2 - Mimok 0"
+          },
+          {
+            "fullRoundText": "Winners Round 3",
+            "displayScore": "DSadvogado | Joaoarara 2 - Vyse 0"
+          },
+          {
+            "fullRoundText": "Winners Round 3",
+            "displayScore": "Bent 1 - UF | Ultimate 2"
+          },
+          {
+            "fullRoundText": "Winners Round 3",
+            "displayScore": "Lugia 2 - UF | Maleson 0"
+          },
+          {
+            "fullRoundText": "Winners Round 3",
+            "displayScore": "Roboto 0 - AD | Afro 2"
+          },
+          {
+            "fullRoundText": "Winners Round 3",
+            "displayScore": "UF | Prime 2 - Arch 1"
+          },
+          {
+            "fullRoundText": "Winners Round 3",
+            "displayScore": "Roc~ 2 - Burtao 1"
+          },
+          {
+            "fullRoundText": "Winners Round 3",
+            "displayScore": "UF | Sabino 2 - Haxwei 1"
+          },
+          {
+            "fullRoundText": "Losers Round 3",
+            "displayScore": "UF | Maleson 2 - Thi Festa 0"
+          },
+          {
+            "fullRoundText": "Losers Round 3",
+            "displayScore": "Bent 2 - BenQ | BeBop 0"
+          },
+          {
+            "fullRoundText": "Losers Round 3",
+            "displayScore": "Vyse 2 - Fakinha 1"
+          },
+          {
+            "fullRoundText": "Losers Round 3",
+            "displayScore": "Mimok 2 - BC | HeadBenzi 0"
+          },
+          {
+            "fullRoundText": "Losers Round 3",
+            "displayScore": "Haxwei 2 - Minus 1"
+          },
+          {
+            "fullRoundText": "Losers Round 3",
+            "displayScore": "Burtao 0 - Amortaxx 2"
+          },
+          {
+            "fullRoundText": "Losers Round 3",
+            "displayScore": "Arch 2 - Jao 1"
+          },
+          {
+            "fullRoundText": "Losers Round 3",
+            "displayScore": "Roboto 2 - BC | RevoS 0"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "Thi Festa 2 - Ace 1"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "AD | Pete 0 - BenQ | BeBop 2"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "Flamon 0 - Fakinha 2"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "BC | HeadBenzi 2 - Ihmo 0"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "Minus 2 - AD | Gim 1"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "Amortaxx 2 - Sem chance 1"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "Jao 2 - BC | RoD 0"
+          },
+          {
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "BC | RevoS 2 - AD | Elias 0"
+          },
+          {
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "UF | Prime 2 - Naty 0"
+          },
+          {
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "Flamon 1 - Arch 2"
+          },
+          {
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "Roc~ 2 - RndNess 0"
+          },
+          {
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "AD | Pete 0 - Burtao 2"
+          },
+          {
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "UF | Sabino 2 - Ace 0"
+          },
+          {
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "Thi Festa 0 - Haxwei 2"
+          },
+          {
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "Dr. Lemos 0 - gamer girl 2"
+          },
+          {
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "BC | RevoS 1 - Mimok 2"
+          },
+          {
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "DSadvogado | Joaoarara 2 - BC | RoD 0"
+          },
+          {
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "UF | Luma 0 - Vyse 2"
+          },
+          {
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "Sem chance 1 - Bent 2"
+          },
+          {
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "UF | Ultimate 2 - Amortaxx 0"
+          },
+          {
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "AD | Gim 0 - Lugia 2"
+          },
+          {
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "Minus 1 - UF | Maleson 2"
+          },
+          {
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "Roboto 2 - Ihmo 0"
+          },
+          {
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "BC | HeadBenzi 1 - AD | Afro 2"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "Thi Festa 2 - Simic 0"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "Ace 2 - Sully 0"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "DQ"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "RndNess 1 - BenQ | BeBop 2"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "DQ"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "Naty 0 - Fakinha 2"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "BC | HeadBenzi 2 - Thurler 0"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "Ihmo 2 - Monad0 0"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "Minus 2 - Rates 0"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "AD | Gim 2 - Ozzy 1"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "DQ"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "Sem chance 2 - BC | LeoDT 0"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "UF | Luma 0 - Jao 2"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "BC | RoD 2 - Bach 0"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "BC | RevoS 2 - FR7 0"
+          },
+          {
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "Dr. Lemos 1 - AD | Elias 2"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "Simic 0 - gamer girl 2"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "Mimok 2 - Sully 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "DQ"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "BenQ | BeBop 0 - Vyse 2"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "Ditro 1 - Bent 2"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "Amortaxx 2 - Fakinha 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "Lugia 2 - Thurler 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "UF | Maleson 2 - Monad0 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "Rates 0 - Ihmo 2"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "AD | Afro 2 - Ozzy 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "Dcay 0 - Naty 2"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "BC | LeoDT 0 - Arch 2"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "RndNess 2 - Jao 1"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "Burtao 2 - Bach 0"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "FR7 0 - Ace 2"
+          },
+          {
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "AD | Elias 0 - Haxwei 2"
+          }
+        ]
+      }
+    }
+  },
+  "extensions": {
+    "cacheControl": {
+      "version": 1,
+      "hints": [
+        {
+          "path": [
+            "event"
+          ],
+          "maxAge": 60,
+          "scope": "PRIVATE"
+        }
+      ]
+    },
+    "queryComplexity": 190
+  },
+  "actionRecords": []
+}
