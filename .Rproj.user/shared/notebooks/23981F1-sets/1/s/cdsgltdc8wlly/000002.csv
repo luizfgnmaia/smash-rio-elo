@@ -1,0 +1,5 @@
+"0","fix <- function(df, old_name, new_name){"
+"0","  df$p1[which(df$p1 == old_name)] = new_name"
+"0","  df$p2[which(df$p2 == old_name)] = new_name"
+"0","  df"
+"0","}"

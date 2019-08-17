@@ -1,0 +1,3 @@
+"0","write.table(players %>%"
+"0","              arrange(desc(elo)),"
+"0","            file = ""elo.csv"", sep = "";"", na = """", row.names = FALSE, dec = "","")"

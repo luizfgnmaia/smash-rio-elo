@@ -1,0 +1,3 @@
+"0","players = data.frame(player = unique(c(sets$p1, sets$p2))) %>%"
+"0","  mutate(elo = 1500)"
+"0","players"

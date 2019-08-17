@@ -1,0 +1,2136 @@
+﻿{
+  "data": {
+    "event": {
+      "tournament": {
+        "name": "Twilight's Awakening",
+        "id": 156352
+      },
+      "sets": {
+        "nodes": [
+          {
+            "completedAt": 1561328457,
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Luffy",
+                      "playerId": 157946
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "RevoS",
+                      "playerId": 172173
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561324605,
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Luffy",
+                      "playerId": 157946
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "LUGIA",
+                      "playerId": 999237
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561326857,
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "LUGIA",
+                      "playerId": 999237
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "RevoS",
+                      "playerId": 172173
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561325636,
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Sosser",
+                      "playerId": 557695
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "RevoS",
+                      "playerId": 172173
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561319544,
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Luffy",
+                      "playerId": 157946
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Ultimate",
+                      "playerId": 795203
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561318302,
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "LUGIA",
+                      "playerId": 999237
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "RevoS",
+                      "playerId": 172173
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561321097,
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Ultimate",
+                      "playerId": 795203
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Sosser",
+                      "playerId": 557695
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561323862,
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "RevoS",
+                      "playerId": 172173
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Amortax",
+                      "playerId": 1075349
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561317633,
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Sosser",
+                      "playerId": 557695
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Sky",
+                      "playerId": 547786
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561319662,
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "mysterE",
+                      "playerId": 1076369
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Amortax",
+                      "playerId": 1075349
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561316766,
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Luffy",
+                      "playerId": 157946
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Amortax",
+                      "playerId": 1075349
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561316516,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Ultimate",
+                      "playerId": 795203
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "MICK",
+                      "playerId": 981066
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561315464,
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Sky",
+                      "playerId": 547786
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "LUGIA",
+                      "playerId": 999237
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561315766,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "RevoS",
+                      "playerId": 172173
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Mimok",
+                      "playerId": 172124
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561316706,
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Mimok",
+                      "playerId": 172124
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Sosser",
+                      "playerId": 557695
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561316552,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Sky",
+                      "playerId": 547786
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Haxwei",
+                      "playerId": 1033803
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561317539,
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "MICK",
+                      "playerId": 981066
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "mysterE",
+                      "playerId": 1076369
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561317867,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Amortax",
+                      "playerId": 1075349
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Afro",
+                      "playerId": 37319
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561315481,
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "JBB",
+                      "playerId": 1227619
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Sosser",
+                      "playerId": 557695
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561315558,
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Chino",
+                      "playerId": 1198340
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Haxwei",
+                      "playerId": 1033803
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561315906,
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "mysterE",
+                      "playerId": 1076369
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Vyse",
+                      "playerId": 557753
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561316232,
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Afro",
+                      "playerId": 37319
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "S/Chance",
+                      "playerId": 1035192
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561312838,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "RevoS",
+                      "playerId": 172173
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Firinplinplin",
+                      "playerId": 1227722
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561311449,
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Luffy",
+                      "playerId": 157946
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Haxwei",
+                      "playerId": 1033803
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561310515,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Sky",
+                      "playerId": 547786
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "S/Chance",
+                      "playerId": 1035192
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561309774,
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Ultimate",
+                      "playerId": 795203
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Sosser",
+                      "playerId": 557695
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561311202,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "LUGIA",
+                      "playerId": 999237
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Ihmo",
+                      "playerId": 1071731
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561312390,
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Miguelindo",
+                      "playerId": 1285675
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "MICK",
+                      "playerId": 981066
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561311532,
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Maleson",
+                      "playerId": 964809
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Mimok",
+                      "playerId": 172124
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561311173,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Amortax",
+                      "playerId": 1075349
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Arch",
+                      "playerId": 1099206
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561314124,
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Firinplinplin",
+                      "playerId": 1227722
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Vyse",
+                      "playerId": 557753
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561313185,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Haxwei",
+                      "playerId": 1033803
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "ChaosPrime",
+                      "playerId": 621638
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561313244,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Sosser",
+                      "playerId": 557695
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Gim",
+                      "playerId": 143935
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561312540,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "S/Chance",
+                      "playerId": 1035192
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "RoD",
+                      "playerId": 172230
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561314570,
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Maleson",
+                      "playerId": 964809
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Afro",
+                      "playerId": 37319
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561314005,
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Miguelindo",
+                      "playerId": 1285675
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Chino",
+                      "playerId": 1198340
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561313163,
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Arch",
+                      "playerId": 1099206
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "JBB",
+                      "playerId": 1227619
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561312882,
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Ihmo",
+                      "playerId": 1071731
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "mysterE",
+                      "playerId": 1076369
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561309822,
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "kiNg",
+                      "playerId": 1282316
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "RoD",
+                      "playerId": 172230
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561309485,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Vyse",
+                      "playerId": 557753
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Anubis570",
+                      "playerId": 323744
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561311250,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Gim",
+                      "playerId": 143935
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Fexta!",
+                      "playerId": 1285673
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561310156,
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "ChaosPrime",
+                      "playerId": 621638
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Considera",
+                      "playerId": 792807
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561313941,
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Afro",
+                      "playerId": 37319
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Ozzy",
+                      "playerId": 563793
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561312667,
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Joaoarara",
+                      "playerId": 909133
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Chino",
+                      "playerId": 1198340
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561310469,
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "JBB",
+                      "playerId": 1227619
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "FyFox",
+                      "playerId": 1071532
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561310448,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "mysterE",
+                      "playerId": 1076369
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Magician",
+                      "playerId": 1269775
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561305169,
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Ultimate",
+                      "playerId": 795203
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Chino",
+                      "playerId": 1198340
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561304719,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Sky",
+                      "playerId": 547786
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Magician",
+                      "playerId": 1269775
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561304231,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Luffy",
+                      "playerId": 157946
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "FyFox",
+                      "playerId": 1071532
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561302940,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "RevoS",
+                      "playerId": 172173
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Ozzy",
+                      "playerId": 563793
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561301973,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Haxwei",
+                      "playerId": 1033803
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "JBB",
+                      "playerId": 1227619
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561302493,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "S/Chance",
+                      "playerId": 1035192
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "mysterE",
+                      "playerId": 1076369
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561303406,
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Joaoarara",
+                      "playerId": 909133
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Sosser",
+                      "playerId": 557695
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561302544,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Firinplinplin",
+                      "playerId": 1227722
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Afro",
+                      "playerId": 37319
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561304463,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "LUGIA",
+                      "playerId": 999237
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "RoD",
+                      "playerId": 172230
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561303546,
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Fexta!",
+                      "playerId": 1285673
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Miguelindo",
+                      "playerId": 1285675
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561303870,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Maleson",
+                      "playerId": 964809
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Anubis570",
+                      "playerId": 323744
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561304094,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Amortax",
+                      "playerId": 1075349
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Considera",
+                      "playerId": 792807
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561304857,
+            "entrant1Score": -1,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Inu",
+                      "playerId": 1095897
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Ihmo",
+                      "playerId": 1071731
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561303200,
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Vyse",
+                      "playerId": 557753
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Mimok",
+                      "playerId": 172124
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561301909,
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "ChaosPrime",
+                      "playerId": 621638
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Arch",
+                      "playerId": 1099206
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561303756,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "MICK",
+                      "playerId": 981066
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "LonLon",
+                      "playerId": 1273321
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561309088,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "ChaosPrime",
+                      "playerId": 621638
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "GUCCI",
+                      "playerId": 1196897
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561308449,
+            "entrant1Score": 0,
+            "entrant2Score": -1,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Vyse",
+                      "playerId": 557753
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "LA FLAMME",
+                      "playerId": 1280000
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561305869,
+            "entrant1Score": -1,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Inu",
+                      "playerId": 1095897
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "kiNg",
+                      "playerId": 1282316
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561309201,
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "LonLon",
+                      "playerId": 1273321
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Gim",
+                      "playerId": 143935
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561312514,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Afro",
+                      "playerId": 37319
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "FR7",
+                      "playerId": 211496
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561305977,
+            "entrant1Score": 0,
+            "entrant2Score": -1,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "JBB",
+                      "playerId": 1227619
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Bach",
+                      "playerId": 1095786
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561310269,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Joaoarara",
+                      "playerId": 909133
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Strig",
+                      "playerId": 949477
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561308954,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "mysterE",
+                      "playerId": 1076369
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "D4C",
+                      "playerId": 707867
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561302076,
+            "entrant1Score": -1,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "LA FLAMME",
+                      "playerId": 1280000
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Ozzy",
+                      "playerId": 563793
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561300622,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Chino",
+                      "playerId": 1198340
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Gim",
+                      "playerId": 143935
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561300590,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Magician",
+                      "playerId": 1269775
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "kiNg",
+                      "playerId": 1282316
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561300926,
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "FyFox",
+                      "playerId": 1071532
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "GUCCI",
+                      "playerId": 1196897
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561302978,
+            "entrant1Score": -1,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Bach",
+                      "playerId": 1095786
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Considera",
+                      "playerId": 792807
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561302108,
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Strig",
+                      "playerId": 949477
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Miguelindo",
+                      "playerId": 1285675
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561300665,
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "RoD",
+                      "playerId": 172230
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "D4C",
+                      "playerId": 707867
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "completedAt": 1561301653,
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "slots": [
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "FR7",
+                      "playerId": 211496
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "participants": [
+                    {
+                      "gamerTag": "Anubis570",
+                      "playerId": 323744
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "extensions": {
+    "cacheControl": {
+      "version": 1,
+      "hints": [
+        {
+          "path": [
+            "event"
+          ],
+          "maxAge": 60,
+          "scope": "PRIVATE"
+        }
+      ]
+    },
+    "queryComplexity": 470
+  },
+  "actionRecords": []
+}
