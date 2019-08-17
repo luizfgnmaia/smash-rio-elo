@@ -1,0 +1,6 @@
+"0","boh %>%"
+"0","  group_by(pool) %>%"
+"0","  summarise(mean = mean(elo),"
+"0","            median = median(elo),"
+"0","            var = var(elo)) %>%"
+"0","  arrange(desc(mean))"

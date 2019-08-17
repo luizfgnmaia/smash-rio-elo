@@ -1,0 +1,4 @@
+"0","boh = boh %>%"
+"0","  rbind(tibble(player = setdiff(boh$player, players$player), elo = 1500)) %>%"
+"0","  arrange(desc(elo))"
+"0","boh"

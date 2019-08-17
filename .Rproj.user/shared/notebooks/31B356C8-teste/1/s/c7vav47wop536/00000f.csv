@@ -1,0 +1,6 @@
+"0","library(ggplot2)"
+"0","boh %>%"
+"0","  mutate(pool = as.factor(pool)) %>%"
+"0","  ggplot(aes(y = elo, x = pool)) +"
+"0","  geom_boxplot() +"
+"0","  theme_bw()"
