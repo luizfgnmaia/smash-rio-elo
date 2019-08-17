@@ -1,2 +1,0 @@
-"0","sets = sets %>%"
-"0","  mutate(result = score1/(score1 + score2))"

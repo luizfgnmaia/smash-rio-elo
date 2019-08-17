@@ -1,5 +1,0 @@
-"0","sets = list.files(""tournaments"") %>%"
-"0","  lapply(json_to_df) %>%"
-"0","  do.call(rbind, .) %>%"
-"0","  filter(score1 >= 0, score2 >= 0)"
-"0","sets"
