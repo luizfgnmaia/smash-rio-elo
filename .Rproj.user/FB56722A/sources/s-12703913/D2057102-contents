@@ -1,0 +1,18 @@
+---
+title: ''
+output: md_document
+---
+
+```{r, include = FALSE}
+library(dplyr)
+library(knitr)
+
+load("players.RData")
+```
+
+```{r, echo = FALSE}
+players %>%
+  filter(elo > 1500) %>%
+  kable(digits = 2, format = "markdown")
+```
+
