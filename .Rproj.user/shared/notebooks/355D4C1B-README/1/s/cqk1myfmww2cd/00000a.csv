@@ -1,0 +1,3 @@
+"0","players %>%"
+"0","  filter(elo > 1500) %>%"
+"0","  kable(digits = 2, format = ""markdown"", row.names = TRUE)"

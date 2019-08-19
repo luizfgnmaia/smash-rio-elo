@@ -110,9 +110,7 @@ save(players, file = "players.RData")
 ```
 
 ```{r}
-write.table(players %>%
-              filter(elo > 1500), 
-            file = "elo.csv", sep = ";", na = "", row.names = FALSE, dec = ",")
+write.table(players, file = "elo.csv", sep = ";", na = "", row.names = FALSE, dec = ",")
 ```
 
 

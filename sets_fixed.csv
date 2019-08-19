@@ -247,7 +247,7 @@
 "Roboto";557806;2;"Bent";1007151;0;1550937044;"Smash Heat 2";2
 "Ultimate";795203;2;"Simic";1021298;1;1550937320;"Smash Heat 2";2
 "BeBop";69497;2;"Gim";143935;0;1550937727;"Smash Heat 2";2
-"Dr. Lemos";173825;2;"Oliveira";1078885;0;1550938046;"Smash Heat 2";2
+"Dr. Lemos";173825;2;"Naval";1078885;0;1550938046;"Smash Heat 2";2
 "Mimok";172124;2;"Ace";1078883;1;1550938106;"Smash Heat 2";2
 "RoD";172230;1;"Ozzy";563793;2;1550938235;"Smash Heat 2";2
 "Roc~";547836;2;"Sully";172359;0;1550938578;"Smash Heat 2";2
@@ -261,7 +261,7 @@
 "Roboto";557806;2;"HeadBenzi";173373;0;1550940363;"Smash Heat 2";2
 "Bent";1007151;2;"Arch";1079028;0;1550940504;"Smash Heat 2";2
 "Simic";1021298;0;"Alonso";126587;2;1550940629;"Smash Heat 2";2
-"Sully";172359;0;"Oliveira";1078885;2;1550941317;"Smash Heat 2";2
+"Sully";172359;0;"Naval";1078885;2;1550941317;"Smash Heat 2";2
 "LeoDT";945519;1;"RevoS";172173;2;1550941414;"Smash Heat 2";2
 "Lance";1072191;1;"Ace";1078883;2;1550941441;"Smash Heat 2";2
 "Gim";143935;2;"Fexta!";1000041;1;1550941799;"Smash Heat 2";2
@@ -275,7 +275,7 @@
 "Roc~";547836;1;"Dr. Lemos";173825;2;1550943641;"Smash Heat 2";2
 "Sabino";953008;2;"Ihmo";1071731;0;1550943856;"Smash Heat 2";2
 "Pete";543371;0;"Alonso";126587;2;1550944163;"Smash Heat 2";2
-"Rates";521456;0;"Oliveira";1078885;2;1550944220;"Smash Heat 2";2
+"Rates";521456;0;"Naval";1078885;2;1550944220;"Smash Heat 2";2
 "Ihmo";1071731;0;"LUGIA";999237;2;1550944395;"Smash Heat 2";2
 "Roboto";557806;0;"RevoS";172173;2;1550944623;"Smash Heat 2";2
 "Roc~";547836;2;"Gim";143935;0;1550944761;"Smash Heat 2";2
@@ -283,7 +283,7 @@
 "Maleson";964809;0;"Bent";1007151;2;1550945329;"Smash Heat 2";2
 "Amortax";533731;0;"BeBop";69497;2;1550945439;"Smash Heat 2";2
 "LeoDT";945519;2;"Burtão";172170;0;1550945493;"Smash Heat 2";2
-"Oliveira";1078885;1;"Ultimate";795203;2;1550945889;"Smash Heat 2";2
+"Naval";1078885;1;"Ultimate";795203;2;1550945889;"Smash Heat 2";2
 "Dr. Lemos";173825;2;"Ozzy";563793;0;1550946227;"Smash Heat 2";2
 "Alonso";126587;0;"Roc~";547836;2;1550946310;"Smash Heat 2";2
 "Bent";1007151;2;"LUGIA";999237;1;1550946649;"Smash Heat 2";2
@@ -305,7 +305,7 @@
 "RevoS";172173;3;"Roboto";557806;0;1550956115;"Smash Heat 2";3
 "Ozzy";563793;2;"Sandman";1082894;0;1552833095;"Smash N' Magic";2
 "RoD";172230;0;"Unexpected";1089395;2;1552833195;"Smash N' Magic";2
-"Drutar";512478;0;"Oliveira";1078885;2;1552833228;"Smash N' Magic";2
+"Drutar";512478;0;"Naval";1078885;2;1552833228;"Smash N' Magic";2
 "Ryvius";1118463;0;"RndNess";1017077;2;1552833277;"Smash N' Magic";2
 "MICK";981066;0;"LeoDT";945519;2;1552833298;"Smash N' Magic";2
 "FR7";211496;1;"DJ";1118420;2;1552833556;"Smash N' Magic";2
@@ -328,7 +328,7 @@
 "Bach";1095786;1;"Ihmo";1071731;2;1552836262;"Smash N' Magic";2
 "Decnop";1118043;0;"Naty";1092900;2;1552836313;"Smash N' Magic";2
 "Bbrazils";1088168;1;"Vallcrist";1102056;2;1552836382;"Smash N' Magic";2
-"Joaoarara";909133;0;"Oliveira";1078885;2;1552836416;"Smash N' Magic";2
+"Joaoarara";909133;0;"Naval";1078885;2;1552836416;"Smash N' Magic";2
 "S/Chance";1035192;0;"Haxwei";1033803;2;1552836874;"Smash N' Magic";2
 "Afro";37319;2;"ChaosPrime";621638;0;1552836923;"Smash N' Magic";2
 "Magician";1117652;0;"Ryvius";1118463;2;1552836966;"Smash N' Magic";2
@@ -368,7 +368,7 @@
 "Joaoarara";909133;1;"LeoDT";945519;2;1552844365;"Smash N' Magic";2
 "Naty";1092900;0;"Drutar";512478;2;1552844434;"Smash N' Magic";2
 "RndNess";1017077;1;"Arch";1099206;2;1552844593;"Smash N' Magic";2
-"Cyber Twilight";172466;2;"Oliveira";1078885;0;1552844668;"Smash N' Magic";2
+"Cyber Twilight";172466;2;"Naval";1078885;0;1552844668;"Smash N' Magic";2
 "Afro";37319;0;"LUGIA";999237;2;1552845088;"Smash N' Magic";2
 "Luffy";157946;2;"Ace";999215;0;1552845136;"Smash N' Magic";2
 "FR7";211496;1;"ChaosPrime";621638;2;1552845359;"Smash N' Magic";2
@@ -387,23 +387,23 @@
 "RevoS";172173;2;"Polon";1088153;0;1552847504;"Smash N' Magic";2
 "BeBop";69497;1;"Maleson";964809;2;1552847520;"Smash N' Magic";2
 "Simic";1021298;0;"S/Chance";1035192;2;1552847894;"Smash N' Magic";2
-"Oliveira";1078885;2;"Drutar";512478;0;1552847925;"Smash N' Magic";2
+"Naval";1078885;2;"Drutar";512478;0;1552847925;"Smash N' Magic";2
 "Haxwei";1033803;2;"Ramon";1120137;1;1552848324;"Smash N' Magic";2
 "S/Chance";1035192;2;"Ozzy";563793;0;1552851192;"Smash N' Magic";2
 "Maleson";964809;0;"ChaosPrime";621638;2;1552851353;"Smash N' Magic";2
 "DJ";1118420;0;"RevoS";172173;2;1552851365;"Smash N' Magic";2
-"Oliveira";1078885;2;"Haxwei";1033803;1;1552851943;"Smash N' Magic";2
+"Naval";1078885;2;"Haxwei";1033803;1;1552851943;"Smash N' Magic";2
 "Sky";547786;2;"Cyber Twilight";172466;1;1552852102;"Smash N' Magic";2
 "Floko";558693;2;"Ihmo";1071731;0;1552852251;"Smash N' Magic";2
 "Roboto";557806;1;"Ultimate";795203;2;1552852606;"Smash N' Magic";2
 "Cyber Twilight";172466;2;"ChaosPrime";621638;0;1552852995;"Smash N' Magic";2
 "Luffy";157946;2;"LUGIA";999237;1;1552853193;"Smash N' Magic";2
 "Roboto";557806;0;"RevoS";172173;2;1552853358;"Smash N' Magic";2
-"Ihmo";1071731;1;"Oliveira";1078885;2;1552853455;"Smash N' Magic";2
+"Ihmo";1071731;1;"Naval";1078885;2;1552853455;"Smash N' Magic";2
 "LUGIA";999237;2;"S/Chance";1035192;0;1552853900;"Smash N' Magic";2
 "Luffy";157946;3;"Floko";558693;1;1552854676;"Smash N' Magic";3
 "Sky";547786;3;"Ultimate";795203;1;1552854777;"Smash N' Magic";3
-"Oliveira";1078885;0;"LUGIA";999237;3;1552855172;"Smash N' Magic";3
+"Naval";1078885;0;"LUGIA";999237;3;1552855172;"Smash N' Magic";3
 "RevoS";172173;3;"Cyber Twilight";172466;0;1552855451;"Smash N' Magic";3
 "Ultimate";795203;2;"LUGIA";999237;3;1552856806;"Smash N' Magic";3
 "Floko";558693;0;"RevoS";172173;3;1552856960;"Smash N' Magic";3

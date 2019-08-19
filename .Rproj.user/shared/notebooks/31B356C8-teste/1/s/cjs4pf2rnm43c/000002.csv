@@ -1,8 +1,0 @@
-"0","player = c(""Luffy"", ""Joaoarara"", ""Amortax"", ""Ace"", ""Ihmo"", ""LA FLAMME"", ""Ozzy"", ""GUCCI"", ""Vyse"", ""JBB"", ""FireEmblem"","
-"0","        ""Nenfz"", ""Ren"", ""Anubis570"", ""RevoS"", ""mysterE"", ""Conker"", ""Considera"", ""Afro"", ""FR7"", ""S/Chance"", ""Strig"","
-"0","        ""LCS"", ""ChaosPrime"", ""LonLon"", ""Gim"", ""Leow"", ""DSK"", ""LUGIA"", ""Sosser"", ""Luckstorm"", ""Ultimate"", ""Magician"","
-"0","        ""Roc~"", ""BeBop"", ""Lou"", ""Haxwei"", ""Najjar"", ""Chino"", ""Naty"", ""Mini Vegeta"", ""Sabino"", ""Sky"", ""Floko"","
-"0","        ""Wright"", ""Maleson"", ""Alonso"", ""Polon"", ""Arch"", ""Steel"", ""Naval"", ""Dypherius"", ""MICK"", ""Sully"", ""Morkez"","
-"0","        ""FyFox"")"
-"0","pool = c(rep(1, 14), rep(2, 14), rep(3, 14), rep(4, 14))"
-"0","boh = tibble(player, pool)"

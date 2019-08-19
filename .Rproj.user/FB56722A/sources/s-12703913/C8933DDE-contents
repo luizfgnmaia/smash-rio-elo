@@ -78,7 +78,8 @@ sets_fixed = sets_fixed %>%
   fix("Sem chance", "S/Chance") %>%
   fix("ROT | Conker", "Conker") %>%
   fix("ROT|Sully", "Sully") %>%
-  fix("FyFox", "Fy")
+  fix("FyFox", "Fy") %>%
+  fix("Oliveira", "Naval")
 ```
 
 ```{r}
