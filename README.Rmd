@@ -14,10 +14,10 @@ load("sets.RData")
 ## FAQ
 
 #### O que é? 
-Ranking baseado em Elo(https://en.wikipedia.org/wiki/Elo_rating_system) dos resultados dos campeonatos de Smash Ultimate do Rio de Janeiro que estão no Smash.gg.
+Ranking baseado em Elo(https://en.wikipedia.org/wiki/Elo_rating_system) dos players de Smash Ultimate do Rio de Janeiro utilizando os resultados dos campeonatos que estão no Smash.gg.
 
 #### Parâmetros do elo
-+ Rating inicial = 1500;
++ Rating inicial=1500;
 
 + k=20 para bo3 e k=30 para bo5 independente do campeonato e etapa da bracket;
 
