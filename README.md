@@ -1,5 +1,5 @@
-FAQ:
-----
+FAQ
+---
 
 #### O que é?
 
@@ -8,25 +8,25 @@ Elo(<https://en.wikipedia.org/wiki/Elo_rating_system>) dos resultados
 dos campeonatos de Smash Ultimate do Rio de Janeiro que estão no
 Smash.gg.
 
-#### Parâmetros do elo:
+#### Parâmetros do elo
 
 -   Rating inicial = 1500;
 
--   *k* = 20 para bo3 e *k* = 30 para bo5 independente do campeonato e
-    etapa da bracket;
+-   k=20 para bo3 e k=30 para bo5 independente do campeonato e etapa da
+    bracket;
 
--   Vitórias do player1 dada por $\\frac{g1}{g1 + g2}$ em que *g**i* é a
-    quantidade de jogos ganhos pelo player *i* no set. Ou seja, ganhar
-    de 2-0 dá mais pontos do que ganhar de 2-1.
+-   Vitórias do player\_1 dada por g1/(g1+g2) em que gi é a quantidade
+    de jogos ganhos pelo player\_i no set. Ou seja, ganhar de 2-0 dá
+    mais pontos do que ganhar de 2-1.
 
-#### Players duplicados:
+#### Players duplicados
 
 Podem existir players que trocaram de tag e/ou conta do smash.gg e estão
-com duas entradas na lista, fiz algumas arrumações manualmente mas se
-tiver alguém duplicado ou até mesmo faltando no elo.csv, avisem que eu
-conserto.
+com entradas repetidas na lista, fiz algumas arrumações manualmente mas
+se tiver alguém duplicado ou até mesmo faltando no elo.csv, avisem que
+eu conserto.
 
-#### Campeonatos utilizados:
+#### Campeonatos utilizados
 
     ##  [1] "Koopa Armada"                     
     ##  [2] "Smash Season Fest: Smash Heat"    
@@ -38,6 +38,9 @@ conserto.
     ##  [8] "Fight in Rio for the Future"      
     ##  [9] "Smash N' Magic - 3rd Edition"     
     ## [10] "Battle Of Hyrule"
+
+Preview
+-------
 
 <table style="width:100%;">
 <colgroup>
