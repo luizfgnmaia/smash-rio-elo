@@ -1,5 +1,0 @@
-"0","tmp = tibble(p = c(sets_fixed$p1, sets_fixed$p2), id = c(sets_fixed$id1, sets_fixed$id2)) %>%"
-"0","  distinct(id, .keep_all = TRUE) %>%"
-"0","  arrange(p) %>%"
-"0","  distinct(p)"
-"0","tmp"
