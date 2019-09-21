@@ -36,7 +36,7 @@ unique(sets_fixed$tournament)
 
 ## Preview
 Filtrando tournaments > 2 e mostrando os 50 primeiros.
-```{r, echo = FALSE}
+```{r, echo = FALSE, warning = FALSE, message = FALSE}
 players %>%
   filter(tournaments > 2) %>%
   select(-list_tournaments) %>%

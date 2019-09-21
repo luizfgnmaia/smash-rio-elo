@@ -50,18 +50,6 @@ Preview
 
 Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 
-    ## Warning: `lang()` is deprecated as of rlang 0.2.0.
-    ## Please use `call2()` instead.
-    ## This warning is displayed once per session.
-
-    ## Warning: `new_overscope()` is deprecated as of rlang 0.2.0.
-    ## Please use `new_data_mask()` instead.
-    ## This warning is displayed once per session.
-
-    ## Warning: `overscope_eval_next()` is deprecated as of rlang 0.2.0.
-    ## Please use `eval_tidy()` with a data mask instead.
-    ## This warning is displayed once per session.
-
 <table style="width:100%;">
 <colgroup>
 <col width="3%" />
