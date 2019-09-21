@@ -1,0 +1,6 @@
+"0","sets = sets %>%"
+"0","  mutate(result = score1/(score1 + score2),"
+"0","         k = first_to * 10)"
+"2","The `printer` argument is deprecated as of rlang 0.3.0.
+[90mThis warning is displayed once per session.[39m"
+"0","sets"

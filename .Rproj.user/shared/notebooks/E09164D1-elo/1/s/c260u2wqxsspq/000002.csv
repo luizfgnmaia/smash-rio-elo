@@ -1,0 +1,4 @@
+"0","players = tibble(player = c(sets$p1, sets$p2))"
+"2","`list_len()` is deprecated as of rlang 0.2.0.
+Please use `new_list()` instead.
+[90mThis warning is displayed once per session.[39m"
