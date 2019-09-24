@@ -112,7 +112,7 @@ save(players, file = "data/players.RData")
 ```
 
 ```{r}
-write.table(players, file = "data/players.csv", sep = ",", na = "", row.names = FALSE, dec = ",")
+write.table(players, file = "data/players.csv", sep = ",", na = "", row.names = FALSE, dec = ".")
 ```
 
 
