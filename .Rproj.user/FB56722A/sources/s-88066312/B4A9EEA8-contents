@@ -44,7 +44,7 @@ sets_suma
 ```
 
 ```{r}
-save(sets_fixed, file = "data/sets_suma.RData")
-write.table(sets_fixed, file = "data/sets_suma.csv", sep = ";", na = "", row.names = FALSE)
+save(sets_suma, file = "data/sets_suma.RData")
+write.table(sets_suma, file = "data/sets_suma.csv", sep = ",", na = "", row.names = FALSE)
 ```
 

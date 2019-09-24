@@ -1,2 +1,0 @@
-"0","save(sets_fixed, file = ""data/sets_suma.RData"")"
-"0","write.table(sets_fixed, file = ""data/sets_suma.csv"", sep = "";"", na = """", row.names = FALSE)"
