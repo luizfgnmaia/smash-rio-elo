@@ -1,0 +1,4 @@
+"0","sets = sets %>%"
+"0","  mutate(result = score1/(score1 + score2),"
+"0","         k = first_to * 10)"
+"0","sets"

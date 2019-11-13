@@ -10,6 +10,7 @@ smash n magic 3		21 jul		366309
 battle of hyrule	18 ago		380798
 smash n magic 4		15 set		386097
 try hard 1		27 out		410897
+smash n magic 5		10 nov		402932
 
 
 

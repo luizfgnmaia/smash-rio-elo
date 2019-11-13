@@ -1,5 +1,0 @@
-"0","players %>%"
-"0","  filter(tournaments > 2) %>%"
-"0","  select(-list_tournaments) %>%"
-"0","  head(50) %>%"
-"0","  kable(digits = 2, format = ""markdown"", row.names = TRUE)"
