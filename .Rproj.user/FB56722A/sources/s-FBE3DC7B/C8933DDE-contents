@@ -62,6 +62,22 @@ fix_set <- function(df, tournament, old_p1, old_score1, old_p2, old_score2, new_
 ```
 
 ```{r}
+delete_set <- function(df, p1, score1, p2, score2, tournament) {
+  row = which(df$tournament == tournament & df$p1 == p1 & df$score1 == score1 & df$p2 == p2 & df$score2 == score2)
+  df[-row,]
+}
+```
+
+```{r}
+add_set <- function(df, p1, score1, p2, score2, completed, tournament, first_to) {
+  tmp = tibble(p1 = p1, score1 = score1, p2 = p2, score2 = score2, completed = completed, tournament = tournament, first_to = first_to)
+  df %>%
+    rbind(tmp) %>%
+    arrange(completed)
+}
+```
+
+```{r}
 sets_fixed = sets_fixed %>%
   fix_tag("ace", "Ace") %>%
   fix_tag("Amortaxx", "Amortax") %>%
@@ -84,7 +100,13 @@ sets_fixed = sets_fixed %>%
   fix_tag("Oliveira", "Naval") %>%
   fix_tag("Conker", "Chadin", "Battle Of Hyrule") %>%
   fix_tag("MICK", "Mick") %>%
-  fix_tag("Fexta!", "ThiFesta")
+  fix_tag("Fexta!", "ThiFesta") %>%
+  delete_set("FR7", 2, "Axe", 0, "Smash n' Magic - 5th Edition") %>%
+  add_set("FR7", 2, "Naty", 1, 1573413191, "Smash n' Magic - 5th Edition", 2) %>%
+  fix_set(tournament = "Smash n' Magic - 5th Edition", old_p1 = "FR7", old_score1 = 2, old_p2 = "Gim", 
+          old_score2 = 1, new_p1 = "Axe", new_score1 = 0, new_p2 = "Gim", new_score2 = 2) %>%
+  fix_set(tournament = "Smash n' Magic - 5th Edition", old_p1 = "Haxwei", old_score1 = 2, old_p2 = "Naty", 
+          old_score2 = 0, new_p1 = "Haxwei", new_score1 = 2, new_p2 = "Gim", new_score2 = 0) 
 ```
 
 ```{r}

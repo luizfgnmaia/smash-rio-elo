@@ -1,0 +1,6 @@
+"0","add_set <- function(df, p1, score1, p2, score2, completed, tournament, first_to) {"
+"0","  tmp = tibble(p1 = p1, score1 = score1, p2 = p2, score2 = score2, completed = completed, tournament = tournament, first_to = first_to)"
+"0","  df %>%"
+"0","    rbind(tmp) %>%"
+"0","    arrange(completed)"
+"0","}"

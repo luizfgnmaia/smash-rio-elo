@@ -1,0 +1,4 @@
+"0","delete_set <- function(df, p1, score1, p2, score2, tournament) {"
+"0","  row = which(df$tournament == tournament & df$p1 == p1 & df$score1 == score1 & df$p2 == p2 & df$score2 == score2)"
+"0","  df[-row,]"
+"0","}"
