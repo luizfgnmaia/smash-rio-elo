@@ -106,7 +106,11 @@ sets_fixed = sets_fixed %>%
   fix_set(tournament = "Smash n' Magic - 5th Edition", old_p1 = "FR7", old_score1 = 2, old_p2 = "Gim", 
           old_score2 = 1, new_p1 = "Axe", new_score1 = 0, new_p2 = "Gim", new_score2 = 2) %>%
   fix_set(tournament = "Smash n' Magic - 5th Edition", old_p1 = "Haxwei", old_score1 = 2, old_p2 = "Naty", 
-          old_score2 = 0, new_p1 = "Haxwei", new_score1 = 2, new_p2 = "Gim", new_score2 = 0) 
+          old_score2 = 0, new_p1 = "Haxwei", new_score1 = 2, new_p2 = "Gim", new_score2 = 0)  %>%
+  fix_tag("UF| Ultimate", "Ultimate") %>%
+  fix_tag("TB Chino", "Chino") %>%
+  fix_tag("Gucci", "GUCCI") %>%
+  fix_tag("OOPS", "Oops")
 ```
 
 ```{r}

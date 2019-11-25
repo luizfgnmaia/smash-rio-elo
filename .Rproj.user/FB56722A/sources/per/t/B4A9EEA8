@@ -7,14 +7,14 @@
     "folds" : "",
     "hash" : "2961126662",
     "id" : "B4A9EEA8",
-    "lastKnownWriteTime" : 1573690567,
-    "last_content_update" : 1573690567620,
+    "lastKnownWriteTime" : 1574647148,
+    "last_content_update" : 1574647148012,
     "path" : "~/GitHub/smash-rio-elo/eda.Rmd",
     "project_path" : "eda.Rmd",
     "properties" : {
         "chunk_output_type" : "inline",
         "cursorPosition" : "36,38",
-        "scrollLine" : "27",
+        "scrollLine" : "0",
         "tempName" : "Untitled1"
     },
     "relative_order" : 3,
