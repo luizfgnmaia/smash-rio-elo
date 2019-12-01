@@ -46,7 +46,8 @@ avisem que eu conserto.
     ## [11] "Smash n' Magic - 4th Edition"     
     ## [12] "Try Hard Smash in Rio #1"         
     ## [13] "Smash n' Magic - 5th Edition"     
-    ## [14] "Try Hard Smash in Rio #2"
+    ## [14] "Try Hard Smash in Rio #2"         
+    ## [15] "TwS - Forest Temple"
 
 Preview
 -------
@@ -84,53 +85,65 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <tr class="odd">
 <td align="left">1</td>
 <td align="left">Luffy</td>
-<td align="left">1831.39 (+0)</td>
-<td align="right">57</td>
-<td align="right">62</td>
-<td align="right">0.92</td>
-<td align="right">148</td>
-<td align="right">181</td>
-<td align="right">0.82</td>
-<td align="right">10</td>
+<td align="left">1858.75 (+27.36)</td>
+<td align="right">63</td>
+<td align="right">68</td>
+<td align="right">0.93</td>
+<td align="right">163</td>
+<td align="right">197</td>
+<td align="right">0.83</td>
+<td align="right">11</td>
 </tr>
 <tr class="even">
 <td align="left">2</td>
 <td align="left">RevoS</td>
-<td align="left">1723.74 (+14.59)</td>
-<td align="right">56</td>
-<td align="right">74</td>
-<td align="right">0.76</td>
-<td align="right">150</td>
-<td align="right">220</td>
-<td align="right">0.68</td>
-<td align="right">11</td>
+<td align="left">1724.18 (+0.43)</td>
+<td align="right">60</td>
+<td align="right">80</td>
+<td align="right">0.75</td>
+<td align="right">160</td>
+<td align="right">238</td>
+<td align="right">0.67</td>
+<td align="right">12</td>
 </tr>
 <tr class="odd">
 <td align="left">3</td>
-<td align="left">Sky</td>
-<td align="left">1671.69 (+0)</td>
-<td align="right">45</td>
+<td align="left">Ultimate</td>
+<td align="left">1668.11 (+22.08)</td>
 <td align="right">57</td>
-<td align="right">0.79</td>
-<td align="right">113</td>
-<td align="right">164</td>
-<td align="right">0.69</td>
-<td align="right">9</td>
+<td align="right">86</td>
+<td align="right">0.66</td>
+<td align="right">148</td>
+<td align="right">250</td>
+<td align="right">0.59</td>
+<td align="right">15</td>
 </tr>
 <tr class="even">
 <td align="left">4</td>
 <td align="left">LUGIA</td>
-<td align="left">1651.91 (+0)</td>
-<td align="right">31</td>
-<td align="right">48</td>
+<td align="left">1656.76 (+4.85)</td>
+<td align="right">35</td>
+<td align="right">54</td>
 <td align="right">0.65</td>
-<td align="right">83</td>
-<td align="right">136</td>
+<td align="right">93</td>
+<td align="right">152</td>
 <td align="right">0.61</td>
-<td align="right">9</td>
+<td align="right">10</td>
 </tr>
 <tr class="odd">
 <td align="left">5</td>
+<td align="left">Sky</td>
+<td align="left">1655.6 (-16.08)</td>
+<td align="right">46</td>
+<td align="right">60</td>
+<td align="right">0.77</td>
+<td align="right">116</td>
+<td align="right">172</td>
+<td align="right">0.67</td>
+<td align="right">10</td>
+</tr>
+<tr class="even">
+<td align="left">6</td>
 <td align="left">Roboto</td>
 <td align="left">1646.97 (+0)</td>
 <td align="right">39</td>
@@ -141,29 +154,17 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <td align="right">0.66</td>
 <td align="right">9</td>
 </tr>
-<tr class="even">
-<td align="left">6</td>
-<td align="left">Ultimate</td>
-<td align="left">1646.03 (+15.52)</td>
-<td align="right">52</td>
-<td align="right">79</td>
-<td align="right">0.66</td>
-<td align="right">135</td>
-<td align="right">230</td>
-<td align="right">0.59</td>
-<td align="right">14</td>
-</tr>
 <tr class="odd">
 <td align="left">7</td>
 <td align="left">Sosser</td>
-<td align="left">1626.66 (+0)</td>
-<td align="right">18</td>
-<td align="right">24</td>
-<td align="right">0.75</td>
-<td align="right">46</td>
-<td align="right">69</td>
-<td align="right">0.67</td>
-<td align="right">3</td>
+<td align="left">1628.16 (+1.5)</td>
+<td align="right">20</td>
+<td align="right">28</td>
+<td align="right">0.71</td>
+<td align="right">52</td>
+<td align="right">79</td>
+<td align="right">0.66</td>
+<td align="right">4</td>
 </tr>
 <tr class="even">
 <td align="left">8</td>
@@ -179,39 +180,39 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 </tr>
 <tr class="odd">
 <td align="left">9</td>
-<td align="left">Sabino</td>
-<td align="left">1611.29 (+0)</td>
-<td align="right">35</td>
-<td align="right">53</td>
-<td align="right">0.66</td>
-<td align="right">82</td>
-<td align="right">139</td>
-<td align="right">0.59</td>
-<td align="right">9</td>
+<td align="left">Amortax</td>
+<td align="left">1610.08 (+6.45)</td>
+<td align="right">36</td>
+<td align="right">57</td>
+<td align="right">0.63</td>
+<td align="right">85</td>
+<td align="right">147</td>
+<td align="right">0.58</td>
+<td align="right">11</td>
 </tr>
 <tr class="even">
 <td align="left">10</td>
-<td align="left">Amortax</td>
-<td align="left">1603.63 (+21.41)</td>
-<td align="right">31</td>
-<td align="right">50</td>
-<td align="right">0.62</td>
-<td align="right">73</td>
-<td align="right">127</td>
-<td align="right">0.57</td>
+<td align="left">Sabino</td>
+<td align="left">1608.37 (-2.91)</td>
+<td align="right">38</td>
+<td align="right">58</td>
+<td align="right">0.66</td>
+<td align="right">88</td>
+<td align="right">151</td>
+<td align="right">0.58</td>
 <td align="right">10</td>
 </tr>
 <tr class="odd">
 <td align="left">11</td>
 <td align="left">Mimok</td>
-<td align="left">1595.93 (-11.3)</td>
-<td align="right">34</td>
-<td align="right">51</td>
-<td align="right">0.67</td>
-<td align="right">81</td>
-<td align="right">141</td>
-<td align="right">0.57</td>
-<td align="right">9</td>
+<td align="left">1601.18 (+5.25)</td>
+<td align="right">36</td>
+<td align="right">55</td>
+<td align="right">0.65</td>
+<td align="right">87</td>
+<td align="right">151</td>
+<td align="right">0.58</td>
+<td align="right">10</td>
 </tr>
 <tr class="even">
 <td align="left">12</td>
@@ -228,7 +229,7 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <tr class="odd">
 <td align="left">13</td>
 <td align="left">Haxwei</td>
-<td align="left">1581.48 (+0.3)</td>
+<td align="left">1581.48 (+0)</td>
 <td align="right">28</td>
 <td align="right">48</td>
 <td align="right">0.58</td>
@@ -239,6 +240,18 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 </tr>
 <tr class="even">
 <td align="left">14</td>
+<td align="left">FireEmblem</td>
+<td align="left">1574.47 (+21.86)</td>
+<td align="right">21</td>
+<td align="right">35</td>
+<td align="right">0.60</td>
+<td align="right">48</td>
+<td align="right">88</td>
+<td align="right">0.55</td>
+<td align="right">7</td>
+</tr>
+<tr class="odd">
+<td align="left">15</td>
 <td align="left">Joaoarara</td>
 <td align="left">1565.5 (+0)</td>
 <td align="right">27</td>
@@ -249,8 +262,8 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <td align="right">0.56</td>
 <td align="right">10</td>
 </tr>
-<tr class="odd">
-<td align="left">15</td>
+<tr class="even">
+<td align="left">16</td>
 <td align="left">mysterE</td>
 <td align="left">1563.49 (+0)</td>
 <td align="right">16</td>
@@ -261,8 +274,20 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <td align="right">0.57</td>
 <td align="right">5</td>
 </tr>
+<tr class="odd">
+<td align="left">17</td>
+<td align="left">Ihmo</td>
+<td align="left">1559.75 (+15.2)</td>
+<td align="right">22</td>
+<td align="right">41</td>
+<td align="right">0.54</td>
+<td align="right">52</td>
+<td align="right">99</td>
+<td align="right">0.53</td>
+<td align="right">10</td>
+</tr>
 <tr class="even">
-<td align="left">16</td>
+<td align="left">18</td>
 <td align="left">Vyse</td>
 <td align="left">1557.99 (+0)</td>
 <td align="right">20</td>
@@ -274,7 +299,7 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <td align="right">8</td>
 </tr>
 <tr class="odd">
-<td align="left">17</td>
+<td align="left">19</td>
 <td align="left">S/Chance</td>
 <td align="left">1556.47 (+0)</td>
 <td align="right">25</td>
@@ -286,21 +311,9 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <td align="right">10</td>
 </tr>
 <tr class="even">
-<td align="left">18</td>
-<td align="left">FireEmblem</td>
-<td align="left">1552.61 (+12.89)</td>
-<td align="right">18</td>
-<td align="right">30</td>
-<td align="right">0.60</td>
-<td align="right">40</td>
-<td align="right">72</td>
-<td align="right">0.56</td>
-<td align="right">6</td>
-</tr>
-<tr class="odd">
-<td align="left">19</td>
+<td align="left">20</td>
 <td align="left">Chino</td>
-<td align="left">1549.06 (+6.29)</td>
+<td align="left">1549.06 (+0)</td>
 <td align="right">18</td>
 <td align="right">32</td>
 <td align="right">0.56</td>
@@ -309,10 +322,10 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <td align="right">0.54</td>
 <td align="right">7</td>
 </tr>
-<tr class="even">
-<td align="left">20</td>
+<tr class="odd">
+<td align="left">21</td>
 <td align="left">Afro</td>
-<td align="left">1548.54 (-3.42)</td>
+<td align="left">1548.54 (+0)</td>
 <td align="right">34</td>
 <td align="right">57</td>
 <td align="right">0.60</td>
@@ -321,29 +334,17 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <td align="right">0.56</td>
 <td align="right">12</td>
 </tr>
-<tr class="odd">
-<td align="left">21</td>
-<td align="left">Maleson</td>
-<td align="left">1548.33 (+0)</td>
-<td align="right">35</td>
-<td align="right">61</td>
-<td align="right">0.57</td>
-<td align="right">81</td>
-<td align="right">144</td>
-<td align="right">0.56</td>
-<td align="right">13</td>
-</tr>
 <tr class="even">
 <td align="left">22</td>
-<td align="left">Ihmo</td>
-<td align="left">1544.54 (+0)</td>
-<td align="right">19</td>
-<td align="right">36</td>
-<td align="right">0.53</td>
-<td align="right">44</td>
+<td align="left">Maleson</td>
+<td align="left">1544.53 (-3.8)</td>
+<td align="right">37</td>
+<td align="right">65</td>
+<td align="right">0.57</td>
 <td align="right">85</td>
-<td align="right">0.52</td>
-<td align="right">9</td>
+<td align="right">153</td>
+<td align="right">0.56</td>
+<td align="right">14</td>
 </tr>
 <tr class="odd">
 <td align="left">23</td>
@@ -396,7 +397,7 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <tr class="odd">
 <td align="left">27</td>
 <td align="left">DJ</td>
-<td align="left">1522.92 (-4.14)</td>
+<td align="left">1522.92 (+0)</td>
 <td align="right">9</td>
 <td align="right">15</td>
 <td align="right">0.60</td>
@@ -492,7 +493,7 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <tr class="odd">
 <td align="left">35</td>
 <td align="left">Burtão</td>
-<td align="left">1502.82 (-9.6)</td>
+<td align="left">1502.82 (+0)</td>
 <td align="right">9</td>
 <td align="right">17</td>
 <td align="right">0.53</td>
@@ -611,6 +612,18 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 </tr>
 <tr class="odd">
 <td align="left">45</td>
+<td align="left">Considera</td>
+<td align="left">1482.22 (+15.24)</td>
+<td align="right">5</td>
+<td align="right">15</td>
+<td align="right">0.33</td>
+<td align="right">13</td>
+<td align="right">33</td>
+<td align="right">0.39</td>
+<td align="right">5</td>
+</tr>
+<tr class="even">
+<td align="left">46</td>
 <td align="left">Miguelindo</td>
 <td align="left">1475.83 (+0)</td>
 <td align="right">6</td>
@@ -621,8 +634,8 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <td align="right">0.39</td>
 <td align="right">5</td>
 </tr>
-<tr class="even">
-<td align="left">46</td>
+<tr class="odd">
+<td align="left">47</td>
 <td align="left">Guizo</td>
 <td align="left">1474.67 (+0)</td>
 <td align="right">7</td>
@@ -633,8 +646,8 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <td align="right">0.41</td>
 <td align="right">5</td>
 </tr>
-<tr class="odd">
-<td align="left">47</td>
+<tr class="even">
+<td align="left">48</td>
 <td align="left">Luckstorm</td>
 <td align="left">1472.39 (+0)</td>
 <td align="right">5</td>
@@ -645,8 +658,8 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <td align="right">0.35</td>
 <td align="right">5</td>
 </tr>
-<tr class="even">
-<td align="left">48</td>
+<tr class="odd">
+<td align="left">49</td>
 <td align="left">Fy</td>
 <td align="left">1471.28 (+0)</td>
 <td align="right">11</td>
@@ -657,29 +670,17 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <td align="right">0.41</td>
 <td align="right">8</td>
 </tr>
-<tr class="odd">
-<td align="left">49</td>
-<td align="left">Snek</td>
-<td align="left">1469.52 (+0)</td>
-<td align="right">2</td>
-<td align="right">8</td>
-<td align="right">0.25</td>
-<td align="right">6</td>
-<td align="right">19</td>
-<td align="right">0.32</td>
-<td align="right">3</td>
-</tr>
 <tr class="even">
 <td align="left">50</td>
-<td align="left">Gim</td>
-<td align="left">1469.5 (+0)</td>
-<td align="right">14</td>
-<td align="right">36</td>
-<td align="right">0.39</td>
-<td align="right">34</td>
-<td align="right">82</td>
-<td align="right">0.41</td>
-<td align="right">11</td>
+<td align="left">Wright</td>
+<td align="left">1469.95 (-16.98)</td>
+<td align="right">3</td>
+<td align="right">9</td>
+<td align="right">0.33</td>
+<td align="right">7</td>
+<td align="right">20</td>
+<td align="right">0.35</td>
+<td align="right">3</td>
 </tr>
 </tbody>
 </table>
