@@ -47,7 +47,7 @@ avisem que eu conserto.
 Preview
 -------
 
-Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
+Filtrando tournaments &gt; 3 e mostrando os 50 primeiros.
 
 <table>
 <colgroup>
@@ -403,18 +403,6 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 </tr>
 <tr class="even">
 <td style="text-align: left;">28</td>
-<td style="text-align: left;">DJ</td>
-<td style="text-align: left;">1530.98 (+0)</td>
-<td style="text-align: right;">9</td>
-<td style="text-align: right;">15</td>
-<td style="text-align: right;">0.60</td>
-<td style="text-align: right;">19</td>
-<td style="text-align: right;">34</td>
-<td style="text-align: right;">0.56</td>
-<td style="text-align: right;">3</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">29</td>
 <td style="text-align: left;">ChaosPrime</td>
 <td style="text-align: left;">1527.84 (+0)</td>
 <td style="text-align: right;">19</td>
@@ -425,8 +413,8 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <td style="text-align: right;">0.52</td>
 <td style="text-align: right;">8</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">30</td>
+<tr class="odd">
+<td style="text-align: left;">29</td>
 <td style="text-align: left;">Burtão</td>
 <td style="text-align: left;">1523.93 (+0)</td>
 <td style="text-align: right;">9</td>
@@ -437,20 +425,8 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <td style="text-align: right;">0.53</td>
 <td style="text-align: right;">4</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">31</td>
-<td style="text-align: left;">Jao</td>
-<td style="text-align: left;">1518.06 (+0)</td>
-<td style="text-align: right;">4</td>
-<td style="text-align: right;">10</td>
-<td style="text-align: right;">0.40</td>
-<td style="text-align: right;">14</td>
-<td style="text-align: right;">26</td>
-<td style="text-align: right;">0.54</td>
-<td style="text-align: right;">3</td>
-</tr>
 <tr class="even">
-<td style="text-align: left;">32</td>
+<td style="text-align: left;">30</td>
 <td style="text-align: left;">Proliel</td>
 <td style="text-align: left;">1512.01 (-0.4)</td>
 <td style="text-align: right;">6</td>
@@ -462,7 +438,7 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <td style="text-align: right;">4</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">33</td>
+<td style="text-align: left;">31</td>
 <td style="text-align: left;">Ace</td>
 <td style="text-align: left;">1509.1 (-3.99)</td>
 <td style="text-align: right;">19</td>
@@ -474,7 +450,7 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <td style="text-align: right;">11</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">34</td>
+<td style="text-align: left;">32</td>
 <td style="text-align: left;">Alonso</td>
 <td style="text-align: left;">1508.46 (+0)</td>
 <td style="text-align: right;">9</td>
@@ -486,55 +462,7 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <td style="text-align: right;">6</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">35</td>
-<td style="text-align: left;">LeoDT</td>
-<td style="text-align: left;">1505.96 (+0)</td>
-<td style="text-align: right;">7</td>
-<td style="text-align: right;">13</td>
-<td style="text-align: right;">0.54</td>
-<td style="text-align: right;">16</td>
-<td style="text-align: right;">30</td>
-<td style="text-align: right;">0.53</td>
-<td style="text-align: right;">3</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">36</td>
-<td style="text-align: left;">JBB</td>
-<td style="text-align: left;">1501.63 (+0)</td>
-<td style="text-align: right;">7</td>
-<td style="text-align: right;">13</td>
-<td style="text-align: right;">0.54</td>
-<td style="text-align: right;">15</td>
-<td style="text-align: right;">29</td>
-<td style="text-align: right;">0.52</td>
-<td style="text-align: right;">3</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">37</td>
-<td style="text-align: left;">Dr. Lemos</td>
-<td style="text-align: left;">1497.51 (+0)</td>
-<td style="text-align: right;">5</td>
-<td style="text-align: right;">11</td>
-<td style="text-align: right;">0.45</td>
-<td style="text-align: right;">12</td>
-<td style="text-align: right;">27</td>
-<td style="text-align: right;">0.44</td>
-<td style="text-align: right;">3</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">38</td>
-<td style="text-align: left;">HeadBenzi</td>
-<td style="text-align: left;">1497.19 (+0)</td>
-<td style="text-align: right;">4</td>
-<td style="text-align: right;">10</td>
-<td style="text-align: right;">0.40</td>
-<td style="text-align: right;">9</td>
-<td style="text-align: right;">21</td>
-<td style="text-align: right;">0.43</td>
-<td style="text-align: right;">3</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">39</td>
+<td style="text-align: left;">33</td>
 <td style="text-align: left;">Simic</td>
 <td style="text-align: left;">1495.9 (+0)</td>
 <td style="text-align: right;">4</td>
@@ -546,7 +474,7 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <td style="text-align: right;">4</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">40</td>
+<td style="text-align: left;">34</td>
 <td style="text-align: left;">Morkez</td>
 <td style="text-align: left;">1494.62 (+0)</td>
 <td style="text-align: right;">6</td>
@@ -558,7 +486,7 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <td style="text-align: right;">5</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">41</td>
+<td style="text-align: left;">35</td>
 <td style="text-align: left;">Rhunii</td>
 <td style="text-align: left;">1492.37 (+0)</td>
 <td style="text-align: right;">5</td>
@@ -570,19 +498,7 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <td style="text-align: right;">4</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">42</td>
-<td style="text-align: left;">Polon</td>
-<td style="text-align: left;">1486.11 (+0)</td>
-<td style="text-align: right;">5</td>
-<td style="text-align: right;">11</td>
-<td style="text-align: right;">0.45</td>
-<td style="text-align: right;">11</td>
-<td style="text-align: right;">25</td>
-<td style="text-align: right;">0.44</td>
-<td style="text-align: right;">3</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">43</td>
+<td style="text-align: left;">36</td>
 <td style="text-align: left;">Fy</td>
 <td style="text-align: left;">1485.17 (+0)</td>
 <td style="text-align: right;">14</td>
@@ -593,8 +509,8 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <td style="text-align: right;">0.44</td>
 <td style="text-align: right;">9</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">44</td>
+<tr class="odd">
+<td style="text-align: left;">37</td>
 <td style="text-align: left;">Naty</td>
 <td style="text-align: left;">1484.42 (+0)</td>
 <td style="text-align: right;">11</td>
@@ -605,20 +521,8 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <td style="text-align: right;">0.44</td>
 <td style="text-align: right;">7</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">45</td>
-<td style="text-align: left;">LCS</td>
-<td style="text-align: left;">1483.53 (+0)</td>
-<td style="text-align: right;">3</td>
-<td style="text-align: right;">8</td>
-<td style="text-align: right;">0.38</td>
-<td style="text-align: right;">8</td>
-<td style="text-align: right;">20</td>
-<td style="text-align: right;">0.40</td>
-<td style="text-align: right;">3</td>
-</tr>
 <tr class="even">
-<td style="text-align: left;">46</td>
+<td style="text-align: left;">38</td>
 <td style="text-align: left;">Luckstorm</td>
 <td style="text-align: left;">1477.36 (+0)</td>
 <td style="text-align: right;">5</td>
@@ -630,7 +534,7 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <td style="text-align: right;">5</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">47</td>
+<td style="text-align: left;">39</td>
 <td style="text-align: left;">Wright</td>
 <td style="text-align: left;">1476.87 (+0)</td>
 <td style="text-align: right;">5</td>
@@ -642,7 +546,7 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <td style="text-align: right;">4</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">48</td>
+<td style="text-align: left;">40</td>
 <td style="text-align: left;">Rates</td>
 <td style="text-align: left;">1472.94 (+0)</td>
 <td style="text-align: right;">3</td>
@@ -654,7 +558,7 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <td style="text-align: right;">4</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">49</td>
+<td style="text-align: left;">41</td>
 <td style="text-align: left;">Considera</td>
 <td style="text-align: left;">1471.55 (+0)</td>
 <td style="text-align: right;">5</td>
@@ -666,7 +570,7 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <td style="text-align: right;">5</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">50</td>
+<td style="text-align: left;">42</td>
 <td style="text-align: left;">Miguelindo</td>
 <td style="text-align: left;">1470.86 (+0)</td>
 <td style="text-align: right;">6</td>
@@ -676,6 +580,102 @@ Filtrando tournaments &gt; 2 e mostrando os 50 primeiros.
 <td style="text-align: right;">33</td>
 <td style="text-align: right;">0.39</td>
 <td style="text-align: right;">5</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">43</td>
+<td style="text-align: left;">Guizo</td>
+<td style="text-align: left;">1468.99 (+0)</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">0.41</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">37</td>
+<td style="text-align: right;">0.41</td>
+<td style="text-align: right;">5</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">44</td>
+<td style="text-align: left;">Ozzy</td>
+<td style="text-align: left;">1468.71 (+0)</td>
+<td style="text-align: right;">19</td>
+<td style="text-align: right;">49</td>
+<td style="text-align: right;">0.39</td>
+<td style="text-align: right;">46</td>
+<td style="text-align: right;">111</td>
+<td style="text-align: right;">0.41</td>
+<td style="text-align: right;">15</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">45</td>
+<td style="text-align: left;">RoD</td>
+<td style="text-align: left;">1468.68 (+0)</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">30</td>
+<td style="text-align: right;">0.33</td>
+<td style="text-align: right;">26</td>
+<td style="text-align: right;">66</td>
+<td style="text-align: right;">0.39</td>
+<td style="text-align: right;">10</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">46</td>
+<td style="text-align: left;">FR7</td>
+<td style="text-align: left;">1466.83 (+0)</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">43</td>
+<td style="text-align: right;">0.40</td>
+<td style="text-align: right;">39</td>
+<td style="text-align: right;">96</td>
+<td style="text-align: right;">0.41</td>
+<td style="text-align: right;">13</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">47</td>
+<td style="text-align: left;">Lou</td>
+<td style="text-align: left;">1464.37 (+0)</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">0.22</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">0.25</td>
+<td style="text-align: right;">4</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">48</td>
+<td style="text-align: left;">Gim</td>
+<td style="text-align: left;">1462.91 (+0)</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">36</td>
+<td style="text-align: right;">0.39</td>
+<td style="text-align: right;">34</td>
+<td style="text-align: right;">82</td>
+<td style="text-align: right;">0.41</td>
+<td style="text-align: right;">11</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">49</td>
+<td style="text-align: left;">GUCCI</td>
+<td style="text-align: left;">1461.81 (+0)</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">19</td>
+<td style="text-align: right;">0.26</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">44</td>
+<td style="text-align: right;">0.34</td>
+<td style="text-align: right;">7</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">50</td>
+<td style="text-align: left;">DSK</td>
+<td style="text-align: left;">1458.08 (+0)</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">0.20</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">23</td>
+<td style="text-align: right;">0.26</td>
+<td style="text-align: right;">4</td>
 </tr>
 </tbody>
 </table>

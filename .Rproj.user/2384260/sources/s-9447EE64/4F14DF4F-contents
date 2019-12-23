@@ -35,10 +35,10 @@ unique(sets_fixed$tournament)
 ```
 
 ## Preview
-Filtrando tournaments > 2 e mostrando os 50 primeiros.
+Filtrando tournaments > 3 e mostrando os 50 primeiros.
 ```{r, echo = FALSE, warning = FALSE, message = FALSE}
 players %>%
-  filter(tournaments > 2) %>%
+  filter(tournaments > 3) %>%
   mutate(sign = ifelse(var_elo >= 0, "+", "-"),
          var_elo = abs(var_elo),
          elo = paste0(round(elo, 2), " (", sign, round(var_elo, 2), ")")) %>%
