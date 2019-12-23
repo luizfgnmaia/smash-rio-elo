@@ -23,6 +23,8 @@ Ranking baseado em [Elo](https://en.wikipedia.org/wiki/Elo_rating_system) dos pl
 
 + Vitórias do player_1 dada por g1/(g1+g2) em que gi é a quantidade de jogos ganhos pelo player_i no set. Ou seja, ganhar de 2-0 dá mais pontos do que ganhar de 2-1.
 
++ Limite inferior do elo = 1450.
+
 #### DQ
 Partidas que estão contabilizadas como "DQ" no Smash.gg não são contabilizadas.
 

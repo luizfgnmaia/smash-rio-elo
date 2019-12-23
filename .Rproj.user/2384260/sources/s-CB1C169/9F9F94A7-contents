@@ -51,6 +51,9 @@ for (i in 1:ultima_row_penultimo_camp) {
                       elo.B = p2_elo,
                       k = set$k)
   
+  new_elo[1, 1] = ifelse(new_elo[1, 1] < 1450, 1450, new_elo[1, 1])
+  new_elo[1, 2] = ifelse(new_elo[1, 2] < 1450, 1450, new_elo[1, 2])
+  
   p1_new_elo = new_elo[1, 1]
   p2_new_elo = new_elo[1, 2]
   
@@ -74,6 +77,9 @@ for (i in primeira_row_ultimo_camp:nrow(sets)) {
                       elo.A = p1_elo,
                       elo.B = p2_elo,
                       k = set$k)
+  
+  new_elo[1, 1] = ifelse(new_elo[1, 1] < 1450, 1450, new_elo[1, 1])
+  new_elo[1, 2] = ifelse(new_elo[1, 2] < 1450, 1450, new_elo[1, 2])
   
   p1_new_elo = new_elo[1, 1]
   p2_new_elo = new_elo[1, 2]
