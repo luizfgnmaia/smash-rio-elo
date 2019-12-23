@@ -1,219 +1,222 @@
 "player","elo","set_wins","total_sets","set_perc","game_wins","total_games","game_perc","tournaments","list_tournaments","old_elo","var_elo"
-"Luffy",1858.74857012987,63,68,0.926470588235294,163,197,0.82741116751269,11,"Koopa Armada, Smash N' Magic, Smash N' Magic - 2nd Edition, Smash Season Fest: Falling Leaves, Twilight's Awakening, Fight in Rio for the Future, Battle Of Hyrule, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1, Smash n' Magic - 5th Edition, TwS - Forest Temple",1858.74857012987,0
-"RevoS",1743.8624347527,66,87,0.758620689655172,177,262,0.675572519083969,13,"Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic, Smash N' Magic - 2nd Edition, Smash Season Fest: Falling Leaves, Twilight's Awakening, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Try Hard Smash in Rio #1, Smash n' Magic - 5th Edition, Try Hard Smash in Rio #2, TwS - Forest Temple, Try Hard Smash in Rio #3",1724.17641489114,19.6860198615573
-"Ultimate",1683.7585879319,61,92,0.66304347826087,160,269,0.594795539033457,16,"Koopa Armada, Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic, Smash N' Magic - 2nd Edition, Smash Season Fest: Falling Leaves, Twilight's Awakening, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1, Smash n' Magic - 5th Edition, Try Hard Smash in Rio #2, TwS - Forest Temple, Try Hard Smash in Rio #3",1668.11101643514,15.6475714967646
-"LUGIA",1656.76215844483,35,54,0.648148148148148,93,152,0.611842105263158,10,"Smash Season Fest: Smash Heat, Smash N' Magic, Smash Season Fest: Falling Leaves, Twilight's Awakening, Battle Of Hyrule, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1, Smash n' Magic - 5th Edition, TwS - Forest Temple, Smash Heat 2",1656.76215844483,0
-"Sky",1655.60318721999,46,60,0.766666666666667,116,172,0.674418604651163,10,"Koopa Armada, Smash Season Fest: Smash Heat, Smash N' Magic, Smash N' Magic - 2nd Edition, Twilight's Awakening, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 5th Edition, TwS - Forest Temple",1655.60318721999,0
-"Roboto",1646.9667636882,39,56,0.696428571428571,102,155,0.658064516129032,9,"Koopa Armada, Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic, Smash N' Magic - 2nd Edition, Smash Season Fest: Falling Leaves, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Smash n' Magic - 5th Edition",1646.9667636882,0
-"Sosser",1628.15546650901,20,28,0.714285714285714,52,79,0.658227848101266,4,"Koopa Armada, Twilight's Awakening, Battle Of Hyrule, TwS - Forest Temple",1628.15546650901,0
-"BeBop",1621.19479194775,38,59,0.644067796610169,93,154,0.603896103896104,11,"Koopa Armada, Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic, Smash N' Magic - 2nd Edition, Smash Season Fest: Falling Leaves, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Smash n' Magic - 5th Edition",1621.19479194775,0
-"Amortax",1610.0783037279,36,57,0.631578947368421,85,147,0.578231292517007,11,"Smash Season Fest: Smash Heat, Smash Heat 2, Smash Season Fest: Falling Leaves, Twilight's Awakening, Fight in Rio for the Future, Battle Of Hyrule, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1, Smash n' Magic - 5th Edition, Try Hard Smash in Rio #2, TwS - Forest Temple",1610.0783037279,0
-"Sabino",1608.37227669284,38,58,0.655172413793103,88,151,0.582781456953642,10,"Koopa Armada, Smash Season Fest: Smash Heat, Smash Heat 2, Smash Season Fest: Falling Leaves, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Smash n' Magic - 5th Edition, TwS - Forest Temple",1608.37227669284,0
-"Mimok",1601.18446909823,36,55,0.654545454545455,87,151,0.576158940397351,10,"Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic - 2nd Edition, Twilight's Awakening, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1, Try Hard Smash in Rio #2, TwS - Forest Temple",1601.18446909823,0
-"Haxwei",1591.33999790669,32,54,0.592592592592593,76,129,0.589147286821705,11,"Smash Season Fest: Smash Heat, Smash N' Magic, Smash N' Magic - 2nd Edition, Smash Season Fest: Falling Leaves, Twilight's Awakening, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Try Hard Smash in Rio #1, Smash n' Magic - 5th Edition, Try Hard Smash in Rio #2, Try Hard Smash in Rio #3",1581.48481945583,9.8551784508586
-"RitsuoFox",1586.11818795255,17,25,0.68,40,64,0.625,4,"Koopa Armada, Fight in Rio for the Future, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1",1586.11818795255,0
-"Ihmo",1576.79683871471,25,46,0.543478260869565,62,116,0.53448275862069,11,"Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic, Twilight's Awakening, Fight in Rio for the Future, Battle Of Hyrule, Try Hard Smash in Rio #1, Smash n' Magic - 5th Edition, TwS - Forest Temple, Try Hard Smash in Rio #3, Smash Season Fest: Falling Leaves",1559.7471936739,17.0496450408175
-"FireEmblem",1574.47300354984,21,35,0.6,48,88,0.545454545454545,7,"Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Smash n' Magic - 5th Edition, Try Hard Smash in Rio #2, TwS - Forest Temple",1574.47300354984,0
-"Player 7",1574.41981773972,6,8,0.75,17,26,0.653846153846154,1,"Fight in Rio for the Future",1574.41981773972,0
-"Joaoarara",1565.49554456552,27,46,0.58695652173913,60,107,0.560747663551402,10,"Koopa Armada, Smash Season Fest: Smash Heat, Smash N' Magic, Smash N' Magic - 2nd Edition, Twilight's Awakening, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Smash n' Magic - 5th Edition",1565.49554456552,0
-"mysterE",1563.48554883885,16,26,0.615384615384615,41,72,0.569444444444444,5,"Smash N' Magic - 2nd Edition, Twilight's Awakening, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule",1563.48554883885,0
-"Vyse",1557.99010026404,20,36,0.555555555555556,48,85,0.564705882352941,8,"Koopa Armada, Smash Season Fest: Smash Heat, Twilight's Awakening, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1",1557.99010026404,0
-"Abaca",1556.92883049201,8,10,0.8,20,27,0.740740740740741,1,"Koopa Armada",1556.92883049201,0
-"S/Chance",1556.46871072833,25,45,0.555555555555556,61,104,0.586538461538462,10,"Smash Season Fest: Smash Heat, Smash N' Magic, Smash N' Magic - 2nd Edition, Smash Season Fest: Falling Leaves, Twilight's Awakening, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Smash n' Magic - 5th Edition",1556.46871072833,0
-"Chino",1549.05998353453,18,32,0.5625,42,78,0.538461538461538,7,"Smash N' Magic - 2nd Edition, Twilight's Awakening, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #2, Battle Of Hyrule",1549.05998353453,0
-"Afro",1548.54205240468,34,57,0.596491228070175,79,140,0.564285714285714,12,"Koopa Armada, Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic, Smash N' Magic - 2nd Edition, Twilight's Awakening, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Smash n' Magic - 5th Edition, Try Hard Smash in Rio #2",1548.54205240468,0
-"Maleson",1544.53011584891,37,65,0.569230769230769,85,153,0.555555555555556,14,"Koopa Armada, Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic, Smash N' Magic - 2nd Edition, Smash Season Fest: Falling Leaves, Twilight's Awakening, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1, Smash n' Magic - 5th Edition, TwS - Forest Temple",1544.53011584891,0
-"Roc~",1540.48620144756,15,25,0.6,36,65,0.553846153846154,5,"Koopa Armada, Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic - 3rd Edition, Battle Of Hyrule",1540.48620144756,0
-"Floko",1535.14228597351,18,30,0.6,39,72,0.541666666666667,7,"Koopa Armada, Smash N' Magic, Smash N' Magic - 2nd Edition, Fight in Rio for the Future, Battle Of Hyrule, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1",1535.14228597351,0
-"Anhanha",1530.18179395463,4,6,0.666666666666667,10,16,0.625,1,"Try Hard Smash in Rio #2",1530.18179395463,0
-"Jab Air",1529.93937408591,5,7,0.714285714285714,13,20,0.65,1,"Koopa Armada",1529.93937408591,0
-"Cyber Twilight",1528.13967420457,12,20,0.6,27,50,0.54,4,"Koopa Armada, Smash N' Magic, Smash N' Magic - 3rd Edition, Smash n' Magic - 4th Edition",1528.13967420457,0
-"Bent",1527.64763172046,8,12,0.666666666666667,17,29,0.586206896551724,2,"Smash Season Fest: Smash Heat, Smash Heat 2",1527.64763172046,0
-"Djudjo",1527.07830200096,7,11,0.636363636363636,14,24,0.583333333333333,2,"Smash N' Magic - 2nd Edition, Smash n' Magic - 5th Edition",1527.07830200096,0
-"Naval",1525.96840079246,9,15,0.6,21,37,0.567567567567568,3,"Smash Heat 2, Smash N' Magic, Smash Season Fest: Falling Leaves",1525.96840079246,0
-"Chaud",1523.38888297376,4,6,0.666666666666667,8,12,0.666666666666667,1,"Fight in Rio for the Future",1523.38888297376,0
-"DJ",1522.91968615291,9,15,0.6,19,34,0.558823529411765,3,"Smash N' Magic, Smash N' Magic - 3rd Edition, Try Hard Smash in Rio #2",1522.91968615291,0
-"Elias",1521.83129802416,13,23,0.565217391304348,28,54,0.518518518518518,5,"Koopa Armada, Smash Season Fest: Smash Heat, Smash N' Magic - 2nd Edition, Smash Season Fest: Falling Leaves, Fight in Rio for the Future",1521.83129802416,0
-"Janjão",1521.48417125986,4,6,0.666666666666667,9,15,0.6,1,"Fight in Rio for the Future",1521.48417125986,0
-"João Lagoas",1520.47010918876,4,6,0.666666666666667,10,18,0.555555555555556,1,"Smash N' Magic - 2nd Edition",1520.47010918876,0
-"Golfinho",1519.10450897817,5,7,0.714285714285714,10,16,0.625,1,"Smash N' Magic - 2nd Edition",1519.10450897817,0
-"ChaosPrime",1518.2418522242,19,35,0.542857142857143,42,80,0.525,8,"Smash Heat 2, Smash N' Magic, Smash N' Magic - 2nd Edition, Twilight's Awakening, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Smash n' Magic - 5th Edition",1518.2418522242,0
-"Jao",1516.99585251767,4,10,0.4,14,26,0.538461538461538,3,"Smash Season Fest: Smash Heat, Smash n' Magic - 4th Edition, Smash N' Magic - 3rd Edition",1516.99585251767,0
-"Muju",1514.30590159744,2,4,0.5,6,10,0.6,1,"Smash Season Fest: Falling Leaves",1514.30590159744,0
-"LeoDT",1513.81657490978,7,13,0.538461538461538,16,30,0.533333333333333,3,"Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic",1513.81657490978,0
-"FullMoon",1513.49802901263,2,4,0.5,6,10,0.6,1,"Koopa Armada",1513.49802901263,0
-"Ramon",1511.14523407986,3,5,0.6,7,12,0.583333333333333,1,"Smash N' Magic",1511.14523407986,0
-"Jaycee",1510.90262085501,3,5,0.6,6,10,0.6,1,"Fight in Rio for the Future",1510.90262085501,0
-"MiniGoku",1510.1855624341,3,5,0.6,7,12,0.583333333333333,1,"Koopa Armada",1510.1855624341,0
-"Moonflair",1510.16048754249,3,5,0.6,7,12,0.583333333333333,1,"Koopa Armada",1510.16048754249,0
-"Fakinha",1509.72745861309,5,9,0.555555555555556,11,20,0.55,2,"Koopa Armada, Smash Season Fest: Smash Heat",1509.72745861309,0
-"BrianGun",1509.52800814071,3,5,0.6,7,12,0.583333333333333,1,"Koopa Armada",1509.52800814071,0
-"Tuca",1508.49142353488,2,4,0.5,5,9,0.555555555555556,1,"Fight in Rio for the Future",1508.49142353488,0
-"Leso",1506.11033470616,2,4,0.5,5,9,0.555555555555556,1,"Koopa Armada",1506.11033470616,0
-"Prolo",1505.72162945967,2,4,0.5,5,9,0.555555555555556,1,"Koopa Armada",1505.72162945967,0
-"Ace",1505.10045357271,18,38,0.473684210526316,42,84,0.5,10,"Smash Season Fest: Smash Heat, Smash N' Magic, Smash N' Magic - 2nd Edition, Smash Season Fest: Falling Leaves, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Smash n' Magic - 5th Edition, Smash Heat 2",1505.10045357271,0
-"Alonso",1504.97321393013,9,20,0.45,21,43,0.488372093023256,6,"Smash Heat 2, Smash N' Magic, Smash Season Fest: Falling Leaves, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash N' Magic - 2nd Edition",1504.97321393013,0
-"Zord",1504.31274559285,3,5,0.6,6,11,0.545454545454545,1,"Koopa Armada",1504.31274559285,0
-"Minus",1503.8362132442,5,9,0.555555555555556,12,23,0.521739130434783,2,"Smash Season Fest: Smash Heat, Smash n' Magic - 4th Edition",1503.8362132442,0
-"Proliel",1503.81467754325,5,11,0.454545454545455,12,26,0.461538461538462,3,"Fight in Rio for the Future, Smash n' Magic - 5th Edition, Try Hard Smash in Rio #1",1503.81467754325,0
-"BrunoLana",1503.4980320517,1,3,0.333333333333333,4,8,0.5,1,"Koopa Armada",1503.4980320517,0
-"Burtão",1502.82320668986,9,17,0.529411764705882,20,38,0.526315789473684,4,"Koopa Armada, Smash Season Fest: Smash Heat, Smash Heat 2, Try Hard Smash in Rio #2",1502.82320668986,0
-"Sonic Orochi",1500.72958355565,2,4,0.5,4,8,0.5,1,"Koopa Armada",1500.72958355565,0
-"Drutar",1500.64593115784,2,4,0.5,4,8,0.5,1,"Smash N' Magic",1500.64593115784,0
-"JBB",1500.24321718761,7,13,0.538461538461538,15,29,0.517241379310345,3,"Smash N' Magic - 2nd Edition, Twilight's Awakening, Battle Of Hyrule",1500.24321718761,0
-"SKPeter",1500.1092575689,2,4,0.5,4,8,0.5,1,"Koopa Armada",1500.1092575689,0
-"Daftmind",1499.44083164636,2,4,0.5,4,8,0.5,1,"Koopa Armada",1499.44083164636,0
-"Quantumleaper NEO",1499.44082535312,2,4,0.5,4,8,0.5,1,"Koopa Armada",1499.44082535312,0
-"chapeudopresto",1499.36145567035,2,4,0.5,4,8,0.5,1,"Koopa Armada",1499.36145567035,0
-"Nenfz",1498.4573138222,5,9,0.555555555555556,11,22,0.5,2,"Fight in Rio for the Future, Battle Of Hyrule",1498.4573138222,0
-"Chadin",1498.06549944071,2,4,0.5,5,10,0.5,1,"Battle Of Hyrule",1498.06549944071,0
-"Saiduke",1497.82081352731,1,3,0.333333333333333,3,7,0.428571428571429,1,"Smash N' Magic - 2nd Edition",1497.82081352731,0
+"Luffy",1851.46687485592,68,73,0.931506849315068,178,217,0.820276497695853,12,"Koopa Armada, Smash N' Magic, Smash N' Magic - 2nd Edition, Smash Season Fest: Falling Leaves, Twilight's Awakening, Fight in Rio for the Future, Battle Of Hyrule, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1, Smash n' Magic - 5th Edition, TwS - Forest Temple, TORNEIO LEGAL",1854.25110654411,-2.78423168818949
+"RevoS",1734.33483562722,66,87,0.758620689655172,177,262,0.675572519083969,13,"Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic, Smash N' Magic - 2nd Edition, Smash Season Fest: Falling Leaves, Twilight's Awakening, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Try Hard Smash in Rio #1, Smash n' Magic - 5th Edition, Try Hard Smash in Rio #2, TwS - Forest Temple, Try Hard Smash in Rio #3",1734.33483562722,0
+"Sky",1690.42144405448,46,60,0.766666666666667,116,172,0.674418604651163,10,"Koopa Armada, Smash Season Fest: Smash Heat, Smash N' Magic, Smash N' Magic - 2nd Edition, Twilight's Awakening, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 5th Edition, TwS - Forest Temple",1690.42144405448,0
+"LUGIA",1669.54260992096,35,54,0.648148148148148,93,152,0.611842105263158,10,"Smash Season Fest: Smash Heat, Smash N' Magic, Smash Season Fest: Falling Leaves, Twilight's Awakening, Battle Of Hyrule, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1, Smash n' Magic - 5th Edition, TwS - Forest Temple, Smash Heat 2",1669.54260992096,0
+"Ultimate",1663.71424286531,61,92,0.66304347826087,160,269,0.594795539033457,16,"Koopa Armada, Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic, Smash N' Magic - 2nd Edition, Smash Season Fest: Falling Leaves, Twilight's Awakening, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1, Smash n' Magic - 5th Edition, Try Hard Smash in Rio #2, TwS - Forest Temple, Try Hard Smash in Rio #3",1663.71424286531,0
+"Roboto",1662.89930472842,39,56,0.696428571428571,102,155,0.658064516129032,9,"Koopa Armada, Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic, Smash N' Magic - 2nd Edition, Smash Season Fest: Falling Leaves, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Smash n' Magic - 5th Edition",1662.89930472842,0
+"Sosser",1648.23134911336,20,28,0.714285714285714,52,79,0.658227848101266,4,"Koopa Armada, Twilight's Awakening, Battle Of Hyrule, TwS - Forest Temple",1648.23134911336,0
+"BeBop",1639.73303244976,38,59,0.644067796610169,93,154,0.603896103896104,11,"Koopa Armada, Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic, Smash N' Magic - 2nd Edition, Smash Season Fest: Falling Leaves, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Smash n' Magic - 5th Edition",1639.73303244976,0
+"Sabino",1616.05092416686,40,62,0.645161290322581,95,166,0.572289156626506,11,"Koopa Armada, Smash Season Fest: Smash Heat, Smash Heat 2, Smash Season Fest: Falling Leaves, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Smash n' Magic - 5th Edition, TwS - Forest Temple, TORNEIO LEGAL",1618.46767140293,-2.41674723606206
+"Mimok",1615.73861549048,36,55,0.654545454545455,87,151,0.576158940397351,10,"Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic - 2nd Edition, Twilight's Awakening, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1, Try Hard Smash in Rio #2, TwS - Forest Temple",1615.73861549048,0
+"Abaca",1607.89317098771,8,10,0.8,20,27,0.740740740740741,1,"Koopa Armada",1607.89317098771,0
+"Player 7",1602.64639620123,6,8,0.75,17,26,0.653846153846154,1,"Fight in Rio for the Future",1602.64639620123,0
+"RitsuoFox",1602.12937668332,17,25,0.68,40,64,0.625,4,"Koopa Armada, Fight in Rio for the Future, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1",1602.12937668332,0
+"Haxwei",1601.84293287263,36,60,0.6,90,151,0.596026490066225,12,"Smash Season Fest: Smash Heat, Smash N' Magic, Smash N' Magic - 2nd Edition, Smash Season Fest: Falling Leaves, Twilight's Awakening, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Try Hard Smash in Rio #1, Smash n' Magic - 5th Edition, Try Hard Smash in Rio #2, Try Hard Smash in Rio #3, TORNEIO LEGAL",1587.4746580283,14.3682748443312
+"Amortax",1598.72519231358,36,57,0.631578947368421,85,147,0.578231292517007,11,"Smash Season Fest: Smash Heat, Smash Heat 2, Smash Season Fest: Falling Leaves, Twilight's Awakening, Fight in Rio for the Future, Battle Of Hyrule, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1, Smash n' Magic - 5th Edition, Try Hard Smash in Rio #2, TwS - Forest Temple",1598.72519231358,0
+"Joaoarara",1576.37771023257,28,49,0.571428571428571,63,116,0.543103448275862,11,"Koopa Armada, Smash Season Fest: Smash Heat, Smash N' Magic, Smash N' Magic - 2nd Edition, Twilight's Awakening, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Smash n' Magic - 5th Edition, TORNEIO LEGAL",1582.77807805183,-6.40036781925892
+"FireEmblem",1574.03730803343,26,42,0.619047619047619,65,112,0.580357142857143,8,"Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Smash n' Magic - 5th Edition, Try Hard Smash in Rio #2, TwS - Forest Temple, TORNEIO LEGAL",1557.51631476662,16.5209932668083
+"mysterE",1573.9600103345,16,26,0.615384615384615,41,72,0.569444444444444,5,"Smash N' Magic - 2nd Edition, Twilight's Awakening, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule",1573.9600103345,0
+"Ihmo",1570.17975476516,25,46,0.543478260869565,62,116,0.53448275862069,11,"Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic, Twilight's Awakening, Fight in Rio for the Future, Battle Of Hyrule, Try Hard Smash in Rio #1, Smash n' Magic - 5th Edition, TwS - Forest Temple, Try Hard Smash in Rio #3, Smash Season Fest: Falling Leaves",1570.17975476516,0
+"Vyse",1568.57616319469,20,36,0.555555555555556,48,85,0.564705882352941,8,"Koopa Armada, Smash Season Fest: Smash Heat, Twilight's Awakening, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1",1568.57616319469,0
+"S/Chance",1562.86966447897,27,49,0.551020408163265,68,119,0.571428571428571,11,"Smash Season Fest: Smash Heat, Smash N' Magic, Smash N' Magic - 2nd Edition, Smash Season Fest: Falling Leaves, Twilight's Awakening, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Smash n' Magic - 5th Edition, TORNEIO LEGAL",1565.96260240112,-3.09293792215522
+"Afro",1562.09864225184,36,61,0.590163934426229,86,155,0.554838709677419,13,"Koopa Armada, Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic, Smash N' Magic - 2nd Edition, Twilight's Awakening, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Smash n' Magic - 5th Edition, Try Hard Smash in Rio #2, TORNEIO LEGAL",1564.79043843852,-2.69179618668386
+"Jab Air",1561.27744463303,5,7,0.714285714285714,13,20,0.65,1,"Koopa Armada",1561.27744463303,0
+"Maleson",1561.054730481,38,68,0.558823529411765,90,164,0.548780487804878,15,"Koopa Armada, Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic, Smash N' Magic - 2nd Edition, Smash Season Fest: Falling Leaves, Twilight's Awakening, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1, Smash n' Magic - 5th Edition, TwS - Forest Temple, TORNEIO LEGAL",1558.31170878372,2.74302169728094
+"Chino",1550.98040442598,18,32,0.5625,42,78,0.538461538461538,7,"Smash N' Magic - 2nd Edition, Twilight's Awakening, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #2, Battle Of Hyrule",1550.98040442598,0
+"Floko",1548.99384460011,18,30,0.6,39,72,0.541666666666667,7,"Koopa Armada, Smash N' Magic, Smash N' Magic - 2nd Edition, Fight in Rio for the Future, Battle Of Hyrule, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1",1548.99384460011,0
+"Roc~",1546.87589943585,15,25,0.6,36,65,0.553846153846154,5,"Koopa Armada, Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic - 3rd Edition, Battle Of Hyrule",1546.87589943585,0
+"Naval",1538.34154743406,12,20,0.6,31,53,0.584905660377358,4,"Smash Heat 2, Smash N' Magic, Smash Season Fest: Falling Leaves, TORNEIO LEGAL",1524.98815202061,13.3533954134527
+"Cyber Twilight",1535.34478351141,12,20,0.6,27,50,0.54,4,"Koopa Armada, Smash N' Magic, Smash N' Magic - 3rd Edition, Smash n' Magic - 4th Edition",1535.34478351141,0
+"Elias",1534.78892069231,13,23,0.565217391304348,28,54,0.518518518518518,5,"Koopa Armada, Smash Season Fest: Smash Heat, Smash N' Magic - 2nd Edition, Smash Season Fest: Falling Leaves, Fight in Rio for the Future",1534.78892069231,0
+"Chaud",1531.39787587334,4,6,0.666666666666667,8,12,0.666666666666667,1,"Fight in Rio for the Future",1531.39787587334,0
+"DJ",1530.97557313891,9,15,0.6,19,34,0.558823529411765,3,"Smash N' Magic, Smash N' Magic - 3rd Edition, Try Hard Smash in Rio #2",1530.97557313891,0
+"Janjão",1529.52960881046,4,6,0.666666666666667,9,15,0.6,1,"Fight in Rio for the Future",1529.52960881046,0
+"FullMoon",1528.36913677874,2,4,0.5,6,10,0.6,1,"Koopa Armada",1528.36913677874,0
+"Bent",1528.35421254116,8,12,0.666666666666667,17,29,0.586206896551724,2,"Smash Season Fest: Smash Heat, Smash Heat 2",1528.35421254116,0
+"ChaosPrime",1527.84232613744,19,35,0.542857142857143,42,80,0.525,8,"Smash Heat 2, Smash N' Magic, Smash N' Magic - 2nd Edition, Twilight's Awakening, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Smash n' Magic - 5th Edition",1527.84232613744,0
+"Djudjo",1526.72862380043,7,11,0.636363636363636,14,24,0.583333333333333,2,"Smash N' Magic - 2nd Edition, Smash n' Magic - 5th Edition",1526.72862380043,0
+"Burtão",1523.92751389792,9,17,0.529411764705882,20,38,0.526315789473684,4,"Koopa Armada, Smash Season Fest: Smash Heat, Smash Heat 2, Try Hard Smash in Rio #2",1523.92751389792,0
+"João Lagoas",1523.61452138256,4,6,0.666666666666667,10,18,0.555555555555556,1,"Smash N' Magic - 2nd Edition",1523.61452138256,0
+"MiniGoku",1521.6021663938,3,5,0.6,7,12,0.583333333333333,1,"Koopa Armada",1521.6021663938,0
+"Golfinho",1521.58347132971,5,7,0.714285714285714,10,16,0.625,1,"Smash N' Magic - 2nd Edition",1521.58347132971,0
+"Moonflair",1521.39876910218,3,5,0.6,7,12,0.583333333333333,1,"Koopa Armada",1521.39876910218,0
+"Anhanha",1519.0558131198,4,6,0.666666666666667,10,16,0.625,1,"Try Hard Smash in Rio #2",1519.0558131198,0
+"BrianGun",1518.81625624572,3,5,0.6,7,12,0.583333333333333,1,"Koopa Armada",1518.81625624572,0
+"Jao",1518.06389723195,4,10,0.4,14,26,0.538461538461538,3,"Smash Season Fest: Smash Heat, Smash n' Magic - 4th Edition, Smash N' Magic - 3rd Edition",1518.06389723195,0
+"Jaycee",1515.09921484621,3,5,0.6,6,10,0.6,1,"Fight in Rio for the Future",1515.09921484621,0
+"Ramon",1512.90485695939,3,5,0.6,7,12,0.583333333333333,1,"Smash N' Magic",1512.90485695939,0
+"Fakinha",1512.76981794886,5,9,0.555555555555556,11,20,0.55,2,"Koopa Armada, Smash Season Fest: Smash Heat",1512.76981794886,0
+"Tuca",1512.66868822447,2,4,0.5,5,9,0.555555555555556,1,"Fight in Rio for the Future",1512.66868822447,0
+"Proliel",1512.00906100293,6,14,0.428571428571429,17,37,0.459459459459459,4,"Fight in Rio for the Future, Smash n' Magic - 5th Edition, TORNEIO LEGAL, Try Hard Smash in Rio #1",1512.41120948297,-0.402148480041888
+"Leso",1511.56462369115,2,4,0.5,5,9,0.555555555555556,1,"Koopa Armada",1511.56462369115,0
+"Zord",1510.85279649447,3,5,0.6,6,11,0.545454545454545,1,"Koopa Armada",1510.85279649447,0
+"Muju",1510.05225982124,2,4,0.5,6,10,0.6,1,"Smash Season Fest: Falling Leaves",1510.05225982124,0
+"Prolo",1509.85989324637,2,4,0.5,5,9,0.555555555555556,1,"Koopa Armada",1509.85989324637,0
+"Ace",1509.10084522992,19,41,0.463414634146341,45,93,0.483870967741935,11,"Smash Season Fest: Smash Heat, Smash N' Magic, Smash N' Magic - 2nd Edition, Smash Season Fest: Falling Leaves, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Smash n' Magic - 5th Edition, TORNEIO LEGAL, Smash Heat 2",1513.093290979,-3.99244574908084
+"Alonso",1508.45503749397,9,20,0.45,21,43,0.488372093023256,6,"Smash Heat 2, Smash N' Magic, Smash Season Fest: Falling Leaves, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash N' Magic - 2nd Edition",1508.45503749397,0
+"BrunoLana",1507.53592131147,1,3,0.333333333333333,4,8,0.5,1,"Koopa Armada",1507.53592131147,0
+"LeoDT",1505.96333076486,7,13,0.538461538461538,16,30,0.533333333333333,3,"Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic",1505.96333076486,0
+"Minus",1504.57875678057,5,9,0.555555555555556,12,23,0.521739130434783,2,"Smash Season Fest: Smash Heat, Smash n' Magic - 4th Edition",1504.57875678057,0
+"Sonic Orochi",1502.99725328366,2,4,0.5,4,8,0.5,1,"Koopa Armada",1502.99725328366,0
+"Maycky",1502.17475476399,4,8,0.5,9,19,0.473684210526316,2,"Koopa Armada, Smash N' Magic - 2nd Edition",1502.17475476399,0
+"JBB",1501.62856635945,7,13,0.538461538461538,15,29,0.517241379310345,3,"Smash N' Magic - 2nd Edition, Twilight's Awakening, Battle Of Hyrule",1501.62856635945,0
+"Drutar",1500.83841536492,2,4,0.5,4,8,0.5,1,"Smash N' Magic",1500.83841536492,0
+"SKPeter",1500.53182541287,2,4,0.5,4,8,0.5,1,"Koopa Armada",1500.53182541287,0
+"Prime",1498.91338311799,4,8,0.5,8,18,0.444444444444444,2,"Smash Season Fest: Smash Heat, Smash Season Fest: Falling Leaves",1498.91338311799,0
+"Saiduke",1498.79949602333,1,3,0.333333333333333,3,7,0.428571428571429,1,"Smash N' Magic - 2nd Edition",1498.79949602333,0
+"Renata",1498.40277777778,0,1,0,1,3,0.333333333333333,1,"Try Hard Smash in Rio #3",1498.40277777778,0
+"Chadin",1498.07385717121,2,4,0.5,5,10,0.5,1,"Battle Of Hyrule",1498.07385717121,0
+"Nenfz",1498.01361592193,5,9,0.555555555555556,11,22,0.5,2,"Fight in Rio for the Future, Battle Of Hyrule",1498.01361592193,0
+"Daftmind",1497.64943786144,2,4,0.5,4,8,0.5,1,"Koopa Armada",1497.64943786144,0
+"Quantumleaper NEO",1497.64921303501,2,4,0.5,4,8,0.5,1,"Koopa Armada",1497.64921303501,0
+"Dr. Lemos",1497.51415695475,5,11,0.454545454545455,12,27,0.444444444444444,3,"Koopa Armada, Smash Season Fest: Smash Heat, Smash Heat 2",1497.51415695475,0
+"d0pe",1497.47846989566,1,3,0.333333333333333,5,12,0.416666666666667,1,"TORNEIO LEGAL",1500,-2.52153010433699
+"chapeudopresto",1497.38266968474,2,4,0.5,4,8,0.5,1,"Koopa Armada",1497.38266968474,0
+"HeadBenzi",1497.18835396416,4,10,0.4,9,21,0.428571428571429,3,"Smash Season Fest: Smash Heat, Smash Heat 2, Smash Season Fest: Falling Leaves",1497.18835396416,0
+"CebolaTostada",1496.9961029851,1,3,0.333333333333333,3,7,0.428571428571429,1,"TwS - Forest Temple",1496.9961029851,0
+"Firinplinplin",1496.7240951666,2,6,0.333333333333333,5,13,0.384615384615385,2,"Smash N' Magic - 2nd Edition, Twilight's Awakening",1496.7240951666,0
 "Ditro",1496.66666666667,0,1,0,1,3,0.333333333333333,1,"Smash Season Fest: Smash Heat",1496.66666666667,0
-"Renata",1496.66666666667,0,1,0,1,3,0.333333333333333,1,"Try Hard Smash in Rio #3",1500,-3.33333333333326
-"Neoob",1496.66666666667,0,1,0,1,3,0.333333333333333,1,"Koopa Armada",1496.66666666667,0
-"Renault",1496.66666666667,0,1,0,1,3,0.333333333333333,1,"Koopa Armada",1496.66666666667,0
-"Pe de Moleque",1496.66666666667,0,1,0,1,3,0.333333333333333,1,"Koopa Armada",1496.66666666667,0
-"Dr. Lemos",1496.47582129785,5,11,0.454545454545455,12,27,0.444444444444444,3,"Koopa Armada, Smash Season Fest: Smash Heat, Smash Heat 2",1496.47582129785,0
-"Firinplinplin",1495.24202198255,2,6,0.333333333333333,5,13,0.384615384615385,2,"Smash N' Magic - 2nd Edition, Twilight's Awakening",1495.24202198255,0
-"test",1495.16613391668,2,3,0.666666666666667,4,8,0.5,1,"Smash N' Magic - 3rd Edition",1495.16613391668,0
-"Prime",1495.0530315921,4,8,0.5,8,18,0.444444444444444,2,"Smash Season Fest: Smash Heat, Smash Season Fest: Falling Leaves",1495.0530315921,0
-"Lucas Portes",1494.96145012419,1,3,0.333333333333333,2,6,0.333333333333333,1,"Fight in Rio for the Future",1494.96145012419,0
-"Nyer",1494.48570546858,0,2,0,2,6,0.333333333333333,1,"Fight in Rio for the Future",1494.48570546858,0
-"Maycky",1493.40496844612,4,8,0.5,9,19,0.473684210526316,2,"Koopa Armada, Smash N' Magic - 2nd Edition",1493.40496844612,0
-"Dark Fox",1493.38881720181,2,4,0.5,4,9,0.444444444444444,1,"Smash n' Magic - 4th Edition",1493.38881720181,0
-"Dethnerv",1493.33017468815,2,4,0.5,4,9,0.444444444444444,1,"Koopa Armada",1493.33017468815,0
-"Drei",1493.24520729482,2,4,0.5,4,9,0.444444444444444,1,"Koopa Armada",1493.24520729482,0
-"Vallcrist",1492.97625070415,1,3,0.333333333333333,3,8,0.375,1,"Smash N' Magic",1492.97625070415,0
-"Unexpected",1492.93743287875,1,3,0.333333333333333,2,6,0.333333333333333,1,"Smash N' Magic",1492.93743287875,0
-"CebolaTostada",1492.86022466391,1,3,0.333333333333333,3,7,0.428571428571429,1,"TwS - Forest Temple",1492.86022466391,0
-"Alunir",1492.72737635411,1,3,0.333333333333333,2,6,0.333333333333333,1,"Fight in Rio for the Future",1492.72737635411,0
-"Botrek",1491.85407538913,1,3,0.333333333333333,2,6,0.333333333333333,1,"Smash n' Magic - 5th Edition",1491.85407538913,0
-"Tiago Pazos",1491.80898941579,2,4,0.5,4,9,0.444444444444444,1,"Try Hard Smash in Rio #3",1500,-8.19101058421029
-"Atilio",1491.02815754686,2,4,0.5,4,10,0.4,1,"Try Hard Smash in Rio #3",1500,-8.97184245313565
-"SanDiego",1490.99410085881,0,2,0,1,5,0.2,1,"Try Hard Smash in Rio #3",1500,-9.00589914119291
-"Inu",1490.85016685795,2,6,0.333333333333333,5,13,0.384615384615385,2,"Smash N' Magic, Fight in Rio for the Future",1490.85016685795,0
-"Neptune",1490.17830014681,1,3,0.333333333333333,2,6,0.333333333333333,1,"Koopa Armada",1490.17830014681,0
-"Korn",1490.02475935002,1,3,0.333333333333333,2,6,0.333333333333333,1,"Koopa Armada",1490.02475935002,0
-"Danny",1490,0,1,0,0,2,0,1,"Koopa Armada",1490,0
+"Tiago Pazos",1496.33025444079,2,4,0.5,4,9,0.444444444444444,1,"Try Hard Smash in Rio #3",1496.33025444079,0
+"Oops",1496.30494531743,2,6,0.333333333333333,5,13,0.384615384615385,2,"Smash N' Magic - 2nd Edition, Try Hard Smash in Rio #2",1496.30494531743,0
+"Atilio",1495.94490046091,2,4,0.5,4,10,0.4,1,"Try Hard Smash in Rio #3",1495.94490046091,0
+"Simic",1495.89570462995,4,12,0.333333333333333,10,26,0.384615384615385,4,"Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic, Smash N' Magic - 2nd Edition",1495.89570462995,0
+"SanDiego",1495.5713541035,0,2,0,1,5,0.2,1,"Try Hard Smash in Rio #3",1495.5713541035,0
+"Lucas Portes",1494.80733722843,1,3,0.333333333333333,2,6,0.333333333333333,1,"Fight in Rio for the Future",1494.80733722843,0
+"test",1494.66025304941,2,3,0.666666666666667,4,8,0.5,1,"Smash N' Magic - 3rd Edition",1494.66025304941,0
+"Morkez",1494.61578615056,6,16,0.375,16,37,0.432432432432432,5,"Smash N' Magic - 2nd Edition, Smash Season Fest: Falling Leaves, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Try Hard Smash in Rio #1",1494.61578615056,0
+"Unexpected",1494.24277204597,1,3,0.333333333333333,2,6,0.333333333333333,1,"Smash N' Magic",1494.24277204597,0
+"Botrek",1493.42364090813,1,3,0.333333333333333,2,6,0.333333333333333,1,"Smash n' Magic - 5th Edition",1493.42364090813,0
+"Nyer",1493.39199581057,0,2,0,2,6,0.333333333333333,1,"Fight in Rio for the Future",1493.39199581057,0
+"Lucas",1493.27457565884,0,2,0,1,5,0.2,1,"Try Hard Smash in Rio #3",1493.27457565884,0
+"Neoob",1493.05555555556,0,1,0,1,3,0.333333333333333,1,"Koopa Armada",1493.05555555556,0
+"Renault",1493.05555555556,0,1,0,1,3,0.333333333333333,1,"Koopa Armada",1493.05555555556,0
+"Pe de Moleque",1493.05555555556,0,1,0,1,3,0.333333333333333,1,"Koopa Armada",1493.05555555556,0
+"Dark Fox",1492.89999689914,2,4,0.5,4,9,0.444444444444444,1,"Smash n' Magic - 4th Edition",1492.89999689914,0
+"Magonha",1492.74513782193,0,2,0,0,4,0,1,"TwS - Forest Temple",1492.74513782193,0
+"Coringa",1492.71020739591,0,2,0,1,5,0.2,1,"Try Hard Smash in Rio #3",1492.71020739591,0
+"Lance",1492.65119743938,0,2,0,1,5,0.2,1,"Smash Heat 2",1492.65119743938,0
+"Vallcrist",1492.59229125757,1,3,0.333333333333333,3,8,0.375,1,"Smash N' Magic",1492.59229125757,0
+"Rhunii",1492.37119572804,5,13,0.384615384615385,13,29,0.448275862068966,4,"Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Smash n' Magic - 4th Edition, Smash n' Magic - 5th Edition",1492.37119572804,0
+"Gabi18",1491.79197178081,0,2,0,0,6,0,1,"TORNEIO LEGAL",1500,-8.20802821918528
+"jTurolla",1491.3559272603,0,2,0,0,6,0,1,"TORNEIO LEGAL",1500,-8.64407273969573
+"Inu",1491.31128208548,2,6,0.333333333333333,5,13,0.384615384615385,2,"Smash N' Magic, Fight in Rio for the Future",1491.31128208548,0
+"BURRITO",1491.08129202769,0,2,0,0,4,0,1,"TwS - Forest Temple",1491.08129202769,0
+"Alunir",1490.75594643767,1,3,0.333333333333333,2,6,0.333333333333333,1,"Fight in Rio for the Future",1490.75594643767,0
+"Guzasko",1490.67875597009,1,3,0.333333333333333,2,7,0.285714285714286,1,"Try Hard Smash in Rio #3",1490.67875597009,0
+"Menaci",1490.66884116714,0,2,0,0,4,0,1,"TwS - Forest Temple",1490.66884116714,0
 "Dcay",1490,0,1,0,0,2,0,1,"Smash Season Fest: Smash Heat",1490,0
-"Aisengobay",1490,0,1,0,0,2,0,1,"Koopa Armada",1490,0
-"Thiago Neoob",1490,0,1,0,0,2,0,1,"Koopa Armada",1490,0
-"P.Vicious",1489.9968244535,1,3,0.333333333333333,3,8,0.375,1,"Smash N' Magic - 3rd Edition",1489.9968244535,0
-"Kira",1489.97801081993,1,3,0.333333333333333,2,6,0.333333333333333,1,"Smash N' Magic",1489.97801081993,0
-"Messias",1489.8958775989,1,3,0.333333333333333,3,8,0.375,1,"Koopa Armada",1489.8958775989,0
-"Luij",1489.80275349603,1,3,0.333333333333333,2,6,0.333333333333333,1,"Koopa Armada",1489.80275349603,0
-"Rhunii",1489.74941490818,5,13,0.384615384615385,13,29,0.448275862068966,4,"Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Smash n' Magic - 4th Edition, Smash n' Magic - 5th Edition",1489.74941490818,0
-"HeadBenzi",1489.55757510549,4,10,0.4,9,21,0.428571428571429,3,"Smash Season Fest: Smash Heat, Smash Heat 2, Smash Season Fest: Falling Leaves",1489.55757510549,0
-"JackEvil",1489.53367763569,0,1,0,0,2,0,1,"Smash n' Magic - 4th Edition",1489.53367763569,0
-"Fy",1489.52314095569,14,32,0.4375,32,72,0.444444444444444,9,"Smash N' Magic - 2nd Edition, Twilight's Awakening, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Smash n' Magic - 5th Edition, Try Hard Smash in Rio #3, Smash N' Magic, Try Hard Smash in Rio #1",1471.28459091576,18.2385500399287
-"Ryvius",1489.50029952288,1,3,0.333333333333333,2,6,0.333333333333333,1,"Smash N' Magic",1489.50029952288,0
-"Dottori",1489.49418812394,1,3,0.333333333333333,2,6,0.333333333333333,1,"Smash N' Magic",1489.49418812394,0
-"Kai",1488.28737020096,0,1,0,0,2,0,1,"Smash n' Magic - 4th Edition",1488.28737020096,0
-"Lance",1488.13301887289,0,2,0,1,5,0.2,1,"Smash Heat 2",1488.13301887289,0
-"mega",1487.87262649138,1,3,0.333333333333333,2,6,0.333333333333333,1,"Smash n' Magic - 5th Edition",1487.87262649138,0
-"Oops",1487.85497681944,2,6,0.333333333333333,5,13,0.384615384615385,2,"Smash N' Magic - 2nd Edition, Try Hard Smash in Rio #2",1487.85497681944,0
-"Simic",1487.65195063797,4,12,0.333333333333333,10,26,0.384615384615385,4,"Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic, Smash N' Magic - 2nd Edition",1487.65195063797,0
-"RndNess",1487.48108585828,2,6,0.333333333333333,6,15,0.4,2,"Smash Season Fest: Smash Heat, Smash N' Magic",1487.48108585828,0
-"Blaze",1487.21990691865,0,2,0,1,5,0.2,1,"Koopa Armada",1487.21990691865,0
-"KD",1487.14851996212,0,2,0,1,5,0.2,1,"Koopa Armada",1487.14851996212,0
-"Arthunnis",1487.0483318457,0,2,0,1,5,0.2,1,"Smash n' Magic - 4th Edition",1487.0483318457,0
-"Artch",1486.94613508287,0,2,0,1,5,0.2,1,"Koopa Armada",1486.94613508287,0
-"PokaTranca",1486.86128550111,0,2,0,1,5,0.2,1,"Koopa Armada",1486.86128550111,0
-"Frostfire",1486.48308713169,0,2,0,1,5,0.2,1,"Koopa Armada",1486.48308713169,0
-"Vlory",1486.45015688928,0,2,0,1,5,0.2,1,"Smash N' Magic",1486.45015688928,0
-"Lucky Luciano",1486.3983942983,0,2,0,1,5,0.2,1,"Fight in Rio for the Future",1486.3983942983,0
-"Decnop",1486.3491644791,0,2,0,1,5,0.2,1,"Smash N' Magic",1486.3491644791,0
-"Polon",1486.24054302565,5,11,0.454545454545455,11,25,0.44,3,"Smash N' Magic, Smash N' Magic - 2nd Edition, Battle Of Hyrule",1486.24054302565,0
-"Ferrantini",1486.11378183154,0,2,0,1,5,0.2,1,"Fight in Rio for the Future",1486.11378183154,0
-"Shiv",1486.02738412903,0,2,0,1,5,0.2,1,"Smash n' Magic - 4th Edition",1486.02738412903,0
-"Lucas",1485.82047081166,0,2,0,1,5,0.2,1,"Try Hard Smash in Rio #3",1500,-14.1795291883382
-"Taunt",1485.7474357418,0,2,0,1,5,0.2,1,"Smash N' Magic - 3rd Edition",1485.7474357418,0
-"Morkez",1485.65289518817,6,16,0.375,16,37,0.432432432432432,5,"Smash N' Magic - 2nd Edition, Smash Season Fest: Falling Leaves, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Try Hard Smash in Rio #1",1485.65289518817,0
-"LCS",1485.06078274681,3,8,0.375,8,20,0.4,3,"Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition",1485.06078274681,0
-"Professor",1485.03191531003,1,3,0.333333333333333,2,7,0.285714285714286,1,"Smash N' Magic - 3rd Edition",1485.03191531003,0
-"Coringa",1484.84914778331,0,2,0,1,5,0.2,1,"Try Hard Smash in Rio #3",1500,-15.1508522166873
-"diguetake",1484.71607306465,0,2,0,1,5,0.2,1,"Fight in Rio for the Future",1484.71607306465,0
-"Jim",1484.67408902589,0,2,0,0,4,0,1,"Try Hard Smash in Rio #1",1484.67408902589,0
-"Bbrazils",1484.6194357472,1,5,0.2,5,14,0.357142857142857,2,"Smash N' Magic, Smash N' Magic - 2nd Edition",1484.6194357472,0
-"donotc0ntinue",1483.61832017436,1,3,0.333333333333333,2,7,0.285714285714286,1,"Koopa Armada",1483.61832017436,0
-"IzZI127",1483.55497702161,3,7,0.428571428571429,6,15,0.4,2,"Smash N' Magic, Koopa Armada",1483.55497702161,0
-"Thales",1483.24820010364,1,3,0.333333333333333,2,7,0.285714285714286,1,"Koopa Armada",1483.24820010364,0
-"Naty",1483.15601914574,11,25,0.44,24,54,0.444444444444444,7,"Smash Season Fest: Smash Heat, Smash N' Magic, Smash N' Magic - 2nd Edition, Fight in Rio for the Future, Battle Of Hyrule, Smash n' Magic - 5th Edition, Smash n' Magic - 4th Edition",1483.15601914574,0
-"Sandman",1483.05665615745,1,3,0.333333333333333,2,7,0.285714285714286,1,"Smash N' Magic",1483.05665615745,0
-"Considera",1482.21515365036,5,15,0.333333333333333,13,33,0.393939393939394,5,"Smash N' Magic, Fight in Rio for the Future, Battle Of Hyrule, Twilight's Awakening, TwS - Forest Temple",1482.21515365036,0
-"Swiss",1482.07112720358,0,2,0,0,4,0,1,"Fight in Rio for the Future",1482.07112720358,0
-"Magonha",1481.97896481788,0,2,0,0,4,0,1,"TwS - Forest Temple",1481.97896481788,0
-"Mini Vegeta",1481.68621360729,0,2,0,0,4,0,1,"Battle Of Hyrule",1481.68621360729,0
-"Lorenzo",1481.3016749445,0,2,0,0,4,0,1,"Koopa Armada",1481.3016749445,0
-"Samurai do Lamen",1481.08036758755,0,2,0,0,4,0,1,"Smash N' Magic - 3rd Edition",1481.08036758755,0
-"Najjar",1481.07752672234,0,2,0,0,4,0,1,"Battle Of Hyrule",1481.07752672234,0
-"Luma",1480.93853282328,2,6,0.333333333333333,4,12,0.333333333333333,2,"Koopa Armada, Smash Season Fest: Smash Heat",1480.93853282328,0
-"Stiltzkin",1480.90903422171,0,2,0,0,4,0,1,"Fight in Rio for the Future",1480.90903422171,0
-"Guzasko",1480.86713847072,1,3,0.333333333333333,2,7,0.285714285714286,1,"Try Hard Smash in Rio #3",1500,-19.1328615292764
-"Bayo",1480.79146378513,0,2,0,0,4,0,1,"Fight in Rio for the Future",1480.79146378513,0
-"GodUsopp",1480.56408300641,0,2,0,0,4,0,1,"Koopa Armada",1480.56408300641,0
-"Mr. Z",1480.47107437867,0,2,0,0,4,0,1,"Koopa Armada",1480.47107437867,0
-"TROVS",1480.28774368332,0,2,0,0,4,0,1,"Koopa Armada",1480.28774368332,0
-"Celly",1480.2794684162,0,2,0,0,4,0,1,"Koopa Armada",1480.2794684162,0
-"Zombie Hunter",1480.2794684162,0,2,0,0,4,0,1,"Koopa Armada",1480.2794684162,0
-"Mini Roc",1480.2794684162,0,2,0,0,4,0,1,"Koopa Armada",1480.2794684162,0
-"Thurler",1480.23027808112,0,2,0,0,4,0,1,"Smash Season Fest: Smash Heat",1480.23027808112,0
-"Math100",1480.2215250738,0,2,0,0,4,0,1,"Try Hard Smash in Rio #2",1480.2215250738,0
-"Lily",1480.21615179001,0,2,0,0,4,0,1,"Smash N' Magic - 2nd Edition",1480.21615179001,0
-"Patraozin",1480.20013729199,0,2,0,0,4,0,1,"Koopa Armada",1480.20013729199,0
-"Talberon",1480.04792163229,0,2,0,0,4,0,1,"Smash N' Magic - 3rd Edition",1480.04792163229,0
-"Caveira",1480.03046386038,0,2,0,0,4,0,1,"Smash N' Magic - 2nd Edition",1480.03046386038,0
-"Linus",1480.00828192705,0,2,0,0,4,0,1,"Koopa Armada",1480.00828192705,0
-"Calvao",1480.00276132047,0,2,0,0,4,0,1,"Koopa Armada",1480.00276132047,0
-"Kanto",1480,0,2,0,0,4,0,1,"Koopa Armada",1480,0
-"Gotelho",1480,0,2,0,0,4,0,1,"Koopa Armada",1480,0
-"LA FLAMME",1479.54791662939,0,2,0,0,4,0,1,"Battle Of Hyrule",1479.54791662939,0
-"ippo",1479.17348300154,0,2,0,0,4,0,1,"Smash N' Magic",1479.17348300154,0
-"Pova",1479.07912133342,0,2,0,0,4,0,1,"Smash N' Magic - 2nd Edition",1479.07912133342,0
-"Anal_utz",1478.9077569486,0,2,0,0,4,0,1,"Smash N' Magic - 2nd Edition",1478.9077569486,0
-"Axe",1478.8443143827,0,2,0,0,4,0,1,"Smash n' Magic - 5th Edition",1478.8443143827,0
-"FritzThe2",1478.83962359811,0,2,0,0,4,0,1,"Smash N' Magic",1478.83962359811,0
-"kiNg",1478.82537521771,0,2,0,0,4,0,1,"Twilight's Awakening",1478.82537521771,0
-"Thay",1478.52684306143,0,2,0,0,4,0,1,"Try Hard Smash in Rio #2",1478.52684306143,0
-"Nalo",1478.167457489,0,2,0,0,4,0,1,"Try Hard Smash in Rio #3",1500,-21.8325425110049
-"BURRITO",1477.26844985958,0,2,0,0,4,0,1,"TwS - Forest Temple",1477.26844985958,0
-"Menaci",1476.62095396875,0,2,0,0,4,0,1,"TwS - Forest Temple",1476.62095396875,0
-"Miguelindo",1475.82768989836,6,16,0.375,13,33,0.393939393939394,5,"Koopa Armada, Twilight's Awakening, Smash n' Magic - 4th Edition, Fight in Rio for the Future, Try Hard Smash in Rio #1",1475.82768989836,0
-"Ozzy",1475.70723912841,19,49,0.387755102040816,46,111,0.414414414414414,15,"Smash Heat 2, Smash N' Magic, Smash Season Fest: Falling Leaves, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, TwS - Forest Temple, Try Hard Smash in Rio #3, Koopa Armada, Smash Season Fest: Smash Heat, Smash N' Magic - 2nd Edition, Twilight's Awakening, Smash n' Magic - 5th Edition, Try Hard Smash in Rio #2",1466.60433393025,9.10290519816112
-"Steel",1475.61961166932,1,5,0.2,2,10,0.2,2,"Battle Of Hyrule, Smash n' Magic - 4th Edition",1475.61961166932,0
-"Guizo",1474.66816527539,7,17,0.411764705882353,15,37,0.405405405405405,5,"Koopa Armada, Smash N' Magic - 2nd Edition, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Smash n' Magic - 4th Edition",1474.66816527539,0
-"FR7",1473.55294368312,17,43,0.395348837209302,39,96,0.40625,13,"Smash Season Fest: Smash Heat, Smash N' Magic, Smash Season Fest: Falling Leaves, Twilight's Awakening, Fight in Rio for the Future, Battle Of Hyrule, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1, Smash n' Magic - 5th Edition, TwS - Forest Temple, Try Hard Smash in Rio #3, Smash N' Magic - 2nd Edition, Smash N' Magic - 3rd Edition",1455.61787814728,17.9350655358367
-"Luckstorm",1472.39211042487,5,15,0.333333333333333,11,31,0.354838709677419,5,"Smash N' Magic - 2nd Edition, Smash Season Fest: Falling Leaves, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Try Hard Smash in Rio #1",1472.39211042487,0
-"Raphael Vieitas",1472.38116920638,1,4,0.25,2,9,0.222222222222222,2,"Smash N' Magic, Smash N' Magic - 2nd Edition",1472.38116920638,0
-"Monad0",1472.2454559453,1,5,0.2,2,10,0.2,2,"Koopa Armada, Smash Season Fest: Smash Heat",1472.2454559453,0
-"LukeThomaz",1470.66049929492,0,3,0,0,6,0,2,"Fight in Rio for the Future, Koopa Armada",1470.66049929492,0
-"Snek",1469.52065537069,2,8,0.25,6,19,0.315789473684211,3,"Smash N' Magic, Fight in Rio for the Future, Smash N' Magic - 3rd Edition",1469.52065537069,0
-"Gim",1469.50380311082,14,36,0.388888888888889,34,82,0.414634146341463,11,"Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic, Smash N' Magic - 2nd Edition, Twilight's Awakening, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Smash n' Magic - 4th Edition, Koopa Armada, Battle Of Hyrule, Smash n' Magic - 5th Edition",1469.50380311082,0
-"Rates",1469.46217792496,3,11,0.272727272727273,8,25,0.32,4,"Smash Season Fest: Smash Heat, Smash Heat 2, TwS - Forest Temple, Smash Season Fest: Falling Leaves",1469.46217792496,0
-"Wright",1469.07510769459,5,13,0.384615384615385,11,28,0.392857142857143,4,"Smash N' Magic - 2nd Edition, Battle Of Hyrule, TwS - Forest Temple, Try Hard Smash in Rio #3",1469.9466124074,-0.871504712802562
-"Shinomori",1467.92229939149,1,5,0.2,2,11,0.181818181818182,2,"Smash n' Magic - 4th Edition, Smash n' Magic - 5th Edition",1467.92229939149,0
-"Flamon",1467.17395717292,0,4,0,1,9,0.111111111111111,2,"Smash Season Fest: Smash Heat, Smash Season Fest: Falling Leaves",1467.17395717292,0
-"23",1465.4567451713,0,4,0,0,8,0,2,"TwS - Forest Temple, Fight in Rio for the Future",1465.4567451713,0
-"Lou",1464.81504141886,2,9,0.222222222222222,5,20,0.25,4,"Battle Of Hyrule, Smash N' Magic - 3rd Edition, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #3",1467.86117311425,-3.04613169539061
-"Crisiru07",1463.03546860188,0,4,0,1,9,0.111111111111111,2,"Smash n' Magic - 4th Edition, Smash N' Magic - 3rd Edition",1463.03546860188,0
-"JoJo Rama",1461.81255377072,0,4,0,0,8,0,2,"Smash N' Magic, Smash Heat 2",1461.81255377072,0
-"D4C",1460.33063904376,0,4,0,0,8,0,2,"Koopa Armada, Twilight's Awakening",1460.33063904376,0
-"Leow",1458.08240327815,0,4,0,0,8,0,2,"Battle Of Hyrule, Fight in Rio for the Future",1458.08240327815,0
-"LonLon",1457.62522649685,0,4,0,0,8,0,2,"Twilight's Awakening, Battle Of Hyrule",1457.62522649685,0
-"GUCCI",1457.38427948787,5,19,0.263157894736842,15,44,0.340909090909091,7,"Smash N' Magic - 2nd Edition, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #2, Twilight's Awakening",1457.38427948787,0
-"RoD",1456.96347516615,10,30,0.333333333333333,26,66,0.393939393939394,10,"Koopa Armada, Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic, Smash Season Fest: Falling Leaves, Twilight's Awakening, Smash n' Magic - 5th Edition, Try Hard Smash in Rio #2, Try Hard Smash in Rio #3, Smash n' Magic - 4th Edition",1460.34259242259,-3.37911725644267
-"Ren",1453.55212036085,1,7,0.142857142857143,2,14,0.142857142857143,3,"Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition",1453.55212036085,0
-"Pete",1452.95785087393,2,10,0.2,6,23,0.260869565217391,4,"Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic, Koopa Armada",1452.95785087393,0
-"DSK",1452.8444072923,2,10,0.2,6,23,0.260869565217391,4,"Smash Season Fest: Falling Leaves, Battle Of Hyrule, Try Hard Smash in Rio #1, Smash N' Magic - 3rd Edition",1452.8444072923,0
-"Magician",1451.11401700471,2,10,0.2,4,20,0.2,4,"Smash N' Magic, Twilight's Awakening, Battle Of Hyrule, Fight in Rio for the Future",1451.11401700471,0
-"ThiFesta",1450.73390581405,5,19,0.263157894736842,13,42,0.30952380952381,7,"Koopa Armada, Smash Season Fest: Smash Heat, Smash Heat 2, Twilight's Awakening, Try Hard Smash in Rio #1, Try Hard Smash in Rio #3, Try Hard Smash in Rio #2",1442.03589794397,8.69800787008171
-"Arch",1449.10812517553,13,35,0.371428571428571,29,79,0.367088607594937,11,"Smash Season Fest: Smash Heat, Smash N' Magic, Smash Season Fest: Falling Leaves, Twilight's Awakening, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, TwS - Forest Temple, Smash Heat 2, Try Hard Smash in Rio #1, Smash n' Magic - 5th Edition",1449.10812517553,0
-"Anubis570",1448.65169481502,3,13,0.230769230769231,7,28,0.25,5,"Fight in Rio for the Future, Battle Of Hyrule, Twilight's Awakening, Smash n' Magic - 5th Edition, TwS - Forest Temple",1448.65169481502,0
-"Owlogy",1444.06296759061,0,6,0,0,12,0,3,"Koopa Armada, Smash N' Magic, Smash N' Magic - 2nd Edition",1444.06296759061,0
-"Jayache",1443.41890376595,1,9,0.111111111111111,4,20,0.2,4,"Koopa Armada, Fight in Rio for the Future, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1",1443.41890376595,0
-"Strig",1443.12751763743,2,12,0.166666666666667,6,26,0.230769230769231,5,"Twilight's Awakening, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition",1443.12751763743,0
-"Bach",1438.34681219573,1,9,0.111111111111111,3,20,0.15,4,"Smash N' Magic, Smash Season Fest: Falling Leaves, Smash Season Fest: Smash Heat, Smash N' Magic - 2nd Edition",1438.34681219573,0
-"Conker",1429.609094984,1,9,0.111111111111111,2,19,0.105263157894737,4,"Smash N' Magic - 2nd Edition, Smash N' Magic - 3rd Edition, Smash n' Magic - 4th Edition, Smash n' Magic - 5th Edition",1429.609094984,0
-"Dypherius",1423.0118926711,2,14,0.142857142857143,7,32,0.21875,6,"Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1, TwS - Forest Temple, Try Hard Smash in Rio #3, Battle Of Hyrule, Try Hard Smash in Rio #2",1433.58322547303,-10.5713328019303
-"Mick",1415.36123367722,13,39,0.333333333333333,28,84,0.333333333333333,13,"Koopa Armada, Smash N' Magic, Smash N' Magic - 2nd Edition, Twilight's Awakening, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1, Smash n' Magic - 5th Edition, TwS - Forest Temple, Try Hard Smash in Rio #3, Smash Season Fest: Falling Leaves",1418.29921827503,-2.93798459781192
-"Sully",1382.68871314108,10,35,0.285714285714286,22,80,0.275,13,"Koopa Armada, Smash Heat 2, Smash N' Magic - 2nd Edition, Fight in Rio for the Future, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1, Smash n' Magic - 5th Edition, Try Hard Smash in Rio #3, Smash Season Fest: Smash Heat, Smash Season Fest: Falling Leaves, Smash N' Magic - 3rd Edition, Battle Of Hyrule, TwS - Forest Temple",1378.29771461353,4.39099852755089
+"mega",1489.84254431876,1,3,0.333333333333333,2,6,0.333333333333333,1,"Smash n' Magic - 5th Edition",1489.84254431876,0
+"Nalo",1489.6225328902,0,2,0,0,4,0,1,"Try Hard Smash in Rio #3",1489.6225328902,0
+"Jim",1489.46052055473,0,2,0,0,4,0,1,"Try Hard Smash in Rio #1",1489.46052055473,0
+"P.Vicious",1489.29029771217,1,3,0.333333333333333,3,8,0.375,1,"Smash N' Magic - 3rd Edition",1489.29029771217,0
+"Kira",1488.83337259015,1,3,0.333333333333333,2,6,0.333333333333333,1,"Smash N' Magic",1488.83337259015,0
+"Math100",1488.77669415565,0,2,0,0,4,0,1,"Try Hard Smash in Rio #2",1488.77669415565,0
+"RndNess",1488.46112819727,2,6,0.333333333333333,6,15,0.4,2,"Smash Season Fest: Smash Heat, Smash N' Magic",1488.46112819727,0
+"JackEvil",1488.38704519143,0,1,0,0,2,0,1,"Smash n' Magic - 4th Edition",1488.38704519143,0
+"Dottori",1488.23408762357,1,3,0.333333333333333,2,6,0.333333333333333,1,"Smash N' Magic",1488.23408762357,0
+"Ryvius",1488.18423379735,1,3,0.333333333333333,2,6,0.333333333333333,1,"Smash N' Magic",1488.18423379735,0
+"Thay",1487.33378256576,0,2,0,0,4,0,1,"Try Hard Smash in Rio #2",1487.33378256576,0
+"Kai",1486.97290038714,0,1,0,0,2,0,1,"Smash n' Magic - 4th Edition",1486.97290038714,0
+"Polon",1486.11142529829,5,11,0.454545454545455,11,25,0.44,3,"Smash N' Magic, Smash N' Magic - 2nd Edition, Battle Of Hyrule",1486.11142529829,0
+"Dethnerv",1486.07903789697,2,4,0.5,4,9,0.444444444444444,1,"Koopa Armada",1486.07903789697,0
+"Drei",1485.76087183502,2,4,0.5,4,9,0.444444444444444,1,"Koopa Armada",1485.76087183502,0
+"Arthunnis",1485.70746250416,0,2,0,1,5,0.2,1,"Smash n' Magic - 4th Edition",1485.70746250416,0
+"Fy",1485.16749593011,14,32,0.4375,32,72,0.444444444444444,9,"Smash N' Magic - 2nd Edition, Twilight's Awakening, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Smash n' Magic - 5th Edition, Try Hard Smash in Rio #3, Smash N' Magic, Try Hard Smash in Rio #1",1485.16749593011,0
+"IzZI127",1484.76183640623,3,7,0.428571428571429,6,15,0.4,2,"Smash N' Magic, Koopa Armada",1484.76183640623,0
+"Shiv",1484.70777002386,0,2,0,1,5,0.2,1,"Smash n' Magic - 4th Edition",1484.70777002386,0
+"Vlory",1484.44444852636,0,2,0,1,5,0.2,1,"Smash N' Magic",1484.44444852636,0
+"Naty",1484.41916648765,11,25,0.44,24,54,0.444444444444444,7,"Smash Season Fest: Smash Heat, Smash N' Magic, Smash N' Magic - 2nd Edition, Fight in Rio for the Future, Battle Of Hyrule, Smash n' Magic - 5th Edition, Smash n' Magic - 4th Edition",1484.41916648765,0
+"Taunt",1484.37191051878,0,2,0,1,5,0.2,1,"Smash N' Magic - 3rd Edition",1484.37191051878,0
+"Decnop",1484.34700341401,0,2,0,1,5,0.2,1,"Smash N' Magic",1484.34700341401,0
+"Professor",1483.91054859626,1,3,0.333333333333333,2,7,0.285714285714286,1,"Smash N' Magic - 3rd Edition",1483.91054859626,0
+"Bbrazils",1483.82191856781,1,5,0.2,5,14,0.357142857142857,2,"Smash N' Magic, Smash N' Magic - 2nd Edition",1483.82191856781,0
+"LCS",1483.53164479936,3,8,0.375,8,20,0.4,3,"Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition",1483.53164479936,0
+"kiNg",1482.67117562533,0,2,0,0,4,0,1,"Twilight's Awakening",1482.67117562533,0
+"Luma",1482.29244219422,2,6,0.333333333333333,4,12,0.333333333333333,2,"Koopa Armada, Smash Season Fest: Smash Heat",1482.29244219422,0
+"Lucky Luciano",1481.7493539347,0,2,0,1,5,0.2,1,"Fight in Rio for the Future",1481.7493539347,0
+"Axe",1481.30135455455,0,2,0,0,4,0,1,"Smash n' Magic - 5th Edition",1481.30135455455,0
+"Ferrantini",1480.72490588445,0,2,0,1,5,0.2,1,"Fight in Rio for the Future",1480.72490588445,0
+"Thurler",1480.25257721656,0,2,0,0,4,0,1,"Smash Season Fest: Smash Heat",1480.25257721656,0
+"Sandman",1479.9822298512,1,3,0.333333333333333,2,7,0.285714285714286,1,"Smash N' Magic",1479.9822298512,0
+"Neptune",1479.87907239936,1,3,0.333333333333333,2,6,0.333333333333333,1,"Koopa Armada",1479.87907239936,0
+"diguetake",1479.60154345214,0,2,0,1,5,0.2,1,"Fight in Rio for the Future",1479.60154345214,0
+"Korn",1479.38934645656,1,3,0.333333333333333,2,6,0.333333333333333,1,"Koopa Armada",1479.38934645656,0
+"Lily",1479.31855787839,0,2,0,0,4,0,1,"Smash N' Magic - 2nd Edition",1479.31855787839,0
+"Samurai do Lamen",1479.28969990736,0,2,0,0,4,0,1,"Smash N' Magic - 3rd Edition",1479.28969990736,0
+"Caveira",1479.22648038148,0,2,0,0,4,0,1,"Smash N' Magic - 2nd Edition",1479.22648038148,0
+"Danny",1479.16666666667,0,1,0,0,2,0,1,"Koopa Armada",1479.16666666667,0
+"Aisengobay",1479.16666666667,0,1,0,0,2,0,1,"Koopa Armada",1479.16666666667,0
+"Thiago Neoob",1479.16666666667,0,1,0,0,2,0,1,"Koopa Armada",1479.16666666667,0
+"Mini Vegeta",1478.91387150468,0,2,0,0,4,0,1,"Battle Of Hyrule",1478.91387150468,0
+"Messias",1478.67734130347,1,3,0.333333333333333,3,8,0.375,1,"Koopa Armada",1478.67734130347,0
+"Najjar",1478.49043514922,0,2,0,0,4,0,1,"Battle Of Hyrule",1478.49043514922,0
+"Luij",1478.28693559581,1,3,0.333333333333333,2,6,0.333333333333333,1,"Koopa Armada",1478.28693559581,0
+"Talberon",1478.18286711697,0,2,0,0,4,0,1,"Smash N' Magic - 3rd Edition",1478.18286711697,0
+"Anal_utz",1478.05640009568,0,2,0,0,4,0,1,"Smash N' Magic - 2nd Edition",1478.05640009568,0
+"Pova",1477.93190144634,0,2,0,0,4,0,1,"Smash N' Magic - 2nd Edition",1477.93190144634,0
+"Luckstorm",1477.3610816136,5,15,0.333333333333333,11,31,0.354838709677419,5,"Smash N' Magic - 2nd Edition, Smash Season Fest: Falling Leaves, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Try Hard Smash in Rio #1",1477.3610816136,0
+"Wright",1476.86721836647,5,13,0.384615384615385,11,28,0.392857142857143,4,"Smash N' Magic - 2nd Edition, Battle Of Hyrule, TwS - Forest Temple, Try Hard Smash in Rio #3",1476.86721836647,0
+"Swiss",1476.32035316174,0,2,0,0,4,0,1,"Fight in Rio for the Future",1476.32035316174,0
+"LA FLAMME",1476.17570976764,0,2,0,0,4,0,1,"Battle Of Hyrule",1476.17570976764,0
+"ippo",1475.80586553139,0,2,0,0,4,0,1,"Smash N' Magic",1475.80586553139,0
+"Stiltzkin",1475.58237701072,0,2,0,0,4,0,1,"Fight in Rio for the Future",1475.58237701072,0
+"FritzThe2",1475.37242491572,0,2,0,0,4,0,1,"Smash N' Magic",1475.37242491572,0
+"Bayo",1475.13687701384,0,2,0,0,4,0,1,"Fight in Rio for the Future",1475.13687701384,0
+"Blaze",1474.51653634595,0,2,0,1,5,0.2,1,"Koopa Armada",1474.51653634595,0
+"KD",1474.31759515014,0,2,0,1,5,0.2,1,"Koopa Armada",1474.31759515014,0
+"Flamon",1473.8797146753,0,4,0,1,9,0.111111111111111,2,"Smash Season Fest: Smash Heat, Smash Season Fest: Falling Leaves",1473.8797146753,0
+"Artch",1473.39539389033,0,2,0,1,5,0.2,1,"Koopa Armada",1473.39539389033,0
+"Steel",1473.1521017503,1,5,0.2,2,10,0.2,2,"Battle Of Hyrule, Smash n' Magic - 4th Edition",1473.1521017503,0
+"PokaTranca",1473.07952537533,0,2,0,1,5,0.2,1,"Koopa Armada",1473.07952537533,0
+"Rates",1472.94357023356,3,11,0.272727272727273,8,25,0.32,4,"Smash Season Fest: Smash Heat, Smash Heat 2, TwS - Forest Temple, Smash Season Fest: Falling Leaves",1472.94357023356,0
+"Considera",1471.55316231915,5,15,0.333333333333333,13,33,0.393939393939394,5,"Smash N' Magic, Fight in Rio for the Future, Battle Of Hyrule, Twilight's Awakening, TwS - Forest Temple",1471.55316231915,0
+"Frostfire",1471.46455321445,0,2,0,1,5,0.2,1,"Koopa Armada",1471.46455321445,0
+"Miguelindo",1470.86325858748,6,16,0.375,13,33,0.393939393939394,5,"Koopa Armada, Twilight's Awakening, Smash n' Magic - 4th Edition, Fight in Rio for the Future, Try Hard Smash in Rio #1",1470.86325858748,0
+"Shinomori",1469.53185655261,1,5,0.2,2,11,0.181818181818182,2,"Smash n' Magic - 4th Edition, Smash n' Magic - 5th Edition",1469.53185655261,0
+"Raphael Vieitas",1469.51784553522,1,4,0.25,2,9,0.222222222222222,2,"Smash N' Magic, Smash N' Magic - 2nd Edition",1469.51784553522,0
+"Guizo",1468.98590939836,7,17,0.411764705882353,15,37,0.405405405405405,5,"Koopa Armada, Smash N' Magic - 2nd Edition, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Smash n' Magic - 4th Edition",1468.98590939836,0
+"Ozzy",1468.70511396383,19,49,0.387755102040816,46,111,0.414414414414414,15,"Smash Heat 2, Smash N' Magic, Smash Season Fest: Falling Leaves, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, TwS - Forest Temple, Try Hard Smash in Rio #3, Koopa Armada, Smash Season Fest: Smash Heat, Smash N' Magic - 2nd Edition, Twilight's Awakening, Smash n' Magic - 5th Edition, Try Hard Smash in Rio #2",1468.70511396383,0
+"RoD",1468.68373584155,10,30,0.333333333333333,26,66,0.393939393939394,10,"Koopa Armada, Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic, Smash Season Fest: Falling Leaves, Twilight's Awakening, Smash n' Magic - 5th Edition, Try Hard Smash in Rio #2, Try Hard Smash in Rio #3, Smash n' Magic - 4th Edition",1468.68373584155,0
+"23",1468.23246228144,0,4,0,0,8,0,2,"TwS - Forest Temple, Fight in Rio for the Future",1468.23246228144,0
+"FR7",1466.83293579713,17,43,0.395348837209302,39,96,0.40625,13,"Smash Season Fest: Smash Heat, Smash N' Magic, Smash Season Fest: Falling Leaves, Twilight's Awakening, Fight in Rio for the Future, Battle Of Hyrule, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1, Smash n' Magic - 5th Edition, TwS - Forest Temple, Try Hard Smash in Rio #3, Smash N' Magic - 2nd Edition, Smash N' Magic - 3rd Edition",1466.83293579713,0
+"donotc0ntinue",1466.50072055953,1,3,0.333333333333333,2,7,0.285714285714286,1,"Koopa Armada",1466.50072055953,0
+"JoJo Rama",1465.35675477245,0,4,0,0,8,0,2,"Smash N' Magic, Smash Heat 2",1465.35675477245,0
+"Snek",1465.13536493809,2,8,0.25,6,19,0.315789473684211,3,"Smash N' Magic, Fight in Rio for the Future, Smash N' Magic - 3rd Edition",1465.13536493809,0
+"Thales",1464.95671969106,1,3,0.333333333333333,2,7,0.285714285714286,1,"Koopa Armada",1464.95671969106,0
+"Lou",1464.36550211545,2,9,0.222222222222222,5,20,0.25,4,"Battle Of Hyrule, Smash N' Magic - 3rd Edition, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #3",1464.36550211545,0
+"Lorenzo",1463.76968767757,0,2,0,0,4,0,1,"Koopa Armada",1463.76968767757,0
+"Monad0",1463.64575436578,1,5,0.2,2,10,0.2,2,"Koopa Armada, Smash Season Fest: Smash Heat",1463.64575436578,0
+"Gim",1462.91446807751,14,36,0.388888888888889,34,82,0.414634146341463,11,"Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic, Smash N' Magic - 2nd Edition, Twilight's Awakening, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Smash n' Magic - 4th Edition, Koopa Armada, Battle Of Hyrule, Smash n' Magic - 5th Edition",1462.91446807751,0
+"GUCCI",1461.8135501662,5,19,0.263157894736842,15,44,0.340909090909091,7,"Smash N' Magic - 2nd Edition, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #2, Twilight's Awakening",1461.8135501662,0
+"GodUsopp",1460.72294255448,0,2,0,0,4,0,1,"Koopa Armada",1460.72294255448,0
+"Mr. Z",1460.33438106133,0,2,0,0,4,0,1,"Koopa Armada",1460.33438106133,0
+"TROVS",1459.58107060919,0,2,0,0,4,0,1,"Koopa Armada",1459.58107060919,0
+"Celly",1459.50650500144,0,2,0,0,4,0,1,"Koopa Armada",1459.50650500144,0
+"Zombie Hunter",1459.50650500144,0,2,0,0,4,0,1,"Koopa Armada",1459.50650500144,0
+"Mini Roc",1459.50650500144,0,2,0,0,4,0,1,"Koopa Armada",1459.50650500144,0
+"Patraozin",1459.24039935548,0,2,0,0,4,0,1,"Koopa Armada",1459.24039935548,0
+"Crisiru07",1459.09506784798,0,4,0,1,9,0.111111111111111,2,"Smash n' Magic - 4th Edition, Smash N' Magic - 3rd Edition",1459.09506784798,0
+"Linus",1458.40815127344,0,2,0,0,4,0,1,"Koopa Armada",1458.40815127344,0
+"Calvao",1458.35829930074,0,2,0,0,4,0,1,"Koopa Armada",1458.35829930074,0
+"Kanto",1458.33333333333,0,2,0,0,4,0,1,"Koopa Armada",1458.33333333333,0
+"Gotelho",1458.33333333333,0,2,0,0,4,0,1,"Koopa Armada",1458.33333333333,0
+"DSK",1458.0797345371,2,10,0.2,6,23,0.260869565217391,4,"Smash Season Fest: Falling Leaves, Battle Of Hyrule, Try Hard Smash in Rio #1, Smash N' Magic - 3rd Edition",1458.0797345371,0
+"LonLon",1457.45704192456,0,4,0,0,8,0,2,"Twilight's Awakening, Battle Of Hyrule",1457.45704192456,0
+"Anubis570",1454.97069923611,3,13,0.230769230769231,7,28,0.25,5,"Fight in Rio for the Future, Battle Of Hyrule, Twilight's Awakening, Smash n' Magic - 5th Edition, TwS - Forest Temple",1454.97069923611,0
+"LukeThomaz",1454.25326497353,0,3,0,0,6,0,2,"Fight in Rio for the Future, Koopa Armada",1454.25326497353,0
+"Arch",1453.88872643474,13,35,0.371428571428571,29,79,0.367088607594937,11,"Smash Season Fest: Smash Heat, Smash N' Magic, Smash Season Fest: Falling Leaves, Twilight's Awakening, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, TwS - Forest Temple, Smash Heat 2, Try Hard Smash in Rio #1, Smash n' Magic - 5th Edition",1453.88872643474,0
+"Ren",1448.95098881969,1,7,0.142857142857143,2,14,0.142857142857143,3,"Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition",1448.95098881969,0
+"Leow",1447.77145053223,0,4,0,0,8,0,2,"Battle Of Hyrule, Fight in Rio for the Future",1447.77145053223,0
+"Magician",1444.37662132302,2,10,0.2,4,20,0.2,4,"Smash N' Magic, Twilight's Awakening, Battle Of Hyrule, Fight in Rio for the Future",1444.37662132302,0
+"D4C",1444.31562981983,0,4,0,0,8,0,2,"Koopa Armada, Twilight's Awakening",1444.31562981983,0
+"Bach",1443.90413822598,1,9,0.111111111111111,3,20,0.15,4,"Smash N' Magic, Smash Season Fest: Falling Leaves, Smash Season Fest: Smash Heat, Smash N' Magic - 2nd Edition",1443.90413822598,0
+"Pete",1443.85913698173,2,12,0.166666666666667,7,30,0.233333333333333,5,"Smash Season Fest: Smash Heat, Smash Heat 2, Smash N' Magic, TORNEIO LEGAL, Koopa Armada",1449.69051605891,-5.83137907718287
+"Dypherius",1441.40666647805,2,14,0.142857142857143,7,32,0.21875,6,"Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1, TwS - Forest Temple, Try Hard Smash in Rio #3, Battle Of Hyrule, Try Hard Smash in Rio #2",1441.40666647805,0
+"ThiFesta",1441.19018303527,5,19,0.263157894736842,13,42,0.30952380952381,7,"Koopa Armada, Smash Season Fest: Smash Heat, Smash Heat 2, Twilight's Awakening, Try Hard Smash in Rio #1, Try Hard Smash in Rio #3, Try Hard Smash in Rio #2",1441.19018303527,0
+"Strig",1440.83025707837,2,12,0.166666666666667,6,26,0.230769230769231,5,"Twilight's Awakening, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition",1440.83025707837,0
+"Jayache",1428.65447052393,1,9,0.111111111111111,4,20,0.2,4,"Koopa Armada, Fight in Rio for the Future, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1",1428.65447052393,0
+"Conker",1427.69114550341,1,9,0.111111111111111,2,19,0.105263157894737,4,"Smash N' Magic - 2nd Edition, Smash N' Magic - 3rd Edition, Smash n' Magic - 4th Edition, Smash n' Magic - 5th Edition",1427.69114550341,0
+"Owlogy",1422.01567306205,0,6,0,0,12,0,3,"Koopa Armada, Smash N' Magic, Smash N' Magic - 2nd Edition",1422.01567306205,0
+"Mick",1410.61649002619,13,39,0.333333333333333,28,84,0.333333333333333,13,"Koopa Armada, Smash N' Magic, Smash N' Magic - 2nd Edition, Twilight's Awakening, Fight in Rio for the Future, Smash N' Magic - 3rd Edition, Battle Of Hyrule, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1, Smash n' Magic - 5th Edition, TwS - Forest Temple, Try Hard Smash in Rio #3, Smash Season Fest: Falling Leaves",1410.61649002619,0
+"Sully",1383.17597282643,10,35,0.285714285714286,22,80,0.275,13,"Koopa Armada, Smash Heat 2, Smash N' Magic - 2nd Edition, Fight in Rio for the Future, Smash n' Magic - 4th Edition, Try Hard Smash in Rio #1, Smash n' Magic - 5th Edition, Try Hard Smash in Rio #3, Smash Season Fest: Smash Heat, Smash Season Fest: Falling Leaves, Smash N' Magic - 3rd Edition, Battle Of Hyrule, TwS - Forest Temple",1383.17597282643,0

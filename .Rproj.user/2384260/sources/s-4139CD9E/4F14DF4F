@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1566400020065.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2274217550",
+    "id" : "4F14DF4F",
+    "lastKnownWriteTime" : 1577114467,
+    "last_content_update" : 1577114467871,
+    "path" : "~/GitHub/smash-rio-elo/README.Rmd",
+    "project_path" : "README.Rmd",
+    "properties" : {
+        "cursorPosition" : "21,152",
+        "scrollLine" : "17"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
