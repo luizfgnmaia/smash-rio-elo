@@ -14,7 +14,8 @@ campeonatos que estão no [Smash.gg](https://smash.gg/).
 
 -   **Atualizado** k = 20 \* B para bo3 e k = 30 \* B para bo5 em que B
     é dado por participants/48 onde participants é o número de
-    participantes do torneio;
+    participantes do torneio. Ferramenta para testes:
+    <a href="https://luizfgnm.shinyapps.io/shinyelo/" class="uri">https://luizfgnm.shinyapps.io/shinyelo/</a>;
 
 -   Vitórias do player\_1 dada por g1/(g1+g2) em que gi é a quantidade
     de jogos ganhos pelo player\_i no set. Ou seja, ganhar de 2-0 dá

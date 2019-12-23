@@ -1,0 +1,28 @@
+
+library(dplyr)
+library(polycor)
+
+dados = foreign::read.spss("TS_ESCOLA_COMPLETO_2.sav", to.data.frame = TRUE)
+
+tmp = dados[,60:127] %>%
+  apply(1, function(x) sum(is.na(x)) > 0)
+ind_missings = which(tmp == TRUE)
+
+#########
+
+cor_escola = dados[ind_missings, 60:127] %>%
+  mutate_all(as.factor) %>%
+  hetcor(use = "pairwise.complete.obs")
+
+save(cor_escola, file = "cor_escola.RData")
+
+#########
+
+load("hotdeck_escola_3.RData")
+
+cor_hd_escola_3 = hotdeck_escola_3[ind_missings, 9:76] %>%
+  as.data.frame() %>%
+  mutate_all(as.factor) %>%
+  hetcor()
+
+save(cor_hd_escola_3, file = "cor_hd_escola_3.RData")
