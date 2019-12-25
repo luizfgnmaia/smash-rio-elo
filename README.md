@@ -6,22 +6,24 @@ FAQ
 Ranking baseado em
 [Elo](https://en.wikipedia.org/wiki/Elo_rating_system) dos players de
 Smash Ultimate do Rio de Janeiro utilizando os resultados dos
-campeonatos que estão no [Smash.gg](https://smash.gg/).
+campeonatos que estão no [Smash.gg](https://smash.gg/) com o intuito de
+auxiliar no seeding dos campeonatos.
 
 #### Parâmetros do elo
 
--   Rating inicial=1500;
+-   Rating inicial = 1500;
 
--   **Atualizado** k = 20 \* B para bo3 e k = 30 \* B para bo5 em que B
+-   **Atualizado** k = 20 \* P para bo3 e k = 30 \* P para bo5 em que P
     é dado por participants/48 onde participants é o número de
-    participantes do torneio. Ferramenta para testes:
-    <https://luizfgnm.shinyapps.io/shinyelo/>;
+    participantes do torneio.
+    <a href="https://luizfgnm.shinyapps.io/shinyelo/">Ferramenta para
+    testes</a>;
 
 -   Vitórias do player\_1 dada por g1/(g1+g2) em que gi é a quantidade
     de jogos ganhos pelo player\_i no set. Ou seja, ganhar de 2-0 dá
     mais pontos do que ganhar de 2-1.
 
--   Limite inferior do elo = 1450.
+-   **Novo** Limite inferior do elo = 1450.
 
 #### DQ
 
@@ -690,9 +692,3 @@ Filtrando tournaments &gt; 3 e mostrando os 50 primeiros.
 </tr>
 </tbody>
 </table>
-
-To do
------
-
--   Avaliar outros métodos de considerar a pontuação da vitória e seus
-    impactos;
