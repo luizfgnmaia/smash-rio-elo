@@ -255,7 +255,7 @@
 "ChaosPrime",1,"Pete",2,1550939187,"Smash Heat 2",2
 "Amortax",2,"Alonso",0,1550939257,"Smash Heat 2",2
 "Maleson",2,"Lance",0,1550939653,"Smash Heat 2",2
-"Ihmo",2,"JoJo Rama",0,1550939805,"Smash Heat 2",2
+"Ihmo",2,"Jojorama",0,1550939805,"Smash Heat 2",2
 "ThiFesta",0,"Rates",2,1550939829,"Smash Heat 2",2
 "Afro",1,"LUGIA",2,1550940318,"Smash Heat 2",2
 "Roboto",2,"HeadBenzi",0,1550940363,"Smash Heat 2",2
@@ -268,7 +268,7 @@
 "Ultimate",0,"Amortax",2,1550942211,"Smash Heat 2",2
 "Pete",0,"Ozzy",2,1550942391,"Smash Heat 2",2
 "ChaosPrime",2,"RoD",1,1550942411,"Smash Heat 2",2
-"Burtão",2,"JoJo Rama",0,1550942489,"Smash Heat 2",2
+"Burtão",2,"Jojorama",0,1550942489,"Smash Heat 2",2
 "HeadBenzi",2,"Ace",0,1550943344,"Smash Heat 2",2
 "Maleson",0,"Mimok",2,1550943496,"Smash Heat 2",2
 "BeBop",2,"Rates",0,1550943591,"Smash Heat 2",2
@@ -323,7 +323,7 @@
 "S/Chance",2,"IzZI127",0,1552835636,"Smash N' Magic",2
 "Sky",2,"Unexpected",0,1552836079,"Smash N' Magic",2
 "Luffy",2,"DJ",0,1552836092,"Smash N' Magic",2
-"JoJo Rama",0,"Dottori",2,1552836176,"Smash N' Magic",2
+"Jojorama",0,"Dottori",2,1552836176,"Smash N' Magic",2
 "Magician",0,"Ace",2,1552836220,"Smash N' Magic",2
 "Bach",1,"Ihmo",2,1552836262,"Smash N' Magic",2
 "Decnop",0,"Naty",2,1552836313,"Smash N' Magic",2
@@ -332,7 +332,7 @@
 "S/Chance",0,"Haxwei",2,1552836874,"Smash N' Magic",2
 "Afro",2,"ChaosPrime",0,1552836923,"Smash N' Magic",2
 "Magician",0,"Ryvius",2,1552836966,"Smash N' Magic",2
-"JoJo Rama",0,"Kira",2,1552836981,"Smash N' Magic",2
+"Jojorama",0,"Kira",2,1552836981,"Smash N' Magic",2
 "Floko",2,"Gim",0,1552837162,"Smash N' Magic",2
 "RevoS",2,"Maleson",0,1552837267,"Smash N' Magic",2
 "IzZI127",0,"Ramon",2,1552837328,"Smash N' Magic",2
@@ -1366,3 +1366,65 @@
 "Haxwei",3,"FireEmblem",1,1578267119,"Try Hard Smash in Rio #4",3
 "Ihmo",1,"Haxwei",3,1578268483,"Try Hard Smash in Rio #4",3
 "RevoS",3,"Haxwei",0,1578269610,"Try Hard Smash in Rio #4",3
+"D4C",0,"Gim",2,1580056365,"Set Fire 3",2
+"FR7",2,"RoD",0,1580056809,"Set Fire 3",2
+"BeBop",2,"Jojorama",0,1580056827,"Set Fire 3",2
+"Afro",2,"Ozzy",0,1580057117,"Set Fire 3",2
+"RevoS",2,"LCS",0,1580057125,"Set Fire 3",2
+"Vyse",2,"Mick",0,1580057237,"Set Fire 3",2
+"Maleson",2,"PROGETO",0,1580057496,"Set Fire 3",2
+"Haxwei",1,"Arch",2,1580057724,"Set Fire 3",2
+"Proliel",2,"Sully",0,1580057873,"Set Fire 3",2
+"Ihmo",2,"Miguelindo",1,1580058210,"Set Fire 3",2
+"Mimok",2,"Windfall",0,1580058245,"Set Fire 3",2
+"Roboto",2,"Kage",0,1580058525,"Set Fire 3",2
+"Sabino",2,"Wright",0,1580058639,"Set Fire 3",2
+"S/Chance",1,"Fy",2,1580058896,"Set Fire 3",2
+"FireEmblem",2,"Ace",1,1580059236,"Set Fire 3",2
+"LCS",0,"PROGETO",2,1580059280,"Set Fire 3",2
+"Ozzy",1,"Jojorama",2,1580059334,"Set Fire 3",2
+"RevoS",2,"Maleson",0,1580059666,"Set Fire 3",2
+"Luffy",2,"Gim",0,1580059779,"Set Fire 3",2
+"Sully",0,"Haxwei",2,1580059987,"Set Fire 3",2
+"BeBop",2,"Afro",0,1580060534,"Set Fire 3",2
+"Arch",2,"Proliel",0,1580060579,"Set Fire 3",2
+"Joaoarara",1,"Ihmo",2,1580060611,"Set Fire 3",2
+"Roboto",2,"Vyse",1,1580060621,"Set Fire 3",2
+"Sabino",2,"Fy",0,1580060716,"Set Fire 3",2
+"Ace",2,"Windfall",0,1580060841,"Set Fire 3",2
+"S/Chance",2,"D4C",0,1580061379,"Set Fire 3",2
+"RoD",0,"Gim",2,1580061436,"Set Fire 3",2
+"Kage",0,"Mick",2,1580061481,"Set Fire 3",2
+"RevoS",2,"Ihmo",0,1580061632,"Set Fire 3",2
+"Maleson",0,"Ace",2,1580061658,"Set Fire 3",2
+"Vyse",2,"Miguelindo",0,1580062091,"Set Fire 3",2
+"Arch",0,"Sabino",2,1580062317,"Set Fire 3",2
+"Fy",2,"Jojorama",1,1580062337,"Set Fire 3",2
+"FireEmblem",2,"Mimok",0,1580062517,"Set Fire 3",2
+"Luffy",2,"FR7",0,1580062767,"Set Fire 3",2
+"S/Chance",2,"Wright",1,1580062783,"Set Fire 3",2
+"Joaoarara",2,"Mick",0,1580062815,"Set Fire 3",2
+"Afro",2,"S/Chance",0,1580063541,"Set Fire 3",2
+"Proliel",2,"Gim",1,1580063557,"Set Fire 3",2
+"Luffy",2,"BeBop",1,1580063579,"Set Fire 3",2
+"Roboto",0,"FireEmblem",2,1580063653,"Set Fire 3",2
+"Mimok",2,"PROGETO",1,1580063679,"Set Fire 3",2
+"Joaoarara",2,"Ace",1,1580063926,"Set Fire 3",2
+"FR7",0,"Haxwei",2,1580064025,"Set Fire 3",2
+"Mimok",2,"Vyse",1,1580064659,"Set Fire 3",2
+"Fy",2,"Proliel",1,1580064867,"Set Fire 3",2
+"Afro",0,"Haxwei",2,1580065682,"Set Fire 3",2
+"Roboto",3,"Joaoarara",1,1580065741,"Set Fire 3",3
+"BeBop",3,"Fy",0,1580066742,"Set Fire 3",3
+"Ihmo",2,"Mimok",3,1580067022,"Set Fire 3",3
+"Arch",2,"Haxwei",3,1580068264,"Set Fire 3",3
+"Luffy",3,"Sabino",2,1580072005,"Set Fire 3",3
+"Mimok",3,"Roboto",2,1580072036,"Set Fire 3",3
+"BeBop",3,"Haxwei",2,1580074618,"Set Fire 3",3
+"RevoS",3,"FireEmblem",0,1580074643,"Set Fire 3",3
+"Sabino",3,"Mimok",0,1580075917,"Set Fire 3",3
+"FireEmblem",3,"BeBop",0,1580079424,"Set Fire 3",3
+"FireEmblem",1,"Sabino",3,1580079463,"Set Fire 3",3
+"Luffy",3,"RevoS",1,1580079517,"Set Fire 3",3
+"RevoS",3,"Sabino",1,1580080701,"Set Fire 3",3
+"Luffy",3,"RevoS",1,1580085211,"Set Fire 3",3
