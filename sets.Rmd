@@ -112,7 +112,9 @@ sets_fixed = sets_fixed %>%
   fix_tag("OOPS", "Oops") %>%
   fix_tag("Firinplinplin", "FireEmblem") %>%
   fix_tag("JoJo Rama", "Jojorama") %>%
-  fix_tag("DanielLopes", "Luffy")
+  fix_tag("DanielLopes", "Luffy") %>%
+  fix_tag("Math100", "Mathe100") %>%
+  fix_tag("L | Taunt", "Taunt")
 ```
 
 ```{r}
