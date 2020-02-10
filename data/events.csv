@@ -1,21 +1,22 @@
-tournament;event_id;participants
-Koopa Armada;245904;100
-Smash Season Fest: Smash Heat;288437;48
-Smash Heat 2;318427;32
-Smash N' Magic;318392;55
-Smash N' Magic - 2nd Edition;341657;50
-Smash Season Fest: Falling Leaves;352971;32
-Twilight's Awakening;360966;40
-Fight in Rio for the Future;362434;64
-Smash N' Magic - 3rd Edition;366309;53
-Battle Of Hyrule;380798;56
-Smash n' Magic - 4th Edition;386097;53
-Try Hard Smash in Rio #1;410897;34
-Smash n' Magic - 5th Edition;402932;42
-Try Hard Smash in Rio #2;421404;28
-TwS - Forest Temple;417653;19
-Try Hard Smash in Rio #3;424548;23
-TORNEIO LEGAL;428082;16
-Try Hard Smash in Rio #4;432809;29
-Set Fire 3;430976;33
-TwS - Fire Temple;426879;36
+tournament;event_id;participants;weekly
+Koopa Armada;245904;100;0
+Smash Season Fest: Smash Heat;288437;48;0
+Smash Heat 2;318427;32;0
+Smash N' Magic;318392;55;0
+Smash N' Magic - 2nd Edition;341657;50;0
+Smash Season Fest: Falling Leaves;352971;32;0
+Twilight's Awakening;360966;40;0
+Fight in Rio for the Future;362434;64;0
+Smash N' Magic - 3rd Edition;366309;53;0
+Battle Of Hyrule;380798;56;0
+Smash n' Magic - 4th Edition;386097;53;0
+Try Hard Smash in Rio #1;410897;26;1
+Smash n' Magic - 5th Edition;402932;42;0
+Try Hard Smash in Rio #2;421404;19;1
+TwS - Forest Temple;417653;19;0
+Try Hard Smash in Rio #3;424548;22;1
+TORNEIO LEGAL;428082;15;0
+Try Hard Smash in Rio #4;432809;25;1
+Set Fire 3;430976;33;0
+TwS - Fire Temple;426879;36;0
+Try Hard Smash in Rio #5;442471;31;1
