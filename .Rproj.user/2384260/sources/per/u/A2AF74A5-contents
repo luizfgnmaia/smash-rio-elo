@@ -1,0 +1,27 @@
+library(dplyr)
+
+inscritos = c("Roboto", "Afro", "Anubis570", "jao", "RoD", "Considera", "DaftMind", "DSK",
+              "Lou", "BeBop", "Maleson", "GUCCI", "LCS", "Windfall", "iMel", "Taunt",
+              "Luckstorm", "Magonha", "Mathe100", "Mimok", "mono", "Morkez", "Thailomba",
+              "Peteka", "PROGETO", "Ren", "Rates", "RitsuoFox", "DJ", "FireEmblem",
+              "Fy", "Haxwei", "Ozzy", "Sully", "Ace", "Arch", "Luffy", "Gim", "Jaoweijao",
+              "Joaoarara", "Naval", "S/Chance", "Sabino", "Shivan", "Chino", "Sorteio",
+              "Dypherius", "FR7", "Mick", "Wright", "Prime", "Ultimate", "Amortax",
+              "Ihmo", "RevoS", "Sky")
+
+load("data/players.RData")
+
+top = players %>%
+  filter(player %in% inscritos) %>%
+  arrange(desc(elo)) %>%
+  head(16) %>%
+  .$player %>%
+  as.character()
+
+set.seed(1)
+bottom = setdiff(inscritos, top) %>%
+  sample()
+  
+seed = c(top, bottom)
+
+for(i in seed) print(i)

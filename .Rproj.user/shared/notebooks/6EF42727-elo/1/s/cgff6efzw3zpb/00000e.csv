@@ -1,0 +1,6 @@
+"0","sets = sets_fixed %>%"
+"0","  inner_join(events, by = ""tournament"") %>%"
+"0","  mutate(result = score1/(score1 + score2),"
+"0","         k = first_to * 10 * participants/24)"
+"0",""
+"0","sets"
