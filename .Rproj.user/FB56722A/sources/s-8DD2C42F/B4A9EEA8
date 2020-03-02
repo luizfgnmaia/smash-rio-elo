@@ -5,7 +5,7 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2961126662",
+    "hash" : "0",
     "id" : "B4A9EEA8",
     "lastKnownWriteTime" : 1583121888,
     "last_content_update" : 1583121888046,
@@ -13,8 +13,8 @@
     "project_path" : "eda.Rmd",
     "properties" : {
         "chunk_output_type" : "inline",
-        "cursorPosition" : "19,42",
-        "scrollLine" : "0",
+        "cursorPosition" : "34,23",
+        "scrollLine" : "20",
         "tempName" : "Untitled1"
     },
     "relative_order" : 3,

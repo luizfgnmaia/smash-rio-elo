@@ -5,7 +5,7 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "4034186031",
+    "hash" : "0",
     "id" : "A4D5A961",
     "lastKnownWriteTime" : 1583121889,
     "last_content_update" : 1583121889658,
@@ -13,8 +13,8 @@
     "project_path" : "elo.Rmd",
     "properties" : {
         "chunk_output_type" : "inline",
-        "cursorPosition" : "18,37",
-        "scrollLine" : "0",
+        "cursorPosition" : "21,0",
+        "scrollLine" : "5",
         "tempName" : "Untitled1"
     },
     "relative_order" : 2,

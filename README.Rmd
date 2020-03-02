@@ -8,7 +8,8 @@ library(dplyr)
 library(knitr)
 
 load("data/players.RData")
-load("data/sets_fixed.RData")
+load("data/participants.RData")
+events = read.csv("data/events.csv", header = TRUE, sep = ";", stringsAsFactors = FALSE)
 ```
 
 ## FAQ
@@ -33,7 +34,11 @@ Podem existir players que trocaram de tag e/ou conta do smash.gg e estão com en
 
 #### Campeonatos utilizados
 ```{r, echo = FALSE}
-unique(sets_fixed$tournament)
+events = events %>%
+  inner_join(participants) %>%
+  select(-event_id)
+
+kable(events, format = "markdown")
 ```
 
 ## Preview
