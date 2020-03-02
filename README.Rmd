@@ -35,7 +35,7 @@ Podem existir players que trocaram de tag e/ou conta do smash.gg e estão com en
 #### Campeonatos utilizados
 ```{r, echo = FALSE}
 events = events %>%
-  inner_join(participants) %>%
+  inner_join(participants, by = "tournament") %>%
   select(-event_id)
 
 kable(events, format = "markdown")

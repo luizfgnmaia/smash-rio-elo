@@ -38,8 +38,6 @@ avisem que eu conserto.
 
 #### Campeonatos utilizados
 
-    ## Joining, by = "tournament"
-
 <table>
 <thead>
 <tr class="header">

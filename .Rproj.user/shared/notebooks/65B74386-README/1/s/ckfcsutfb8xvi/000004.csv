@@ -1,6 +1,0 @@
-"0","events = events %>%"
-"0","  inner_join(participants) %>%"
-"0","  select(-event_id)"
-"2","Joining, by = c(""tournament"", ""participants"")
-"
-"0","kable(events, format = ""markdown"")"
