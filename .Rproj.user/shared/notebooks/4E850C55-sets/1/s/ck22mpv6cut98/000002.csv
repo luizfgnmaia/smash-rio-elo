@@ -1,0 +1,7 @@
+"0","tournaments = unique(sets_fixed$tournament)"
+"0","part = NULL"
+"0","for(i in 1:length(tournaments)) {"
+"0","  s = sets_fixed %>%"
+"0","    filter(tournament == tournaments[i])"
+"0","  part[i] = length(unique(c(s$p1, s$p2)))"
+"0","}"

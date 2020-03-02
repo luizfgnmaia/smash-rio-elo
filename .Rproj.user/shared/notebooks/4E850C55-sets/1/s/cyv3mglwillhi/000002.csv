@@ -1,0 +1,2 @@
+"0","participants = tibble(tournament = tournaments, participants = part)"
+"0","save(participants, file = ""data/participants.RData"")"
