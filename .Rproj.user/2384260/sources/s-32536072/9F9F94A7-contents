@@ -11,10 +11,11 @@ library(elo)
 
 load("data/sets_fixed.RData")
 load("data/participants.RData")
-events = read.csv("data/events.csv", header = TRUE, sep = ";", stringsAsFactors = FALSE) 
+events = read.csv("data/events.csv", header = TRUE, sep = ";", stringsAsFactors = FALSE) %>%
+  filter(date > stringr::str_replace(Sys.Date(), "2020", "2019"))
 ```
 
-Valor inicial do elo: 1500, parâmetro k é 20 $\times$ participants/24 para bo3 e 30 $\times$ participants/48 para bo5, resultado é dado por score1/(score1 + score2).
+Valor inicial do elo: 1500, parâmetro k é 20 $\times$ participants/32 para bo3 e 30 $\times$ participants/32 para bo5, resultado é dado por score1/(score1 + score2).
 
 Peso dos weeklies é metade do normal.
 
@@ -28,7 +29,7 @@ events = events %>%
 sets = sets_fixed %>%
   inner_join(events, by = "tournament") %>%
   mutate(result = score1/(score1 + score2),
-         k = first_to * 10 * participants/24)
+         k = first_to * 10 * participants/32)
 
 sets
 ```
@@ -46,8 +47,8 @@ players
 
 Calculando até o penúltimo campeonato
 ```{r}
-last = unique(sets$tournament)[length(unique(sets_fixed$tournament))] # último campeonato
-primeira_row_ultimo_camp = which(sets_fixed$tournament == last)[1]
+last = unique(sets$tournament)[length(unique(sets$tournament))] # último campeonato
+primeira_row_ultimo_camp = which(sets$tournament == last)[1]
 ultima_row_penultimo_camp = primeira_row_ultimo_camp - 1
 
 for (i in 1:ultima_row_penultimo_camp) {
@@ -61,8 +62,8 @@ for (i in 1:ultima_row_penultimo_camp) {
                       elo.B = p2_elo,
                       k = set$k)
   
-  new_elo[1, 1] = ifelse(new_elo[1, 1] < 1420, 1420, new_elo[1, 1])
-  new_elo[1, 2] = ifelse(new_elo[1, 2] < 1420, 1420, new_elo[1, 2])
+  new_elo[1, 1] = ifelse(new_elo[1, 1] < 1450, 1450, new_elo[1, 1])
+  new_elo[1, 2] = ifelse(new_elo[1, 2] < 1450, 1450, new_elo[1, 2])
   
   p1_new_elo = new_elo[1, 1]
   p2_new_elo = new_elo[1, 2]
@@ -88,8 +89,8 @@ for (i in primeira_row_ultimo_camp:nrow(sets)) {
                       elo.B = p2_elo,
                       k = set$k)
   
-  new_elo[1, 1] = ifelse(new_elo[1, 1] < 1420, 1420, new_elo[1, 1])
-  new_elo[1, 2] = ifelse(new_elo[1, 2] < 1420, 1420, new_elo[1, 2])
+  new_elo[1, 1] = ifelse(new_elo[1, 1] < 1450, 1450, new_elo[1, 1])
+  new_elo[1, 2] = ifelse(new_elo[1, 2] < 1450, 1450, new_elo[1, 2])
   
   p1_new_elo = new_elo[1, 1]
   p2_new_elo = new_elo[1, 2]

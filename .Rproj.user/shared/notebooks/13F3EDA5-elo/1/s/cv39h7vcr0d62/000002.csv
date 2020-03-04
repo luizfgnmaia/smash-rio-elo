@@ -1,0 +1,5 @@
+"0","events = events %>%"
+"0","  inner_join(participants) %>%"
+"0","  mutate(participants = participants*(1-0.5*weekly))"
+"2","Joining, by = ""tournament""
+"

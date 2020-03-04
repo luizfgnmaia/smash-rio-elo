@@ -1,0 +1,6 @@
+"0","events = events %>%
+  inner_join(participants, by = ""tournament"") %>%
+  select(-event_id)
+"
+"2","Error in eval(lhs, parent, parent) : object 'events' not found
+"
