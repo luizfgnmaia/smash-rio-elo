@@ -3,4 +3,4 @@
 "0",""
 "0","load(""data/sets_fixed.RData"")"
 "0","load(""data/participants.RData"")"
-"0","events = read.csv(""data/events.csv"", header = TRUE, sep = "";"", stringsAsFactors = FALSE) "
+"0","events = read.csv(""data/events.csv"", header = TRUE, sep = "";"", stringsAsFactors = FALSE)"

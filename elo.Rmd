@@ -11,7 +11,7 @@ library(elo)
 
 load("data/sets_fixed.RData")
 load("data/participants.RData")
-events = read.csv("data/events.csv", header = TRUE, sep = ";", stringsAsFactors = FALSE)
+events = read.csv("data/events.csv", header = TRUE, sep = ";", stringsAsFactors = FALSE) 
 ```
 
 Valor inicial do elo: 1500, parâmetro k é 20 $\times$ participants/24 para bo3 e 30 $\times$ participants/48 para bo5, resultado é dado por score1/(score1 + score2).
