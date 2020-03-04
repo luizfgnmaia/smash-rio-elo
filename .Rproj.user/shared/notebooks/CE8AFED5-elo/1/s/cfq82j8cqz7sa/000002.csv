@@ -1,3 +1,0 @@
-"0","players = players %>%"
-"0","  arrange(desc(elo))"
-"0","players"

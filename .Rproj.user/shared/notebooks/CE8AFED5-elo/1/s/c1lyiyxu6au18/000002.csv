@@ -1,7 +1,0 @@
-"0","players_old = players_old %>%"
-"0","  rename(old_elo = elo)"
-"0","players = players %>%"
-"0","  full_join(players_old) %>%"
-"0","  mutate(var_elo = elo - old_elo)"
-"2","Joining, by = ""player""
-"
