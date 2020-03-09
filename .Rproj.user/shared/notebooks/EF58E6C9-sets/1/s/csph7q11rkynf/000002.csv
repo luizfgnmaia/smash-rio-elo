@@ -1,0 +1,3 @@
+"0","sets_raw = list.files(""data/tournaments"") %>%"
+"0","  lapply(json_to_df) %>%"
+"0","  do.call(rbind, .)"

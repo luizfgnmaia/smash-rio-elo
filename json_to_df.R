@@ -11,15 +11,13 @@ json_to_df <- function(folder) {
       fromJSON()
     tmp = json$data$event$sets$nodes
     for(i in 1:length(tmp)) {
-      if(!is.null(tmp[[i]]$entrant1Score) & !is.null(tmp[[i]]$entrant2Score)) {
+      if(!is.null(tmp[[i]]$slots[[1]]$standing$stats$score$value) & !is.null(tmp[[i]]$slots[[2]]$standing$stats$score$value)) {
         sets = sets %>%
           rbind(tibble(
-            p1 = tmp[[i]]$slots[[1]]$entrant$participants[[1]]$gamerTag,
-            id1 = tmp[[i]]$slots[[1]]$entrant$participants[[1]]$playerId,
-            score1 = tmp[[i]]$entrant1Score,
-            p2 = tmp[[i]]$slots[[2]]$entrant$participants[[1]]$gamerTag,
-            id2 = tmp[[i]]$slots[[2]]$entrant$participants[[1]]$playerId,
-            score2 = tmp[[i]]$entrant2Score,
+            p1 = tmp[[i]]$slots[[1]]$standing$entrant$participants[[1]]$gamerTag,
+            score1 = tmp[[i]]$slots[[1]]$standing$stats$score$value,
+            p2 = tmp[[i]]$slots[[2]]$standing$entrant$participants[[1]]$gamerTag,
+            score2 = tmp[[i]]$slots[[2]]$standing$stats$score$value,
             completed = tmp[[i]]$completedAt))
       }
     }
