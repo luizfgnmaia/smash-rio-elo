@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583722684241.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "888552693",
+    "id" : "BA43BB0E",
+    "lastKnownWriteTime" : 1584897453,
+    "last_content_update" : 1584897453447,
+    "path" : "~/GitHub/smash-rio-elo/eda.Rmd",
+    "project_path" : "eda.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "45,3",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
